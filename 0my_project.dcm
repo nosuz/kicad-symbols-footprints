@@ -1,6 +1,6 @@
 EESchema-DOCLIB  Version 2.0
 #
-$CMP ESP32-S32-WROOM-1
+$CMP ESP32-S3-WROOM-1
 D ESP32-S3 module
 K ESP32-S3, Wi-Fi, Bluetooth, USB
 F https://www.mouser.jp/datasheet/2/891/Espressif_ESP32_S3_WROOM_1_1U_Preliminary-2530171.pdf
