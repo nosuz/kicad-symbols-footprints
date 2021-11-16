@@ -6,4 +6,25 @@ K ESP32-S3, Wi-Fi, Bluetooth, USB
 F https://www.mouser.jp/datasheet/2/891/Espressif_ESP32_S3_WROOM_1_1U_Preliminary-2530171.pdf
 $ENDCMP
 #
+$CMP SH4x
+D Relative Humidity and Temperature Sensor
+K humidity, temperature
+F https://www.sensirion.com/fileadmin/user_upload/customers/sensirion/Dokumente/2_Humidity_Sensors/Datasheets/Sensirion_Humidity_Sensors_SHT4x_Datasheet.pdf
+$ENDCMP
+#
+$CMP SHT40
+D Relative Humidity and Temperature Sensor, base RH&T accur.
+K humidity, temperature
+$ENDCMP
+#
+$CMP SHT41
+D Relative Humidity and Temperature Sensor, Intermed. RH&T accur
+K humidity, temperature
+$ENDCMP
+#
+$CMP SHT45
+D Relative Humidity and Temperature Sensor, ±1.5 %RH, ±0.1°C accur
+K humidity, temperature
+$ENDCMP
+#
 #End Doc Library
