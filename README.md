@@ -12,6 +12,7 @@ git submodule https://github.com/nosuz/kicad-symbols-footprints.git nosuz-lib
 
 ## Component symbols and footprints
 
-| Component        | Description     | aliases | footprint        |
-| ---------------- | --------------- | ------- | ---------------- |
-| ESP32-S3-WROOM-1 | ESP32-S3 module |         | ESP32-S3-WROOM-1 |
+| Component        | Description         | aliases | footprint        |
+| ---------------- | ------------------- | ------- | ---------------- |
+| ESP32-S3-WROOM-1 | ESP32-S3 module     |         | ESP32-S3-WROOM-1 |
+|                  | AAx4 Battery Folder |         | BH-341-2P        |
