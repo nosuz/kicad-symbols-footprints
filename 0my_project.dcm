@@ -27,4 +27,8 @@ D Relative Humidity and Temperature Sensor, ±1.5 %RH, ±0.1°C accur
 K humidity, temperature
 $ENDCMP
 #
+$CMP TouchPad
+D Touch Sensor Pad
+$ENDCMP
+#
 #End Doc Library
