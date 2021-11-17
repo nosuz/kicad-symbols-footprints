@@ -6,6 +6,36 @@ K ESP32-S3, Wi-Fi, Bluetooth, USB
 F https://www.mouser.jp/datasheet/2/891/Espressif_ESP32_S3_WROOM_1_1U_Preliminary-2530171.pdf
 $ENDCMP
 #
+$CMP NJU7223DL1-18
+D Linear Regulator
+F https://akizukidenshi.com/download/ds/njr/NJU7223_j.pdf
+$ENDCMP
+#
+$CMP NJU7223DL1-25
+D Linear Regulator
+F https://akizukidenshi.com/download/ds/njr/NJU7223_j.pdf
+$ENDCMP
+#
+$CMP NJU7223DL1-30
+D Linear Regulator
+F https://akizukidenshi.com/download/ds/njr/NJU7223_j.pdf
+$ENDCMP
+#
+$CMP NJU7223DL1-33
+D Linear Regulator
+F https://akizukidenshi.com/download/ds/njr/NJU7223_j.pdf
+$ENDCMP
+#
+$CMP NJU7223DL1-50
+D Linear Regulator
+F https://akizukidenshi.com/download/ds/njr/NJU7223_j.pdf
+$ENDCMP
+#
+$CMP NJU7223DL1-xx
+D Linear Regulator
+F https://akizukidenshi.com/download/ds/njr/NJU7223_j.pdf
+$ENDCMP
+#
 $CMP SH4x
 D Relative Humidity and Temperature Sensor
 K humidity, temperature

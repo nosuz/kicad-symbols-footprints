@@ -12,10 +12,11 @@ git submodule https://github.com/nosuz/kicad-symbols-footprints.git nosuz-lib
 
 ## Component symbols and footprints
 
-| Symbol           | Description                               | aliases             | footprint        |
-| ---------------- | ----------------------------------------- | ------------------- | ---------------- |
-| ESP32-S3-WROOM-1 | ESP32-S3 module                           |                     | ESP32-S3-WROOM-1 |
-|                  | AAx4 Battery Folder                       |                     | BH-341-2P        |
-| SHT4x            | Relative Humidity and Temperature Sensor  | SHT40, SHT41, SHT45 | SHT4x            |
-| TouchPad         | Capacitance touch sensor (**Not tested**) |                     | Touch-Pad_10mm   |
-|                  | ESP32 module                              |                     | ESP32-WROOM-32E  |
+| Symbol           | Description                               | aliases                                                                   | footprint        |
+| ---------------- | ----------------------------------------- | ------------------------------------------------------------------------- | ---------------- |
+| ESP32-S3-WROOM-1 | ESP32-S3 module                           |                                                                           | ESP32-S3-WROOM-1 |
+|                  | AAx4 Battery Folder                       |                                                                           | BH-341-2P        |
+| SHT4x            | Relative Humidity and Temperature Sensor  | SHT40, SHT41, SHT45                                                       | SHT4x            |
+| TouchPad         | Capacitance touch sensor (**Not tested**) |                                                                           | Touch-Pad_10mm   |
+|                  | ESP32 module                              |                                                                           | ESP32-WROOM-32E  |
+| NJU7223DL1-xx    | Linear regulator                          | NJU7223DL1-18, NJU7223DL1-25, NJU7223DL1-30, NJU7223DL1-33, NJU7223DL1-50 | TO-252-3-L1      |
