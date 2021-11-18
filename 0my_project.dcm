@@ -1,9 +1,56 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP 5077CR-16SMC2-BK-TR
+D USB Type-C Female connector
+F https://akizukidenshi.com/download/ds/akizuki/5077CR-16-SMC2-BK-TR.pdf
+$ENDCMP
+#
+$CMP ESP32-C3-WROOM-02
+D Wi-Fi and Bluetooth module, RISC-V
+K Wi-Fi Bluetooth
+F https://www.espressif.com/sites/default/files/documentation/esp32-c3-wroom-02_datasheet_en.pdf
+$ENDCMP
+#
 $CMP ESP32-S3-WROOM-1
 D ESP32-S3 module
 K ESP32-S3, Wi-Fi, Bluetooth, USB
 F https://www.mouser.jp/datasheet/2/891/Espressif_ESP32_S3_WROOM_1_1U_Preliminary-2530171.pdf
+$ENDCMP
+#
+$CMP ESP32-WROOM-32E
+D RF Module, ESP32-D0WDQ6 SoC, Wi-Fi 802.11b/g/n, Bluetooth, BLE, 32-bit, 2.7-3.6V, SMD
+K RF Radio BT ESP ESP32 Espressif
+F https://www.espressif.com/sites/default/files/documentation/esp32-wroom-32e_esp32-wroom-32ue_datasheet_en.pdf
+$ENDCMP
+#
+$CMP FT231XS
+D USB to serail UART
+K USB, UART, Serial, SSOP
+F http://www.ftdichip.com/Support/Documents/DataSheets/ICs/DS_FT231X.pdf
+$ENDCMP
+#
+$CMP IRLML6402
+D Pch MOS-FET
+F http://www.irf.com/product-info/datasheets/data/irlml6402pbf.pdf
+$ENDCMP
+#
+$CMP IS-2235-G
+F https://akizukidenshi.com/download/ds/switronic/IS-2235-G_20191212.pdf
+$ENDCMP
+#
+$CMP Logo_image
+D Bitmap image
+$ENDCMP
+#
+$CMP NJM2845DL1
+D Low Dropout Voltage Regulator
+K voltage regulator
+F http://akizukidenshi.com/download/ds/jrc/NJM2845.pdf
+$ENDCMP
+#
+$CMP NJM2845DL1-33
+D Low Dropout voltage regulator, 3.3V
+K voltage regulator, low dropout, 3.3V
 $ENDCMP
 #
 $CMP NJU7223DL1-18
@@ -36,6 +83,18 @@ D Linear Regulator
 F https://akizukidenshi.com/download/ds/njr/NJU7223_j.pdf
 $ENDCMP
 #
+$CMP OSTG1608
+D LED
+K LED, 1608
+F https://akizukidenshi.com/download/ds/optosupply/OSXX1608C1A_ver_a_10.pdf
+$ENDCMP
+#
+$CMP OSxx1608
+D LED
+K LED, 1608
+F https://akizukidenshi.com/download/ds/optosupply/OSXX1608C1A_ver_a_10.pdf
+$ENDCMP
+#
 $CMP SH4x
 D Relative Humidity and Temperature Sensor
 K humidity, temperature
@@ -57,8 +116,36 @@ D Relative Humidity and Temperature Sensor, ±1.5 %RH, ±0.1°C accur
 K humidity, temperature
 $ENDCMP
 #
+$CMP SLIDE_SWITCH_2x2
+D slide switch, 2x2 6P
+$ENDCMP
+#
+$CMP TS-06104
+D Tactile switch
+K push switch
+F https://akizukidenshi.com/download/ds/jinbeili/TS-06104.pdf
+$ENDCMP
+#
+$CMP Tactile_Switch_4P
+D Tactile switch
+K push switch
+$ENDCMP
+#
 $CMP TouchPad
 D Touch Sensor Pad
+$ENDCMP
+#
+$CMP USB-micro-B
+D USB Micro B connector
+K USB Micro B, USB
+$ENDCMP
+#
+$CMP USB_Type-C
+D USB Type-C Female connector
+$ENDCMP
+#
+$CMP ZX62R-B-5P
+F https://akizukidenshi.com/download/ds/hirose/zx62.pdf
 $ENDCMP
 #
 #End Doc Library
