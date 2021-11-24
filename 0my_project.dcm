@@ -116,6 +116,18 @@ D Relative Humidity and Temperature Sensor, ±1.5 %RH, ±0.1°C accur
 K humidity, temperature
 $ENDCMP
 #
+$CMP SKRPABE010
+D Tactile switch 1.57N
+K push switch
+F https://tech.alpsalpine.com/prod/j/html/tact/surfacemount/skrp/skrpabe010.html
+$ENDCMP
+#
+$CMP SKRPACE010
+D Tactile switch 2.55N
+K push switch
+F https://tech.alpsalpine.com/prod/j/html/tact/surfacemount/skrp/skrpabe010.html
+$ENDCMP
+#
 $CMP SLIDE_SWITCH_2x2
 D slide switch, 2x2 6P
 $ENDCMP
