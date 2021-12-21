@@ -35,3 +35,4 @@ git submodule https://github.com/nosuz/kicad-symbols-footprints.git nosuz-lib
 |                   | capacitor                                |                                                                           | C_2012               |
 |                   | capacitor                                |                                                                           | C_2012_Large         |
 |                   | register                                 |                                                                           | R_1608               |
+| ADT7410           | I2C Temperature Sensor                   |                                                                           | SOIC_N-8             |

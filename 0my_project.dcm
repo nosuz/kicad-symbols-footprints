@@ -5,6 +5,12 @@ D USB Type-C Female connector
 F https://akizukidenshi.com/download/ds/akizuki/5077CR-16-SMC2-BK-TR.pdf
 $ENDCMP
 #
+$CMP ADT7410
+D I2C Temperature Sensor
+K I2C,  themo sensor
+F https://www.analog.com/media/en/technical-documentation/data-sheets/ADT7410.pdf
+$ENDCMP
+#
 $CMP ESP32-C3-WROOM-02
 D Wi-Fi and Bluetooth module, RISC-V
 K Wi-Fi Bluetooth
