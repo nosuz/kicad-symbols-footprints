@@ -38,3 +38,4 @@ git submodule https://github.com/nosuz/kicad-symbols-footprints.git nosuz-lib
 | ADT7410           | I2C Temperature Sensor                   |                                                                           | SOIC_N-8             |
 | ADT7310           | SPI Temperature Sensor                   |                                                                           | SOIC_N-8             |
 | SHTC3             | I2C Temperature Sensor                   |                                                                           | SHTC3                |
+|                   | XH terminal post 2P                      |                                                                           | B2B-XH-A             |
