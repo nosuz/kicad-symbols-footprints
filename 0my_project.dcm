@@ -128,6 +128,12 @@ D Relative Humidity and Temperature Sensor, ±1.5 %RH, ±0.1°C accur
 K humidity, temperature
 $ENDCMP
 #
+$CMP SHTC3
+D I2C Humidity and Temperature Sensor
+K I2C, Humidity, Temperature
+F https://www.sensirion.com/fileadmin/user_upload/customers/sensirion/Dokumente/2_Humidity_Sensors/Datasheets/Sensirion_Humidity_Sensors_SHTC3_Datasheet.pdf
+$ENDCMP
+#
 $CMP SKRPABE010
 D Tactile switch 1.57N
 K push switch

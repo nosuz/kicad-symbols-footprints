@@ -37,3 +37,4 @@ git submodule https://github.com/nosuz/kicad-symbols-footprints.git nosuz-lib
 |                   | register                                 |                                                                           | R_1608               |
 | ADT7410           | I2C Temperature Sensor                   |                                                                           | SOIC_N-8             |
 | ADT7310           | SPI Temperature Sensor                   |                                                                           | SOIC_N-8             |
+| SHTC3             | I2C Temperature Sensor                   |                                                                           | SHTC3                |
