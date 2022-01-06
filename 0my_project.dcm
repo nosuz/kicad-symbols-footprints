@@ -5,6 +5,18 @@ D USB Type-C Female connector
 F https://akizukidenshi.com/download/ds/akizuki/5077CR-16-SMC2-BK-TR.pdf
 $ENDCMP
 #
+$CMP ADT7310
+D SPI Temperature Sensor
+K SPI,  themo sensor
+F https://www.analog.com/media/en/technical-documentation/data-sheets/ADT7310.pdf
+$ENDCMP
+#
+$CMP ADT7410
+D I2C Temperature Sensor
+K I2C,  themo sensor
+F https://www.analog.com/media/en/technical-documentation/data-sheets/ADT7410.pdf
+$ENDCMP
+#
 $CMP ESP32-C3-WROOM-02
 D Wi-Fi and Bluetooth module, RISC-V
 K Wi-Fi Bluetooth
@@ -114,6 +126,12 @@ $ENDCMP
 $CMP SHT45
 D Relative Humidity and Temperature Sensor, ±1.5 %RH, ±0.1°C accur
 K humidity, temperature
+$ENDCMP
+#
+$CMP SHTC3
+D I2C Humidity and Temperature Sensor
+K I2C, Humidity, Temperature
+F https://www.sensirion.com/fileadmin/user_upload/customers/sensirion/Dokumente/2_Humidity_Sensors/Datasheets/Sensirion_Humidity_Sensors_SHTC3_Datasheet.pdf
 $ENDCMP
 #
 $CMP SKRPABE010
