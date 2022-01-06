@@ -35,3 +35,4 @@ git submodule https://github.com/nosuz/kicad-symbols-footprints.git nosuz-lib
 |                   | capacitor                                |                                                                           | C_2012               |
 |                   | capacitor                                |                                                                           | C_2012_Large         |
 |                   | register                                 |                                                                           | R_1608               |
+| USB_Type-C_Power  | USB Type-C Power only socket             |                                                                           | UJC-HP-3-SMT-TR      |

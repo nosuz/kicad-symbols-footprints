@@ -166,6 +166,10 @@ $CMP USB_Type-C
 D USB Type-C Female connector
 $ENDCMP
 #
+$CMP USB_Type-C_Power
+F https://akizukidenshi.com/download/ds/cui/ujc-hp-3-smt-tr.pdf
+$ENDCMP
+#
 $CMP ZX62R-B-5P
 F https://akizukidenshi.com/download/ds/hirose/zx62.pdf
 $ENDCMP
