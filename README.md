@@ -40,3 +40,4 @@ git submodule https://github.com/nosuz/kicad-symbols-footprints.git nosuz-lib
 | SHTC3             | I2C Temperature Sensor                   |                                                                           | SHTC3                |
 |                   | XH terminal post 2P                      |                                                                           | B2B-XH-A             |
 | USB_Type-C_Power  | USB Type-C Power only socket             |                                                                           | UJC-HP-3-SMT-TR      |
+|                   | THT Cement resistance SQP 5W             |                                                                           | R_THT_SQP5W          |
