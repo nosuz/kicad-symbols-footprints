@@ -15,6 +15,7 @@ git submodule https://github.com/nosuz/kicad-symbols-footprints.git nosuz-lib
 | Symbol            | Description                              | aliases                                                                   | footprint            |
 | ----------------- | ---------------------------------------- | ------------------------------------------------------------------------- | -------------------- |
 | ESP32-S3-WROOM-1  | ESP32-S3 module                          |                                                                           | ESP32-S3-WROOM-1     |
+| ESP32-S3-MINI-1   | ESP32-S3 module                          |                                                                           | ESP32-S3-MINI-1      |
 |                   | AAx4 Battery Folder                      |                                                                           | BH-341-2P            |
 | SHT4x             | Relative Humidity and Temperature Sensor | SHT40, SHT41, SHT45                                                       | SHT4x                |
 | TouchPad          | Capacitance touch sensor                 |                                                                           | Touch-Pad_10mm       |
