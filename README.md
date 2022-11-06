@@ -43,3 +43,4 @@ git submodule https://github.com/nosuz/kicad-symbols-footprints.git nosuz-lib
 |                   | XH terminal post 2P                      |                                                                           | B2B-XH-A             |
 | USB_Type-C_Power  | USB Type-C Power only socket             |                                                                           | UJC-HP-3-SMT-TR      |
 |                   | THT Cement resistance SQP 5W             |                                                                           | R_THT_SQP5W          |
+| TPS740xx          | 600mA CMOS LDO Regulator                 | TPS74033SF5                                                               | SOT-23-5L            |
