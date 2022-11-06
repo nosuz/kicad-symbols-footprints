@@ -23,6 +23,7 @@ git submodule https://github.com/nosuz/kicad-symbols-footprints.git nosuz-lib
 | NJU7223DL1-xx     | Linear regulator                         | NJU7223DL1-18, NJU7223DL1-25, NJU7223DL1-30, NJU7223DL1-33, NJU7223DL1-50 | TO-252-3-L1          |
 | USB_Type-C        | USB Type-C socket                        |                                                                           | 5077CR-16SMC2-BK-TR  |
 | ESP32-C3-WROOM-02 | ESP32-C3 module                          |                                                                           | ESP32-C3-WROOM-02    |
+| ESP32-C3-MINI-1   | ESP32-C3 module                          |                                                                           | ESP32-C3-MINI-1      |
 | SLIDE_SWITCH_2x2  | Slide Switch 2x2                         | IS-2235-G                                                                 | IS-2235-G            |
 | Tactile_Switch_2P | Tacticle switch 2P                       | TVAF06-A020B-R                                                            | TVAF06-A020B-R       |
 | Tactile_Switch_4P | Tacticle switch 4P                       | TS-06104, SKRPABE010, SKRPACE010                                          | TS-06104, SKRPAxE010 |
