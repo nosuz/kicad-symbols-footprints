@@ -20,6 +20,7 @@ git submodule https://github.com/nosuz/kicad-symbols-footprints.git nosuz-lib
 | SHT4x             | Relative Humidity and Temperature Sensor | SHT40, SHT41, SHT45                                                       | SHT4x                |
 | TouchPad          | Capacitance touch sensor                 |                                                                           | Touch-Pad_10mm       |
 | ESP32-WROOM-32E   | ESP32 module                             |                                                                           | ESP32-WROOM-32E      |
+| ESP32-MINI-1      | ESP32 module                             |                                                                           | ESP32-MINI-1         |
 | NJU7223DL1-xx     | Linear regulator                         | NJU7223DL1-18, NJU7223DL1-25, NJU7223DL1-30, NJU7223DL1-33, NJU7223DL1-50 | TO-252-3-L1          |
 | USB_Type-C        | USB Type-C socket                        |                                                                           | 5077CR-16SMC2-BK-TR  |
 | ESP32-C3-WROOM-02 | ESP32-C3 module                          |                                                                           | ESP32-C3-WROOM-02    |
