@@ -1,6 +1,6 @@
 (footprint "ESP32-C3-MINI-1" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
-  (tedit 6367014B)
+  (tedit 636C4D56)
   (descr "ESP32-C3-MINI-1 module")
   (tags "ESP32, ESP32-C3, Wi-Fi, Bluetooth")
   (attr smd)
@@ -8,7 +8,7 @@
     (effects (font (size 1 1) (thickness 0.15)))
     (tstamp 4c9fdea7-ba0c-45cc-8f66-240980c37d5c)
   )
-  (fp_text value "ESP32-C3-MINI-1" (at -6.3 -4.3 unlocked) (layer "F.Fab")
+  (fp_text value "ESP32-C3-MINI-1" (at -6.3 -4.3 unlocked) (layer "F.Fab") hide
     (effects (font (size 1 1) (thickness 0.15)))
     (tstamp c58960d9-4cac-4036-ad2e-1aef26946dae)
   )
@@ -16,7 +16,7 @@
     (effects (font (size 1 1) (thickness 0.15)))
     (tstamp fe148714-b0cf-44d7-9b6c-f06914620619)
   )
-  (fp_text user "${REFERENCE}" (at -6.3 -2.8 unlocked) (layer "F.Fab")
+  (fp_text user "${REFERENCE}" (at -6.3 -2.8 unlocked) (layer "F.Fab") hide
     (effects (font (size 1 1) (thickness 0.15)))
     (tstamp 5b96c1ad-46ba-4366-8241-fbc1cd0e9bbd)
   )

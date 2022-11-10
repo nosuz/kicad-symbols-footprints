@@ -1,6 +1,6 @@
 (footprint "ESP32-S3-MINI-1" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
-  (tedit 6366FF9C)
+  (tedit 636C4D1C)
   (descr "ESP32-S3-MINI-1")
   (tags "ESP32, ESP32-S3")
   (attr smd)
@@ -8,7 +8,7 @@
     (effects (font (size 1 1) (thickness 0.15)))
     (tstamp 73eb1d6b-3e2d-4317-bc4c-c77f232aa2cf)
   )
-  (fp_text value "ESP32-S3-MINI-1" (at -7.4 -6.4 unlocked) (layer "F.Fab")
+  (fp_text value "ESP32-S3-MINI-1" (at -7.4 -6.4 unlocked) (layer "F.Fab") hide
     (effects (font (size 1 1) (thickness 0.15)))
     (tstamp e476f79c-e0c8-465e-9770-99d67609efe1)
   )
@@ -16,7 +16,7 @@
     (effects (font (size 1 1) (thickness 0.15)))
     (tstamp 8d4b0a4f-7f7c-4f15-a454-4f4644af9ce8)
   )
-  (fp_text user "${REFERENCE}" (at -7.4 -4.9 unlocked) (layer "F.Fab")
+  (fp_text user "${REFERENCE}" (at -7.4 -4.9 unlocked) (layer "F.Fab") hide
     (effects (font (size 1 1) (thickness 0.15)))
     (tstamp 6e377ae5-9877-4223-a4f6-977c4c2655d4)
   )
