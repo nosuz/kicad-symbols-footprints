@@ -40,6 +40,7 @@ git submodule https://github.com/nosuz/kicad-symbols-footprints.git nosuz-lib
 |                   | Schottky diode                                                    |                                                                           | Diode_SS2040FL       |
 |                   | capacitor                                                         |                                                                           | C_2012               |
 |                   | capacitor                                                         |                                                                           | C_2012_Large         |
+|                   | capacitor                                                         |                                                                           | C_1608               |
 |                   | register                                                          |                                                                           | R_1608               |
 | ADT7410           | I2C Temperature Sensor                                            |                                                                           | SOIC_N-8             |
 | ADT7310           | SPI Temperature Sensor                                            |                                                                           | SOIC_N-8             |
