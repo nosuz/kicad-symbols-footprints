@@ -54,3 +54,6 @@ git submodule https://github.com/nosuz/kicad-symbols-footprints.git nosuz-lib
 | S-5851A           | 2-wire digital temperature sensor                                 | S-5851AAA-M6T1                                                            | SOT-23-6             |
 | AM23ESGW          | Two color (Red and Green) LED                                     | KM-23ESGC                                                                 | SOT-23_AM23ESGW      |
 | LTST-C195KGKFKT   | Two color (Orange and Green) LED                                  |                                                                           | LTST-C195KGKFKT      |
+| FA-238V           | SMD Crystals                                                      |                                                                           | FA-238V              |
+| KM-23ESGC         | Two color (Red and Green) LED                                     |                                                                           |                      |
+| RP2040            | ARM Microcontroller used for Raspberry Pi Pico                    |                                                                           | QFN-56_RP2040        |
