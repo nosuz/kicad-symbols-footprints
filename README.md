@@ -35,6 +35,7 @@ git submodule https://github.com/nosuz/kicad-symbols-footprints.git nosuz-lib
 | FT231XS           | USB-Serial converter                                              |                                                                           | SSOP-20_FT231X       |
 | OSxx1608          | 1608 LED                                                          | OSYG1608, OSYL1608, OSTG1608, OSHR1608, OSOR1608, OSBL1608, OSWT1608      | 1608_OSxx1608        |
 | IRLML6402         | P-ch MOS FET                                                      |                                                                           | SOT-23_IRLML6402     |
+| SI3407            | P-ch MOS FET, Vgs(th -1.4V)                                       |                                                                           | SOT-23_SI3407        |
 |                   | Barrel Jack 2.1mm                                                 |                                                                           | BarrelJack_MJ-179PH  |
 |                   | Schottky diode                                                    |                                                                           | Diode_SS2040FL       |
 |                   | capacitor                                                         |                                                                           | C_2012               |
