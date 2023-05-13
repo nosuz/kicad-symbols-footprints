@@ -55,4 +55,5 @@ git submodule https://github.com/nosuz/kicad-symbols-footprints.git nosuz-lib
 | KM-23ESGC         | Two color (Red and Green) LED                                             |                                                                           |                      |
 | RP2040            | ARM Microcontroller used for Raspberry Pi Pico                            |                                                                           | QFN-56_RP2040        |
 | CH32V203CxT8      | 32-bit Enhanced Low-Power RISC-V MCU – CH32V203                           |                                                                           | LQFP48               |
+| CH32V103Cx        | 32-bit Enhanced Low-Power RISC-V MCU – CH32V103                           |                                                                           | LQFP48               |
 | AP7333-XXSA       | 300mA, Low Quiescent Current, Fast Transient Low Dropout Linear Regulator | AP7333-33SA                                                               | SOT23                |
