@@ -339,7 +339,7 @@
     (property "Value" "AP7333-XXSA" (at 7.62 -5.08 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "nosuz-lib:SOT23_AP7333" (at 0 1.27 0)
+    (property "Footprint" "0my_project:SOT23_AP7333" (at 0 1.27 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "https://www.diodes.com/assets/Datasheets/AP7333.pdf" (at 0 -1.27 0)
