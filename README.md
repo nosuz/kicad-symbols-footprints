@@ -25,6 +25,7 @@ git submodule https://github.com/nosuz/kicad-symbols-footprints.git nosuz-lib
 | LP38690DTx        | Linear regulator, Vin max. 10V, Iout 1A, Iq 55uA, SOT-252 pacjage         | LP38690DTX-3.3/NOPB                                                       | TO-252-3-L1          |
 | LP38690SDx        | Linear regulator, Vin max. 10V, Iout 1A, Iq 55uA, WSON-6 package          | LP38690SDX-3.3/NOPB                                                       | WSON-6               |
 | USB_Type-C        | USB Type-C socket                                                         |                                                                           | 5077CR-16SMC2-BK-TR  |
+| USB_Type-C        | USB Type-C socket                                                         |                                                                           | GT-USB-9047A         |
 | ESP32-C3-WROOM-02 | ESP32-C3 module                                                           |                                                                           | ESP32-C3-WROOM-02    |
 | ESP32-C3-MINI-1   | ESP32-C3 module                                                           |                                                                           | ESP32-C3-MINI-1      |
 | SLIDE_SWITCH_2x2  | Slide Switch 2x2                                                          | IS-2235-G                                                                 | IS-2235-G            |
@@ -60,3 +61,4 @@ git submodule https://github.com/nosuz/kicad-symbols-footprints.git nosuz-lib
 | CH32V203CxT8      | 32-bit Enhanced Low-Power RISC-V MCU – CH32V203                           |                                                                           | QFP-48_CH32Vx03CxT6  |
 | CH32V103Cx        | 32-bit Enhanced Low-Power RISC-V MCU – CH32V103                           |                                                                           | QFP-48_CH32Vx03CxT6  |
 | AP7333-XXSA       | 300mA, Low Quiescent Current, Fast Transient Low Dropout Linear Regulator | AP7333-33SA                                                               | SOT23_AP7333         |
+| ME6217C33M5G      | 800mA Low Dropout Linear Regulator                                        |                                                                           | SOT-23-5L            |
