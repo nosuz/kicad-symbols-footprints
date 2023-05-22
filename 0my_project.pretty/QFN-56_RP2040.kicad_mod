@@ -1,6 +1,6 @@
 (footprint "QFN-56_RP2040" (version 20221018) (generator pcbnew)
   (layer "F.Cu")
-  (attr through_hole)
+  (attr smd)
   (fp_text reference "REF**" (at 0 -5.45) (layer "F.SilkS")
       (effects (font (size 1 1) (thickness 0.15)))
     (tstamp 3d38eca7-b037-4400-970c-46db57e3c3cb)
