@@ -3891,7 +3891,7 @@
     (property "Value" "TAXM12M4RLBDDT2T" (at -10.16 -2.54 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "0my_project:FA-238V" (at -6.35 0 0)
+    (property "Footprint" "0my_project:SMD3225-4P_TAXM12M4RLBDDT2T" (at -6.35 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "https://datasheet.lcsc.com/lcsc/2109101930_TAE-Zhejiang-Abel-Elec-TAXM12M4RLBDDT2T_C133334.pdf" (at -6.35 12.7 0)
