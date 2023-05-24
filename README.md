@@ -68,3 +68,4 @@ git submodule https://github.com/nosuz/kicad-symbols-footprints.git nosuz-lib
 | TAEF-25xx          | Tacticle switch 2P, 6.0mm x 3.8mm                                         |                                                                           | TAEF-25xx                   |
 | GT-TC029x-Hxxx-L1N | Tacticle switch 2P, 3.9mm x 2.9mm                                         |                                                                           | GT-TC029x-Hxxx-L1N          |
 | DTSM-6x            | Tacticle switch 4P, 6.2mm x 6.2mm                                         |                                                                           | DTSM-6x                     |
+| 2MD1-T2-B4-M2-Q-N  | Toggle switch 2 x 3P                                                      |                                                                           | 2MD1-T2-B4-M2-Q-N           |
