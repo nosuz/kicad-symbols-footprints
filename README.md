@@ -71,3 +71,4 @@ git submodule https://github.com/nosuz/kicad-symbols-footprints.git nosuz-lib
 | TSC015x            | Tacticle switch 4P, 4.5mm x 4.5mm                                         |                                                                           | TSC015x                     |
 | DTSM-6x            | Tacticle switch 4P, 6.2mm x 6.2mm                                         |                                                                           | DTSM-6x                     |
 | 2MD1-T2-B4-M2-Q-N  | Toggle switch 2 x 3P                                                      |                                                                           | 2MD1-T2-B4-M2-Q-N           |
+|                    | SWPA inductor                                                             |                                                                           | SWPA6028Sxxx                |
