@@ -72,3 +72,4 @@ git submodule https://github.com/nosuz/kicad-symbols-footprints.git nosuz-lib
 | DTSM-6x            | Tacticle switch 4P, 6.2mm x 6.2mm                                         |                                                                           | DTSM-6x                     |
 | 2MD1-T2-B4-M2-Q-N  | Toggle switch 2 x 3P                                                      |                                                                           | 2MD1-T2-B4-M2-Q-N           |
 |                    | SWPA inductor                                                             |                                                                           | SWPA6028Sxxx                |
+| ORH-x36x           | LED, 1608                                                                 | ORH-R36x, ORH-YG36x                                                       | ORG-x36x                    |
