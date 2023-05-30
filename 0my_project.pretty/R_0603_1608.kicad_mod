@@ -1,4 +1,4 @@
-(footprint "R_1608" (version 20221018) (generator pcbnew)
+(footprint "R_0603_1608" (version 20221018) (generator pcbnew)
   (layer "F.Cu")
   (attr smd)
   (fp_text reference "R_1608" (at 0 0) (layer "F.SilkS")
