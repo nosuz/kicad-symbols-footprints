@@ -4582,7 +4582,7 @@
     (property "Reference" "SW" (at -5.588 3.556 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Value" "" (at 0 0 0)
+    (property "Value" "2MD1-T2-B4-M2-Q-N" (at 0 0 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Footprint" "0my_project:2MD1-T2-B4-M2-Q-N" (at 0 0 0)
