@@ -45,7 +45,8 @@ git submodule https://github.com/nosuz/kicad-symbols-footprints.git nosuz-lib
 | ADT7410            | I2C Temperature Sensor                                                    |                                                                           | SOIC_N-8                    |
 | ADT7310            | SPI Temperature Sensor                                                    |                                                                           | SOIC_N-8                    |
 | SHTC3              | I2C Temperature Sensor                                                    |                                                                           | SHTC3                       |
-|                    | XH terminal post 2P                                                       |                                                                           | B2B-XH-A                    |
+|                    | XH terminal post 2P, Top type                                             |                                                                           | B2B-XH-A                    |
+|                    | XH terminal post 2P, Side type                                            |                                                                           | S2B-XH-A                    |
 | USB_Type-C_Power   | USB Type-C Power only socket                                              |                                                                           | UJC-HP-3-SMT-TR             |
 |                    | THT Cement resistance SQP 5W                                              |                                                                           | R_THT_SQP5W                 |
 | TPS740xx           | 600mA CMOS LDO Regulator                                                  | TPS74033SF5                                                               | SOT-23-5L                   |
@@ -71,3 +72,5 @@ git submodule https://github.com/nosuz/kicad-symbols-footprints.git nosuz-lib
 | TSC015x            | Tacticle switch 4P, 4.5mm x 4.5mm                                         |                                                                           | TSC015x                     |
 | DTSM-6x            | Tacticle switch 4P, 6.2mm x 6.2mm                                         |                                                                           | DTSM-6x                     |
 | 2MD1-T2-B4-M2-Q-N  | Toggle switch 2 x 3P                                                      |                                                                           | 2MD1-T2-B4-M2-Q-N           |
+|                    | SWPA inductor                                                             |                                                                           | SWPA6028Sxxx                |
+| ORH-x36x           | LED, 1608                                                                 | ORH-R36x, ORH-YG36x                                                       | ORG-x36x                    |
