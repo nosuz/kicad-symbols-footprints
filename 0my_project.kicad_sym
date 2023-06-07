@@ -2261,7 +2261,7 @@
     (property "Reference" "U" (at 0 0 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Value" "" (at 0 0 0)
+    (property "Value" "HX4002" (at 0 0 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Footprint" "0my_project:SOT-23-6" (at 0 0 0)
