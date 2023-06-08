@@ -4430,7 +4430,7 @@
     (property "Reference" "SW" (at 3.175 3.81 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Value" "Tactile_Switch_4P" (at 0 -2.54 0)
+    (property "Value" "DTSM-6x" (at 0 -2.54 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Footprint" "0my_project:DTSM-6x" (at 0 0 0)
