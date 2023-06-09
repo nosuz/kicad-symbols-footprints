@@ -47,6 +47,7 @@ git submodule https://github.com/nosuz/kicad-symbols-footprints.git nosuz-lib
 | SHTC3              | I2C Temperature Sensor                                                    |                                                                           | SHTC3                       |
 |                    | XH terminal post 2P, Top type                                             |                                                                           | B2B-XH-A                    |
 |                    | XH terminal post 2P, Side type                                            |                                                                           | S2B-XH-A                    |
+|                    | XH terminal post 4P, Side type                                            |                                                                           | S4B-XH-A                    |
 | USB_Type-C_Power   | USB Type-C Power only socket                                              |                                                                           | UJC-HP-3-SMT-TR             |
 |                    | THT Cement resistance SQP 5W                                              |                                                                           | R_THT_SQP5W                 |
 | TPS740xx           | 600mA CMOS LDO Regulator                                                  | TPS74033SF5                                                               | SOT-23-5L                   |
@@ -75,3 +76,4 @@ git submodule https://github.com/nosuz/kicad-symbols-footprints.git nosuz-lib
 | HX4003             | Charge pump 5V 2.7V~5.5V 250mA DC-DC Converters                           |                                                                           | SOT-23-6                    |
 |                    | SWPA inductor                                                             |                                                                           | SWPA6028Sxxx                |
 | ORH-x36x           | LED, 1608                                                                 | ORH-R36x, ORH-YG36x                                                       | ORG-x36x                    |
+|                    | Jumper ジャン太                                                           |                                                                           | jumper_XX-2                 |
