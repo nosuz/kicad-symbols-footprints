@@ -1,7 +1,7 @@
 (footprint "SOT-23_IRLML6402" (version 20221018) (generator pcbnew)
   (layer "F.Cu")
   (tags "SOT-23")
-  (attr through_hole)
+  (attr smd)
   (fp_text reference "SOT-23_IRLML6402" (at -2.2 0 90) (layer "F.SilkS")
       (effects (font (size 1 1) (thickness 0.16)))
     (tstamp 2c8c3f28-5bc6-41c1-b4ea-5fe71e051e83)

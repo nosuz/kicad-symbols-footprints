@@ -1,7 +1,7 @@
 (footprint "GT-USB-9047A" (version 20221018) (generator pcbnew)
   (layer "F.Cu")
   (solder_paste_margin -0.05)
-  (attr through_hole)
+  (attr smd)
   (fp_text reference "REF**" (at 0 0.6) (layer "F.SilkS")
       (effects (font (size 1 1) (thickness 0.15)))
     (tstamp 6e7eab28-e2ca-4e00-8d01-1ef16d481733)

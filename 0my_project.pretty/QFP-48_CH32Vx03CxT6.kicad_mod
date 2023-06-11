@@ -1,6 +1,6 @@
 (footprint "QFP-48_CH32Vx03CxT6" (version 20221018) (generator pcbnew)
   (layer "F.Cu")
-  (attr through_hole)
+  (attr smd)
   (fp_text reference "REF**" (at 0 0 180) (layer "F.SilkS")
       (effects (font (size 1 1) (thickness 0.16)))
     (tstamp 058e5562-0f3f-4c21-b46f-ab81cb407429)
