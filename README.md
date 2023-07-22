@@ -80,3 +80,4 @@ git submodule https://github.com/nosuz/kicad-symbols-footprints.git nosuz-lib
 |                    | Jumper ジャン太                                                           |                                                                           | jumper_XX-2                 |
 | SKSTAAE010         | Tacticle switch 2P, 8.5mm x 8.5mm                                         |                                                                           | SKSTAXE010                  |
 | GT-TC149A-H090-L1  | Tacticle switch 4P, 12mm x 12mm                                           |                                                                           | GT-TC149X-HXXX-LX           |
+| SM412301N          | Red 7 segments LED display                                                |                                                                           | SM412301N                   |
