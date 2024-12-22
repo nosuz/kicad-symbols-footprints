@@ -104,6 +104,6 @@ git submodule https://github.com/nosuz/kicad-symbols-footprints.git nosuz-lib
 | 74VHC32             | Quad 2-input OR                                                   |                     | 74HC32            |
 | 74HC574             | 8-bit Latch 3-state outputs                                       |                     |                   |
 | 74VHC574            | 8-bit Latch 3-state outputs                                       |                     | 74HC574           |
-| Tang_Primer_20K     | Sipeed Tang Primer 20K module                                     |                     |                   |
-| Tang_Primer_25K_J1  | Sipeed Tang Primer 25K module                                     |                     |                   |
-| Tang_Primer_25K_J2  | Sipeed Tang Primer 25K module                                     |                     |                   |
+| Tang_Primer_20K     | Sipeed Tang Primer 20K FPGA module                                |                     |                   |
+| Tang_Primer_25K_J1  | Sipeed Tang Primer 25K FPGA module                                | DF40C-60DS_HIROSE   |                   |
+| Tang_Primer_25K_J2  | Sipeed Tang Primer 25K FPGA module                                | DF40C-60DS_HIROSE   |                   |
