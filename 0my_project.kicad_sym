@@ -13553,7 +13553,7 @@
 			)
 		)
 		(property "Footprint" "0my_project:SSOP-28_FTDI"
-			(at 5.08 1.27 0)
+			(at 0.508 -52.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13563,7 +13563,7 @@
 			)
 		)
 		(property "Datasheet" "https://ftdichip.com/wp-content/uploads/2022/07/DS_FT245RN.pdf"
-			(at 5.08 -3.81 0)
+			(at 0.508 -49.784 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13573,7 +13573,7 @@
 			)
 		)
 		(property "Description" "FTDI USB FIFO interface"
-			(at 0 0 0)
+			(at 12.192 -47.752 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13711,7 +13711,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 -2.54 0)
+				(at 0 -5.08 0)
 				(length 5.08)
 				(name "USBD_P"
 					(effects
@@ -13729,7 +13729,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 0 0)
+				(at 0 -7.62 0)
 				(length 5.08)
 				(name "USBD_N"
 					(effects
@@ -13783,7 +13783,7 @@
 				)
 			)
 			(pin input line
-				(at 0 -7.62 0)
+				(at 0 -12.7 0)
 				(length 5.08)
 				(name "~{RESET}"
 					(effects
@@ -13819,7 +13819,7 @@
 				)
 			)
 			(pin power_in line
-				(at 0 -22.86 0)
+				(at 0 0 0)
 				(length 5.08)
 				(name "VCC"
 					(effects
@@ -13891,7 +13891,7 @@
 				)
 			)
 			(pin no_connect line
-				(at 0 -10.1346 0)
+				(at 0 -15.2146 0)
 				(length 5.08) hide
 				(name "NC[2]"
 					(effects
@@ -13945,7 +13945,7 @@
 				)
 			)
 			(pin passive line
-				(at 0 -15.24 0)
+				(at 0 -20.32 0)
 				(length 5.08)
 				(name "OSCI"
 					(effects
@@ -13963,7 +13963,7 @@
 				)
 			)
 			(pin passive line
-				(at 0 -17.78 0)
+				(at 0 -22.86 0)
 				(length 5.08)
 				(name "OSCO"
 					(effects
@@ -14071,7 +14071,7 @@
 				)
 			)
 			(pin no_connect line
-				(at 0 -10.16 0)
+				(at 0 -15.24 0)
 				(length 5.08)
 				(name "NC[2]"
 					(effects
