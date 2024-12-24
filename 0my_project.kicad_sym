@@ -15469,7 +15469,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "http://akizukidenshi.com/download/ds/jrc/NJM2845.pdf"
+		(property "Datasheet" "https://akizukidenshi.com/goodsaffix/NJM2845.pdf"
 			(at -5.08 3.81 0)
 			(effects
 				(font
@@ -26896,7 +26896,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://akizukidenshi.com/goodsaffix/NJM2845.pdf"
 			(at -5.08 3.81 0)
 			(effects
 				(font
@@ -26960,7 +26960,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://akizukidenshi.com/goodsaffix/NJM2845.pdf"
 			(at -5.08 3.81 0)
 			(effects
 				(font
