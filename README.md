@@ -111,4 +111,7 @@ git submodule https://github.com/nosuz/kicad-symbols-footprints.git nosuz-lib
 | AS6C3216A           | 32M Bits(2Mx16/4Mx8 Switchable) SRAM                              | TSOP-I-48_AS6C3216A  |                   |
 | SN74CB3T3245        | 8-Bit FET Bus Switch with 5V-Tolerant Level Shifter               |                      |                   |
 | SN74CB3T3245DW      | 8-Bit FET Bus Switch with 5V-Tolerant Level Shifter               | SOIC-20_SN74CB3T3245 | SN74CB3T3245      |
+| TC7S32              | 2-Input OR Gate, Single gate                                      |                      |                   |
+| TC7S32F             | 2-Input OR Gate, Single gate                                      | SSOP5_TC7S32F        | TC7S32            |
+| TC7S32FU            | 2-Input OR Gate, Single gate                                      | SSOP5_TC7S32FU       | TC7S32            |
 |                     |                                                                   |                      |                   |
