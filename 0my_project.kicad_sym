@@ -19215,7 +19215,7 @@
 			(pin bidirectional line
 				(at 0 0 0)
 				(length 5.08)
-				(name "T13_IOR8B_FPGA_RXO"
+				(name "T13_IOR8B_FPGA_RXO/2"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -19251,7 +19251,7 @@
 			(pin bidirectional line
 				(at 0 -12.7 0)
 				(length 5.08)
-				(name "M11_IOR27B_FPGA_TXO"
+				(name "M11_IOR27B_FPGA_TXO/3"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -19323,7 +19323,7 @@
 			(pin bidirectional line
 				(at 0 -17.78 0)
 				(length 5.08)
-				(name "T10_IOR35B_FPGA_~{RST}"
+				(name "T10_IOR35B_FPGA_~{RST}/3"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -20385,7 +20385,7 @@
 			(pin bidirectional line
 				(at 0 -86.36 0)
 				(length 5.08)
-				(name "T13_IOR8B/2"
+				(name "T14_IOR20B/2"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -21298,7 +21298,7 @@
 			(pin bidirectional line
 				(at 0 -88.9 0)
 				(length 5.08)
-				(name "JTAG_TMS/2"
+				(name "B8_JTAG_TMS/2"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -21370,7 +21370,7 @@
 			(pin bidirectional line
 				(at 0 -93.98 0)
 				(length 5.08)
-				(name "JTAG_TDO/2"
+				(name "C6_JTAG_TDO/2"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -21406,7 +21406,7 @@
 			(pin bidirectional line
 				(at 0 -96.52 0)
 				(length 5.08)
-				(name "JTAG_TCK/2"
+				(name "A7_JTAG_TCK/2"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -21478,7 +21478,7 @@
 			(pin bidirectional line
 				(at 0 -101.6 0)
 				(length 5.08)
-				(name "JTAG_TDI/2"
+				(name "A5_JTAG_TDI/2"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -21874,7 +21874,7 @@
 			(pin bidirectional line
 				(at 0 -129.54 0)
 				(length 5.08)
-				(name "N6_IOR51A3"
+				(name "N6_IOR51A/3"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -21910,7 +21910,7 @@
 			(pin bidirectional line
 				(at 0 -132.08 0)
 				(length 5.08)
-				(name "N7_IOR47B3"
+				(name "N7_IOR47B/3"
 					(effects
 						(font
 							(size 1.27 1.27)
