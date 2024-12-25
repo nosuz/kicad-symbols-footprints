@@ -115,4 +115,5 @@ git submodule https://github.com/nosuz/kicad-symbols-footprints.git nosuz-lib
 | TC7S32F             | 2-Input OR Gate, Single gate                                      | SSOP5_TC7S32F        | TC7S32            |
 | TC7S32FU            | 2-Input OR Gate, Single gate                                      | SSOP5_TC7S32FU       | TC7S32            |
 |                     | Electric capacitor, D = 5 mm                                      | CP_THT_D5            |                   |
+|                     | 3P IC socket for crystal unit                                     | Y_3P                 |                   |
 |                     |                                                                   |                      |                   |
