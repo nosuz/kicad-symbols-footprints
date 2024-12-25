@@ -118,7 +118,7 @@
 			(type default)
 		)
 		(fill none)
-		(layer "Margin")
+		(layer "F.CrtYd")
 		(uuid "9f892e12-c80f-4281-90a3-1d96ccd3afc9")
 	)
 	(fp_text user "${REFERENCE}"

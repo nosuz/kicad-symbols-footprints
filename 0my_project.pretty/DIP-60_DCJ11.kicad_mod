@@ -144,7 +144,7 @@
 			(type default)
 		)
 		(fill none)
-		(layer "Margin")
+		(layer "F.CrtYd")
 		(uuid "9e331801-395d-4d39-bac3-79a25e03fe80")
 	)
 	(fp_text user "1"
