@@ -13891,9 +13891,9 @@
 				)
 			)
 			(pin no_connect line
-				(at 0 -15.2146 0)
+				(at 0 -16.51 0)
 				(length 5.08) hide
-				(name "NC[2]"
+				(name "NC"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -14072,8 +14072,8 @@
 			)
 			(pin no_connect line
 				(at 0 -15.24 0)
-				(length 5.08)
-				(name "NC[2]"
+				(length 5.08) hide
+				(name "NC"
 					(effects
 						(font
 							(size 1.27 1.27)
