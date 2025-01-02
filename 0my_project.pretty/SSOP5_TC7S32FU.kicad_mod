@@ -17,6 +17,7 @@
 	(property "Value" "SSOP5_TC7S32FU"
 		(at 0 0 0)
 		(layer "F.Fab")
+		(hide yes)
 		(uuid "1f3baaec-65e7-4caa-bd68-3379a02ad861")
 		(effects
 			(font

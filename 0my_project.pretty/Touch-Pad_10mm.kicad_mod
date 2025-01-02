@@ -1,19 +1,130 @@
-(module Touch-Pad_10mm (layer F.Cu) (tedit 61944F40)
-  (descr "Touch Sensor Pad 10mm")
-  (tags "touch sensor")
-  (fp_text reference REF** (at 0 -8.45) (layer F.SilkS)
-    (effects (font (size 1 1) (thickness 0.15)))
-  )
-  (fp_text value Touch-Pad_10mm (at 0 -6.85) (layer F.Fab)
-    (effects (font (size 1 1) (thickness 0.15)))
-  )
-  (fp_circle (center 0 0) (end 10 0) (layer F.CrtYd) (width 0.12))
-  (fp_circle (center 0 0) (end 10 0) (layer B.CrtYd) (width 0.12))
-  (fp_text user "Keep out bottom layer" (at 0.05 6.6) (layer Cmts.User)
-    (effects (font (size 1 1) (thickness 0.15)))
-  )
-  (fp_circle (center 0 0) (end 10 0) (layer B.SilkS) (width 0.15))
-  (fp_circle (center 0 0) (end 5.5 0) (layer F.SilkS) (width 0.15))
-  (pad 1 smd circle (at 0 0) (size 10 10) (layers F.Cu)
-    (clearance 5))
+(footprint "Touch-Pad_10mm"
+	(version 20240108)
+	(generator "pcbnew")
+	(generator_version "8.0")
+	(layer "F.Cu")
+	(descr "Touch Sensor Pad 10mm")
+	(tags "touch sensor")
+	(property "Reference" "REF**"
+		(at 0 -8.45 0)
+		(layer "F.SilkS")
+		(uuid "90c3a4a8-1f41-48af-9da2-7ce85ba9ad7f")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "Touch-Pad_10mm"
+		(at 0 -6.85 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "402ac421-4317-4a8b-a306-20b3d4f3178e")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Footprint" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "b07bf00f-04f7-411a-8fee-0c8996333f2e")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "5dd6ff14-1925-4137-9ae0-c774c96e9529")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "c3f641e8-5932-4f9b-bfff-17dc71c34f93")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr through_hole)
+	(fp_circle
+		(center 0 0)
+		(end 10 0)
+		(stroke
+			(width 0.15)
+			(type solid)
+		)
+		(fill none)
+		(layer "B.SilkS")
+		(uuid "176a98f6-55af-4988-a3c0-bc557a0e4525")
+	)
+	(fp_circle
+		(center 0 0)
+		(end 5.5 0)
+		(stroke
+			(width 0.15)
+			(type solid)
+		)
+		(fill none)
+		(layer "F.SilkS")
+		(uuid "38608fdd-c937-426c-a6ca-89c15f60c5af")
+	)
+	(fp_circle
+		(center 0 0)
+		(end 10 0)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(fill none)
+		(layer "B.CrtYd")
+		(uuid "81c72003-aced-43ce-8160-164e51615d2c")
+	)
+	(fp_circle
+		(center 0 0)
+		(end 10 0)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(fill none)
+		(layer "F.CrtYd")
+		(uuid "3cfeb10a-49f0-4ad4-9057-eb083e9c1ee8")
+	)
+	(fp_text user "Keep out bottom layer"
+		(at 0.05 6.6 0)
+		(layer "Cmts.User")
+		(uuid "758bce67-a506-4a24-9241-5104ab81fde2")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(pad "1" smd circle
+		(at 0 0)
+		(size 10 10)
+		(layers "F.Cu")
+		(clearance 5)
+		(uuid "e40321b9-e00f-4b59-880b-793dd8af8ccc")
+	)
 )

@@ -17,6 +17,7 @@
 	(property "Value" "TSOP-48_12x18.4"
 		(at 0 0 0)
 		(layer "F.Fab")
+		(hide yes)
 		(uuid "0a0cfb45-462e-4a84-8d7a-324f64fe8f29")
 		(effects
 			(font

@@ -5,7 +5,7 @@
 	(layer "F.Cu")
 	(descr "http://akizukidenshi.com/download/ds/cosland/DTS-6-V.PDF")
 	(tags "Tact Switch")
-	(property "Reference" "DTS-6-V"
+	(property "Reference" "REF**"
 		(at 0 0 0)
 		(layer "F.SilkS")
 		(uuid "b9178e48-e577-4bbd-bf65-29cccdae0488")
@@ -16,9 +16,10 @@
 			)
 		)
 	)
-	(property "Value" "VAL**"
+	(property "Value" "DTS-6-V"
 		(at 0 0 0)
-		(layer "F.SilkS")
+		(layer "F.Fab")
+		(hide yes)
 		(uuid "d2d41243-5e58-406b-853a-1cd0154f6141")
 		(effects
 			(font

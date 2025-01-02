@@ -17,6 +17,7 @@
 	(property "Value" "CP_D6.3mm"
 		(at 0 -0.5 0)
 		(layer "F.Fab")
+		(hide yes)
 		(uuid "dd6b2889-7b99-417e-87bd-8b262e49e867")
 		(effects
 			(font

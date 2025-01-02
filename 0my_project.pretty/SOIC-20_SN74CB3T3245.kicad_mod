@@ -17,6 +17,7 @@
 	(property "Value" "SOIC-20_SN74CB3T3245"
 		(at 0 0 0)
 		(layer "F.Fab")
+		(hide yes)
 		(uuid "6e624733-0c9b-4107-ab23-9404cb3bbc9b")
 		(effects
 			(font

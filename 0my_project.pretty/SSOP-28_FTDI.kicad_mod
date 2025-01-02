@@ -17,6 +17,7 @@
 	(property "Value" "SSOP-28_FTDI"
 		(at 0 0 0)
 		(layer "F.Fab")
+		(hide yes)
 		(uuid "5c267809-a5e4-48f5-8695-5e0d3ea0c7d0")
 		(effects
 			(font
