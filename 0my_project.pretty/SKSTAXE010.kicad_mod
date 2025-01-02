@@ -1,25 +1,118 @@
-(footprint "SKSTAXE010" (version 20221018) (generator pcbnew)
-  (layer "F.Cu")
-  (descr "Tactile Switches, 8.5mm x 8.5mm")
-  (attr smd)
-  (fp_text reference "REF**" (at 0 -0.5 unlocked) (layer "F.SilkS")
-      (effects (font (size 1 1) (thickness 0.15)))
-    (tstamp 12b6e6ce-e649-4cb8-8568-6bc311309e36)
-  )
-  (fp_text value "SKSTAXE010" (at 0 1 unlocked) (layer "F.Fab") hide
-      (effects (font (size 1 1) (thickness 0.15)))
-    (tstamp e688eecb-6b01-44ca-962c-e002d8842721)
-  )
-  (fp_text user "${REFERENCE}" (at 0 2.5 unlocked) (layer "F.Fab") hide
-      (effects (font (size 1 1) (thickness 0.15)))
-    (tstamp 4cdaeb5a-fb77-41b6-bd86-9b46eadf7f4d)
-  )
-  (fp_rect (start -4.25 -4.25) (end 4.25 4.25)
-    (stroke (width 0.16) (type default)) (fill none) (layer "F.SilkS") (tstamp fb023728-512d-4f38-8d14-6f6712507dd0))
-  (fp_rect (start -5.9 -5.25) (end 5.9 5.25)
-    (stroke (width 0.05) (type default)) (fill none) (layer "F.CrtYd") (tstamp 6294285e-e3a9-41a3-9a8c-12bd9c4d5044))
-  (pad "1" smd rect (at -4.05 0) (size 1.7 2.7) (layers "F.Cu" "F.Paste" "F.Mask")
-    (thermal_bridge_angle 45) (tstamp 3c227222-a57b-48fb-ba9f-6442000d306f))
-  (pad "2" smd rect (at 4.05 0) (size 1.7 2.7) (layers "F.Cu" "F.Paste" "F.Mask")
-    (thermal_bridge_angle 45) (tstamp 6d61c07f-c000-4090-9961-8be4a14dea37))
+(footprint "SKSTAXE010"
+	(version 20240108)
+	(generator "pcbnew")
+	(generator_version "8.0")
+	(layer "F.Cu")
+	(descr "Tactile Switches, 8.5mm x 8.5mm")
+	(property "Reference" "REF**"
+		(at 0 -0.5 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "12b6e6ce-e649-4cb8-8568-6bc311309e36")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.16)
+			)
+		)
+	)
+	(property "Value" "SKSTAXE010"
+		(at 0 1 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "e688eecb-6b01-44ca-962c-e002d8842721")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.16)
+			)
+		)
+	)
+	(property "Footprint" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "31e6622b-3b19-4266-ad00-7fff946240fb")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "d7de2de1-c001-4105-bdcd-58a9e78088b7")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "7ff71c50-1847-4370-827d-91cae0cfa9f4")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(fp_rect
+		(start -4.25 -4.25)
+		(end 4.25 4.25)
+		(stroke
+			(width 0.16)
+			(type default)
+		)
+		(fill none)
+		(layer "F.SilkS")
+		(uuid "fb023728-512d-4f38-8d14-6f6712507dd0")
+	)
+	(fp_rect
+		(start -5.9 -5.25)
+		(end 5.9 5.25)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(fill none)
+		(layer "F.CrtYd")
+		(uuid "6294285e-e3a9-41a3-9a8c-12bd9c4d5044")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 0 2.5 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "4cdaeb5a-fb77-41b6-bd86-9b46eadf7f4d")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.16)
+			)
+		)
+	)
+	(pad "1" smd rect
+		(at -4.05 0)
+		(size 1.7 2.7)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(thermal_bridge_angle 45)
+		(uuid "3c227222-a57b-48fb-ba9f-6442000d306f")
+	)
+	(pad "2" smd rect
+		(at 4.05 0)
+		(size 1.7 2.7)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(thermal_bridge_angle 45)
+		(uuid "6d61c07f-c000-4090-9961-8be4a14dea37")
+	)
 )
