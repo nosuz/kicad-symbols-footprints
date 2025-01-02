@@ -1,4 +1,4 @@
-(footprint "SOIC-8_W25128JVS"
+(footprint "SOIC-8_W25Q128JVS"
 	(version 20240108)
 	(generator "pcbnew")
 	(generator_version "8.0")
@@ -14,7 +14,7 @@
 			)
 		)
 	)
-	(property "Value" "SOIC-8_W25128JVS"
+	(property "Value" "SOIC-8_W25Q128JVS"
 		(at 0 0 0)
 		(layer "F.Fab")
 		(hide yes)
