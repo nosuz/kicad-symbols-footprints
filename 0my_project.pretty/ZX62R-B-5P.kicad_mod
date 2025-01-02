@@ -35,7 +35,7 @@
 		(effects
 			(font
 				(size 1.27 1.27)
-				(thickness 0.15)
+				(thickness 0.16)
 			)
 		)
 	)
@@ -47,7 +47,7 @@
 		(effects
 			(font
 				(size 1.27 1.27)
-				(thickness 0.15)
+				(thickness 0.16)
 			)
 		)
 	)
@@ -59,7 +59,7 @@
 		(effects
 			(font
 				(size 1.27 1.27)
-				(thickness 0.15)
+				(thickness 0.16)
 			)
 		)
 	)
@@ -138,7 +138,7 @@
 		(start -5.4 -4.35)
 		(end -1.8 -4.35)
 		(stroke
-			(width 0.15)
+			(width 0.16)
 			(type solid)
 		)
 		(layer "F.CrtYd")
@@ -148,7 +148,7 @@
 		(start -5.4 -3.85)
 		(end -5.4 1.45)
 		(stroke
-			(width 0.15)
+			(width 0.16)
 			(type solid)
 		)
 		(layer "F.CrtYd")
@@ -158,7 +158,7 @@
 		(start -5.4 1.45)
 		(end 5.4 1.45)
 		(stroke
-			(width 0.15)
+			(width 0.16)
 			(type solid)
 		)
 		(layer "F.CrtYd")
@@ -168,7 +168,7 @@
 		(start -3.8 -2.1)
 		(end 3.75 -2.1)
 		(stroke
-			(width 0.15)
+			(width 0.16)
 			(type solid)
 		)
 		(layer "F.CrtYd")
@@ -178,7 +178,7 @@
 		(start -3.8 -2.1)
 		(end 3.75 1.45)
 		(stroke
-			(width 0.15)
+			(width 0.16)
 			(type solid)
 		)
 		(layer "F.CrtYd")
@@ -188,7 +188,7 @@
 		(start -3.8 1.45)
 		(end -3.8 -2.1)
 		(stroke
-			(width 0.15)
+			(width 0.16)
 			(type solid)
 		)
 		(layer "F.CrtYd")
@@ -198,7 +198,7 @@
 		(start -3.75 1.4)
 		(end 3.75 -2.1)
 		(stroke
-			(width 0.15)
+			(width 0.16)
 			(type solid)
 		)
 		(layer "F.CrtYd")
@@ -208,7 +208,7 @@
 		(start -3.65 -5.55)
 		(end -3.65 -3.85)
 		(stroke
-			(width 0.15)
+			(width 0.16)
 			(type solid)
 		)
 		(layer "F.CrtYd")
@@ -218,7 +218,7 @@
 		(start -1.8 -4.35)
 		(end -1.3 -3.85)
 		(stroke
-			(width 0.15)
+			(width 0.16)
 			(type solid)
 		)
 		(layer "F.CrtYd")
@@ -228,7 +228,7 @@
 		(start -1.3 -3.85)
 		(end -1.3 -3.35)
 		(stroke
-			(width 0.15)
+			(width 0.16)
 			(type solid)
 		)
 		(layer "F.CrtYd")
@@ -238,7 +238,7 @@
 		(start 0.3 -3.85)
 		(end 0.3 -5.85)
 		(stroke
-			(width 0.15)
+			(width 0.16)
 			(type solid)
 		)
 		(layer "F.CrtYd")
@@ -248,7 +248,7 @@
 		(start 1.3 -3.95)
 		(end 1.3 -3.35)
 		(stroke
-			(width 0.15)
+			(width 0.16)
 			(type solid)
 		)
 		(layer "F.CrtYd")
@@ -258,7 +258,7 @@
 		(start 1.7 -4.35)
 		(end 1.3 -3.95)
 		(stroke
-			(width 0.15)
+			(width 0.16)
 			(type solid)
 		)
 		(layer "F.CrtYd")
@@ -268,7 +268,7 @@
 		(start 3.75 -2.1)
 		(end 3.75 1.45)
 		(stroke
-			(width 0.15)
+			(width 0.16)
 			(type solid)
 		)
 		(layer "F.CrtYd")
@@ -278,7 +278,7 @@
 		(start 4.35 -5.55)
 		(end -3.65 -5.55)
 		(stroke
-			(width 0.15)
+			(width 0.16)
 			(type solid)
 		)
 		(layer "F.CrtYd")
@@ -288,7 +288,7 @@
 		(start 4.35 -5.55)
 		(end 4.35 -3.85)
 		(stroke
-			(width 0.15)
+			(width 0.16)
 			(type solid)
 		)
 		(layer "F.CrtYd")
@@ -298,7 +298,7 @@
 		(start 5.4 -4.35)
 		(end 1.7 -4.35)
 		(stroke
-			(width 0.15)
+			(width 0.16)
 			(type solid)
 		)
 		(layer "F.CrtYd")
@@ -308,7 +308,7 @@
 		(start 5.4 -3.85)
 		(end -5.4 -3.85)
 		(stroke
-			(width 0.15)
+			(width 0.16)
 			(type solid)
 		)
 		(layer "F.CrtYd")
@@ -318,7 +318,7 @@
 		(start 5.4 1.45)
 		(end 5.4 -3.85)
 		(stroke
-			(width 0.15)
+			(width 0.16)
 			(type solid)
 		)
 		(layer "F.CrtYd")

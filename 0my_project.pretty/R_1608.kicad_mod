@@ -34,7 +34,7 @@
 		(effects
 			(font
 				(size 1.27 1.27)
-				(thickness 0.15)
+				(thickness 0.16)
 			)
 		)
 	)
@@ -46,7 +46,7 @@
 		(effects
 			(font
 				(size 1.27 1.27)
-				(thickness 0.15)
+				(thickness 0.16)
 			)
 		)
 	)
@@ -58,7 +58,7 @@
 		(effects
 			(font
 				(size 1.27 1.27)
-				(thickness 0.15)
+				(thickness 0.16)
 			)
 		)
 	)
@@ -87,7 +87,7 @@
 		(start -1.7 -0.9)
 		(end 1.7 -0.9)
 		(stroke
-			(width 0.15)
+			(width 0.16)
 			(type solid)
 		)
 		(layer "F.CrtYd")
@@ -97,7 +97,7 @@
 		(start -1.7 0.9)
 		(end -1.7 -0.9)
 		(stroke
-			(width 0.15)
+			(width 0.16)
 			(type solid)
 		)
 		(layer "F.CrtYd")
@@ -107,7 +107,7 @@
 		(start 1.7 -0.9)
 		(end 1.7 0.9)
 		(stroke
-			(width 0.15)
+			(width 0.16)
 			(type solid)
 		)
 		(layer "F.CrtYd")
@@ -117,7 +117,7 @@
 		(start 1.7 0.9)
 		(end -1.7 0.9)
 		(stroke
-			(width 0.15)
+			(width 0.16)
 			(type solid)
 		)
 		(layer "F.CrtYd")

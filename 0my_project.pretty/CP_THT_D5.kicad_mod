@@ -11,7 +11,7 @@
 		(effects
 			(font
 				(size 1 1)
-				(thickness 0.15)
+				(thickness 0.16)
 			)
 		)
 	)
@@ -24,7 +24,7 @@
 		(effects
 			(font
 				(size 1 1)
-				(thickness 0.15)
+				(thickness 0.16)
 			)
 		)
 	)
@@ -37,7 +37,7 @@
 		(effects
 			(font
 				(size 1 1)
-				(thickness 0.15)
+				(thickness 0.16)
 			)
 		)
 	)
@@ -50,7 +50,7 @@
 		(effects
 			(font
 				(size 1 1)
-				(thickness 0.15)
+				(thickness 0.16)
 			)
 		)
 	)
@@ -63,7 +63,7 @@
 		(effects
 			(font
 				(size 1 1)
-				(thickness 0.15)
+				(thickness 0.16)
 			)
 		)
 	)
@@ -92,7 +92,7 @@
 		(center 0 0)
 		(end 3 0)
 		(stroke
-			(width 0.15)
+			(width 0.16)
 			(type default)
 		)
 		(fill none)
@@ -130,7 +130,7 @@
 		(effects
 			(font
 				(size 1 1)
-				(thickness 0.15)
+				(thickness 0.16)
 			)
 		)
 	)

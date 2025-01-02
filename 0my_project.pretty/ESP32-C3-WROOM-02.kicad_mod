@@ -10,7 +10,7 @@
 		(effects
 			(font
 				(size 1 1)
-				(thickness 0.15)
+				(thickness 0.16)
 			)
 		)
 	)
@@ -22,7 +22,7 @@
 		(effects
 			(font
 				(size 1 1)
-				(thickness 0.15)
+				(thickness 0.16)
 			)
 		)
 	)
@@ -34,7 +34,7 @@
 		(effects
 			(font
 				(size 1.27 1.27)
-				(thickness 0.15)
+				(thickness 0.16)
 			)
 		)
 	)
@@ -46,7 +46,7 @@
 		(effects
 			(font
 				(size 1.27 1.27)
-				(thickness 0.15)
+				(thickness 0.16)
 			)
 		)
 	)
@@ -58,7 +58,7 @@
 		(effects
 			(font
 				(size 1.27 1.27)
-				(thickness 0.15)
+				(thickness 0.16)
 			)
 		)
 	)
@@ -68,7 +68,7 @@
 		(start -10.3 -14)
 		(end 10.3 -14)
 		(stroke
-			(width 0.15)
+			(width 0.16)
 			(type solid)
 		)
 		(layer "F.SilkS")
@@ -78,7 +78,7 @@
 		(start -9 -13.45)
 		(end -9 -14)
 		(stroke
-			(width 0.15)
+			(width 0.16)
 			(type solid)
 		)
 		(layer "F.SilkS")
@@ -88,7 +88,7 @@
 		(start -7.2 0)
 		(end 7.2 0)
 		(stroke
-			(width 0.15)
+			(width 0.16)
 			(type solid)
 		)
 		(layer "F.SilkS")
@@ -98,7 +98,7 @@
 		(start 9 -13.5)
 		(end 9 -14)
 		(stroke
-			(width 0.15)
+			(width 0.16)
 			(type solid)
 		)
 		(layer "F.SilkS")
@@ -108,7 +108,7 @@
 		(center -6.3 -12.5)
 		(end -5.9 -12.1)
 		(stroke
-			(width 0.15)
+			(width 0.16)
 			(type solid)
 		)
 		(fill none)
@@ -119,7 +119,7 @@
 		(start -9 -20)
 		(end 9 -20)
 		(stroke
-			(width 0.15)
+			(width 0.16)
 			(type solid)
 		)
 		(layer "Dwgs.User")
@@ -129,7 +129,7 @@
 		(start -9 -14)
 		(end -9 -20)
 		(stroke
-			(width 0.15)
+			(width 0.16)
 			(type solid)
 		)
 		(layer "Dwgs.User")
@@ -139,7 +139,7 @@
 		(start 9 -20)
 		(end 9 -14)
 		(stroke
-			(width 0.15)
+			(width 0.16)
 			(type solid)
 		)
 		(layer "Dwgs.User")
