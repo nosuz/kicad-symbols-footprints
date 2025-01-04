@@ -106,6 +106,7 @@ git submodule add https://github.com/nosuz/kicad-symbols-footprints.git nosuz-li
 | KM-23ESGC             | Two color (Red and Green) LED                                             | SOT-23_AM23ESGW             | AM23ESGW           |
 | LTST-C195KGKFKT       | Two color (Orange and Green) LED                                          | LTST-C195KGKFKT             |                    |
 | LED                   |                                                                           | LED_6mm                     |                    |
+| LED                   |                                                                           | LED_4mm                     |                    |
 | ORH-x36x              | LED, 1608                                                                 | ORH-x36x                    |                    |
 | ORH-YG36A             | LED, 1608                                                                 | ORH-x36x                    | ORH-x36x           |
 | ORH-R36A              | LED, 1608                                                                 | ORH-x36x                    | ORH-x36x           |
