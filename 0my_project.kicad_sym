@@ -30722,6 +30722,74 @@
 			)
 		)
 	)
+	(symbol "FT245R"
+		(extends "FT245RN")
+		(property "Reference" "U"
+			(at 5.08 6.35 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "FT245RN"
+			(at 5.08 3.81 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "0my_project:SSOP-28_FTDI"
+			(at 0.508 -52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://ftdichip.com/wp-content/uploads/2020/08/DS_FT245R.pdf"
+			(at 0.508 -49.784 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Description" "FTDI USB FIFO interface"
+			(at 12.192 -47.752 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C12633"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ki_keywords" "FTDI USB FIFO parallele interface"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+	)
 	(symbol "GT-TC029x-Hxxx-L1N"
 		(extends "Tactile_Switch_2P")
 		(property "Reference" "SW"

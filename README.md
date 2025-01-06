@@ -36,6 +36,7 @@ git submodule add https://github.com/nosuz/kicad-symbols-footprints.git nosuz-li
 | **interface devices** |                                                                           |                             |                    |
 | FT231XS               | USB-Serial converter                                                      | SSOP-20_FT231X              |                    |
 | FT245RN               | FTDI USB FIFO parallele interface                                         | SSOP-28_FTDI                |                    |
+| FT245R                | FTDI USB FIFO parallele interface                                         | SSOP-28_FTDI                | FT245RN            |
 | CH224K                | USB PD sink controller                                                    | ESSOP-10_CH224K             |                    |
 | **sensors**           |                                                                           |                             |                    |
 | SH4x                  | Relative Humidity and Temperature Sensor                                  | SHT4x                       |                    |
