@@ -59,6 +59,8 @@ git submodule add https://github.com/nosuz/kicad-symbols-footprints.git nosuz-li
 | 74VHC21               | Dual 4-input AND                                                          |                             | 74HC21             |
 | 74HC32                | Quad 2-input OR                                                           |                             |                    |
 | 74VHC32               | Quad 2-input OR                                                           |                             | 74HC32             |
+| 74LVC138              | 3-Line to 8-Line Decoders Demultiplexers                                  |                             |                    |
+| SN74LVC138ADR         | 3-Line to 8-Line Decoders Demultiplexers                                  | SOIC-16_SN74LVC138ADR       | 74LVC138           |
 | 74HC139               | Dual Decoder 1 of 4 Active low outputs                                    |                             |                    |
 | 74VHC139              | Dual Decoder 1 of 4 Active low outputs                                    |                             | 74HC139            |
 | SN74LVC245A           | Octal Bus Transceiver With 3-State Outputs                                |                             |                    |
