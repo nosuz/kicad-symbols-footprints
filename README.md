@@ -64,6 +64,8 @@ git submodule add https://github.com/nosuz/kicad-symbols-footprints.git nosuz-li
 | 74VHC574              | 8-bit Latch 3-state outputs                                               |                             | 74HC574            |
 | SN74CB3T3245          | 8-Bit FET Bus Switch with 5V-Tolerant Level Shifter                       |                             |                    |
 | SN74CB3T3245DW        | 8-Bit FET Bus Switch with 5V-Tolerant Level Shifter                       | SOIC-20_SN74CB3T3245        | SN74CB3T3245       |
+| SN74LVC245A           | Octal Bus Transceiver With 3-State Outputs                                |                             |                    |
+| SN74LVC245APW         | Octal Bus Transceiver With 3-State Outputs                                | TSSOP-20_SN74LVC245APW      | SN74LVC245A        |
 | TC7S32                | 2-Input OR Gate, Single gate                                              |                             |                    |
 | TC7S32F               | 2-Input OR Gate, Single gate                                              | SSOP5_TC7S32F               | TC7S32             |
 | TC7S32FU              | 2-Input OR Gate, Single gate                                              | SSOP5_TC7S32FU              | TC7S32             |
