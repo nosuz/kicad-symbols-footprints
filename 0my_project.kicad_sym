@@ -3,6 +3,7 @@
 	(generator "kicad_symbol_editor")
 	(generator_version "8.0")
 	(symbol "74AHC1G04"
+		(pin_numbers hide)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
@@ -342,7 +343,7 @@
 					(type none)
 				)
 			)
-			(pin input line
+			(pin no_connect line
 				(at -6.35 6.35 0)
 				(length 2.54) hide
 				(name "NC"
@@ -22607,6 +22608,7 @@
 		)
 	)
 	(symbol "SN74LVC245A"
+		(pin_numbers hide)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
@@ -22714,8 +22716,8 @@
 					)
 				)
 			)
-			(pin tri_state line
-				(at 22.86 -22.86 180)
+			(pin bidirectional line
+				(at 22.86 -20.32 180)
 				(length 5.08)
 				(name "B8"
 					(effects
@@ -22732,8 +22734,8 @@
 					)
 				)
 			)
-			(pin tri_state line
-				(at 22.86 -20.32 180)
+			(pin bidirectional line
+				(at 22.86 -17.78 180)
 				(length 5.08)
 				(name "B7"
 					(effects
@@ -22750,8 +22752,8 @@
 					)
 				)
 			)
-			(pin tri_state line
-				(at 22.86 -17.78 180)
+			(pin bidirectional line
+				(at 22.86 -15.24 180)
 				(length 5.08)
 				(name "B6"
 					(effects
@@ -22768,8 +22770,8 @@
 					)
 				)
 			)
-			(pin tri_state line
-				(at 22.86 -15.24 180)
+			(pin bidirectional line
+				(at 22.86 -12.7 180)
 				(length 5.08)
 				(name "B5"
 					(effects
@@ -22786,8 +22788,8 @@
 					)
 				)
 			)
-			(pin tri_state line
-				(at 22.86 -12.7 180)
+			(pin bidirectional line
+				(at 22.86 -10.16 180)
 				(length 5.08)
 				(name "B4"
 					(effects
@@ -22804,8 +22806,8 @@
 					)
 				)
 			)
-			(pin tri_state line
-				(at 22.86 -10.16 180)
+			(pin bidirectional line
+				(at 22.86 -7.62 180)
 				(length 5.08)
 				(name "B3"
 					(effects
@@ -22822,8 +22824,8 @@
 					)
 				)
 			)
-			(pin tri_state line
-				(at 22.86 -7.62 180)
+			(pin bidirectional line
+				(at 22.86 -5.08 180)
 				(length 5.08)
 				(name "B2"
 					(effects
@@ -22840,8 +22842,8 @@
 					)
 				)
 			)
-			(pin tri_state line
-				(at 22.86 -5.08 180)
+			(pin bidirectional line
+				(at 22.86 -2.54 180)
 				(length 5.08)
 				(name "B1"
 					(effects
@@ -22859,7 +22861,7 @@
 				)
 			)
 			(pin input line
-				(at 22.86 -2.54 180)
+				(at 22.86 -22.86 180)
 				(length 5.08)
 				(name "~{OE}"
 					(effects
@@ -22876,7 +22878,7 @@
 					)
 				)
 			)
-			(pin tri_state line
+			(pin bidirectional line
 				(at 0 -2.54 0)
 				(length 5.08)
 				(name "A1"
@@ -22912,7 +22914,7 @@
 					)
 				)
 			)
-			(pin tri_state line
+			(pin bidirectional line
 				(at 0 -5.08 0)
 				(length 5.08)
 				(name "A2"
@@ -22930,7 +22932,7 @@
 					)
 				)
 			)
-			(pin tri_state line
+			(pin bidirectional line
 				(at 0 -7.62 0)
 				(length 5.08)
 				(name "A3"
@@ -22948,7 +22950,7 @@
 					)
 				)
 			)
-			(pin tri_state line
+			(pin bidirectional line
 				(at 0 -10.16 0)
 				(length 5.08)
 				(name "A4"
@@ -22966,7 +22968,7 @@
 					)
 				)
 			)
-			(pin tri_state line
+			(pin bidirectional line
 				(at 0 -12.7 0)
 				(length 5.08)
 				(name "A5"
@@ -22984,7 +22986,7 @@
 					)
 				)
 			)
-			(pin tri_state line
+			(pin bidirectional line
 				(at 0 -15.24 0)
 				(length 5.08)
 				(name "A6"
@@ -23002,7 +23004,7 @@
 					)
 				)
 			)
-			(pin tri_state line
+			(pin bidirectional line
 				(at 0 -17.78 0)
 				(length 5.08)
 				(name "A7"
@@ -23020,7 +23022,7 @@
 					)
 				)
 			)
-			(pin tri_state line
+			(pin bidirectional line
 				(at 0 -20.32 0)
 				(length 5.08)
 				(name "A8"
