@@ -24334,7 +24334,7 @@
 					)
 				)
 			)
-			(pin power_in line
+			(pin power_out line
 				(at 40.64 -55.88 180)
 				(length 5.08)
 				(name "GND"
@@ -31792,7 +31792,7 @@
 					)
 				)
 			)
-			(pin passive line
+			(pin power_out line
 				(at -1.27 -19.05 90)
 				(length 2.54) hide
 				(name "GND"
@@ -31882,7 +31882,7 @@
 					)
 				)
 			)
-			(pin passive line
+			(pin power_out line
 				(at 10.16 15.24 180)
 				(length 2.54)
 				(name "VBUS"
