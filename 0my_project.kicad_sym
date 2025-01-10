@@ -23720,7 +23720,7 @@
 			)
 		)
 	)
-	(symbol "TXB0104"
+	(symbol "TXB0104D"
 		(pin_numbers hide)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -23734,7 +23734,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "TXB0104"
+		(property "Value" "TXB0104D"
 			(at 6.604 -19.05 0)
 			(effects
 				(font
@@ -23772,7 +23772,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" ""
+		(property "LCSC" "C1549752"
 			(at 0 0 0)
 			(effects
 				(font
@@ -23781,7 +23781,7 @@
 				(hide yes)
 			)
 		)
-		(symbol "TXB0104_1_1"
+		(symbol "TXB0104D_1_1"
 			(rectangle
 				(start 5.08 2.54)
 				(end 20.32 -17.145)
@@ -36115,6 +36115,65 @@
 			)
 		)
 		(property "ki_fp_filters" "TVAF06-A020B-R"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+	)
+	(symbol "TXB0104PW"
+		(extends "TXB0104D")
+		(property "Reference" "U"
+			(at 17.526 4.064 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "TXB0104PW"
+			(at 6.604 -19.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "0my_project:TSSOP-14_TXB0140"
+			(at 5.08 1.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.ti.com/lit/ds/symlink/txb0104.pdf"
+			(at 5.08 -3.81 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Description" "4-Bit Bidirectional Voltage-Level Translator"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C60708"
 			(at 0 0 0)
 			(effects
 				(font
