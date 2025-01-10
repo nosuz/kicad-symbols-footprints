@@ -90,18 +90,6 @@
 		(layer "F.CrtYd")
 		(uuid "497a7705-5222-4d6e-9f51-44ded180249e")
 	)
-	(fp_text user "${REFERENCE}"
-		(at 0 2.5 0)
-		(unlocked yes)
-		(layer "F.Fab")
-		(uuid "b7212d15-8a4b-47d7-94a4-945ab67d1c4d")
-		(effects
-			(font
-				(size 1 1)
-				(thickness 0.15)
-			)
-		)
-	)
 	(pad "1" smd rect
 		(at -0.95 1.45)
 		(size 0.8 0.9)
