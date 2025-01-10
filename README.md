@@ -76,6 +76,7 @@ git submodule add https://github.com/nosuz/kicad-symbols-footprints.git nosuz-li
 | TC7S32                | 2-Input OR Gate, Single gate                                              |                             |                    |
 | TC7S32F               | 2-Input OR Gate, Single gate                                              | SSOP5_TC7S32F               | TC7S32             |
 | TC7S32FU              | 2-Input OR Gate, Single gate                                              | SSOP5_TC7S32FU              | TC7S32             |
+| TXB0104               | 4-Bit Bidirectional Voltage-Level Translator                              | SOIC-14_TXB0104             |                    |
 | **power devices**     |                                                                           |                             |                    |
 | NJU7223DL1-xx         | Linear regulator                                                          | TO-252-3-L1                 |                    |
 | NJU7223DL1-18         | Linear regulator                                                          | TO-252-3-L1                 | NJU7223DL1-xx      |
