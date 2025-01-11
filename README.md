@@ -73,6 +73,7 @@ git submodule add https://github.com/nosuz/kicad-symbols-footprints.git nosuz-li
 | SN74AHC1G04DBVR       | Single Inverter Gate                                                      | SOT-23-5_TI                 | 74AHC1G04          |
 | 74AHC1G07             | Buffer/Driver with Open Drain, single Gate                                |                             |                    |
 | 74AHC1G07GV-P         | Buffer/Driver with Open Drain, single Gate                                | TSOT-23-5_74AHC1G07GV       | 74AHC1G07          |
+| 74VLC1T45W            | Dual power supply Single bit Buffer                                       | SOT-26_74LVC1T45            |                    |
 | TC7S32                | 2-Input OR Gate, Single gate                                              |                             |                    |
 | TC7S32F               | 2-Input OR Gate, Single gate                                              | SSOP5_TC7S32F               | TC7S32             |
 | TC7S32FU              | 2-Input OR Gate, Single gate                                              | SSOP5_TC7S32FU              | TC7S32             |
