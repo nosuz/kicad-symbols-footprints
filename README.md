@@ -130,6 +130,7 @@ git submodule add https://github.com/nosuz/kicad-symbols-footprints.git nosuz-li
 | USB_Type-C            | USB Type-C socket                                                         | 5077CR-16SMC2-BK-TR         |                    |
 | 5077CR-16SMC2-BK-TR   | USB Type-C socket                                                         | 5077CR-16SMC2-BK-TR         | USB_Type-C         |
 | GT-USB-9047A          | USB Type-C socket                                                         | GT-USB-9047A                | USB_Type-C         |
+| TYPEC-304-ACP16       | USB Type-C socket, 5077CR-16SMC2-BK-TR compatible?                        | TYPEC-304-ACP16             | USB_Type-C         |
 | USB_Type-C_Power      | USB Type-C Power only socket                                              | UJC-HP-3-SMT-TR             |                    |
 | USB-micro-B           | USB Micro B connector                                                     | ZX62R-B-5P                  | USB-micro-B        |
 | ZX62R-B-5P            | USB Micro B connector                                                     | ZX62R-B-5P                  |                    |
