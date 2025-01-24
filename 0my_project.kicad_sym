@@ -35838,7 +35838,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "0my_project:DIP-20_SN"
+		(property "Footprint" "0my_project:DIP-20_TI-N"
 			(at 5.08 1.27 0)
 			(effects
 				(font
@@ -35858,7 +35858,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Octal Bus Transceiver With 3-State Outputs"
+		(property "Description" "Octal Bus Transceiver With 3-State Outputs, DIP"
 			(at 0 0 0)
 			(effects
 				(font

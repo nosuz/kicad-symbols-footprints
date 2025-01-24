@@ -65,7 +65,7 @@ git submodule add https://github.com/nosuz/kicad-symbols-footprints.git nosuz-li
 | 74VHC139              | Dual Decoder 1 of 4 Active low outputs                                    |                             | 74HC139            |
 | SN74LVC245A           | Octal Bus Transceiver With 3-State Outputs                                |                             |                    |
 | SN74LVC245APW         | Octal Bus Transceiver With 3-State Outputs                                | TSSOP-20_SN74LVC245APW      | SN74LVC245A        |
-| SN74LVC245AN          | Octal Bus Transceiver With 3-State Outputs, DIP                           | DIP-20_SN                   | SN74LVC245A        |
+| SN74LVC245AN          | Octal Bus Transceiver With 3-State Outputs, DIP                           | DIP-20_TI-N                 | SN74LVC245A        |
 | SN74LVC245ANS         | Octal Bus Transceiver With 3-State Outputs, SOIC                          | SOIC-20_TI-NS               | SN74LVC245A        |
 | 74HC574               | 8-bit Latch 3-state outputs                                               |                             |                    |
 | 74VHC574              | 8-bit Latch 3-state outputs                                               |                             | 74HC574            |
