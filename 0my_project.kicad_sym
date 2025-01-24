@@ -23964,7 +23964,16 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C1549752"
+		(property "LCSC" "C2652946"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ki_keywords" "4-Bit Bidirectional Voltage-Level Translator"
 			(at 0 0 0)
 			(effects
 				(font
