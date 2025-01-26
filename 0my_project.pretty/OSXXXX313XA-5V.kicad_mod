@@ -1,0 +1,144 @@
+(footprint "OSXXXX313XA-5V"
+	(version 20240108)
+	(generator "pcbnew")
+	(generator_version "8.0")
+	(layer "F.Cu")
+	(property "Reference" "REF**"
+		(at -1.86 -2.49 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "4f607ee6-8caa-40bc-ad99-b8ed579a74af")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.16)
+			)
+		)
+	)
+	(property "Value" "OSXXXX313XA-5V"
+		(at 0 1 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "4c4220a3-757e-412a-8155-5595f12b8e13")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Footprint" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "35a7fad5-e625-4374-a0ad-bd4f3c38b2ce")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "40b502f3-28ed-4958-a8eb-ca5e05025de9")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "117c3c15-2348-4161-988a-7b63e3fcba0b")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr through_hole)
+	(fp_line
+		(start 2.01 -2.01)
+		(end 2.01 2.01)
+		(stroke
+			(width 0.16)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "6205df13-7130-4789-8556-87c8cd672e77")
+	)
+	(fp_circle
+		(center -0.01 0.01)
+		(end 1.95 0.01)
+		(stroke
+			(width 0.16)
+			(type default)
+		)
+		(fill none)
+		(layer "F.SilkS")
+		(uuid "848acd92-1025-4edf-ac9a-b457ba0880d3")
+	)
+	(fp_circle
+		(center 0 0)
+		(end 2.57 0)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(fill none)
+		(layer "F.CrtYd")
+		(uuid "bb5f914b-7a24-42a0-bdf9-06e9cd950a57")
+	)
+	(fp_text user "K"
+		(at 0.72 -1.93 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "994b9d88-fb71-4e9a-b03d-356913b0e71b")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.16)
+			)
+			(justify left bottom)
+		)
+	)
+	(fp_text user "${REFERENCE}"
+		(at 0 2.5 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "2faff44b-e226-4a2e-884e-bce5bdffc3fa")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(pad "1" thru_hole circle
+		(at -1.27 0)
+		(size 1.6 1.6)
+		(drill 1)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "8bad42c5-1d92-41eb-b915-5363c8c6eafc")
+	)
+	(pad "2" thru_hole circle
+		(at 1.27 0)
+		(size 1.6 1.6)
+		(drill 1)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "f1dca666-9e7d-45e5-9b35-c8ec4c911ea9")
+	)
+)

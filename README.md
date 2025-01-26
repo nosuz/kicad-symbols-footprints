@@ -119,11 +119,13 @@ git submodule add https://github.com/nosuz/kicad-symbols-footprints.git nosuz-li
 | OSWT1608              | 1608 LED                                                                  | 1608_OSxx1608               | OSxx1608           |
 | OSYG1608              | 1608 LED                                                                  | 1608_OSxx1608               | OSxx1608           |
 | OSYL1608              | 1608 LED                                                                  | 1608_OSxx1608               | OSxx1608           |
+| OSXXXX313XA-5V        | LED with R, 3 mm                                                          | OSXXXX313XA-5V              | LED_R              |
 | AM23ESGW              | Two color (Red and Green) LED                                             | SOT-23_AM23ESGW             |                    |
 | KM-23ESGC             | Two color (Red and Green) LED                                             | SOT-23_AM23ESGW             | AM23ESGW           |
 | LTST-C195KGKFKT       | Two color (Orange and Green) LED                                          | LTST-C195KGKFKT             |                    |
 | LED                   |                                                                           | LED_6mm                     |                    |
 | LED                   |                                                                           | LED_4mm                     |                    |
+| LED_R                 | LED with R                                                                |                             |                    |
 | ORH-x36x              | LED, 1608                                                                 | ORH-x36x                    |                    |
 | ORH-YG36A             | LED, 1608                                                                 | ORH-x36x                    | ORH-x36x           |
 | ORH-R36A              | LED, 1608                                                                 | ORH-x36x                    | ORH-x36x           |
