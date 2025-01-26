@@ -146,6 +146,7 @@ git submodule add https://github.com/nosuz/kicad-symbols-footprints.git nosuz-li
 | K2-1822SA             | Tacticle switch 2P, 3.0mm x 2.5mm                                         | K2-1822SA                   | Tactile_Switch_2P  |
 | SKSTAAE010            | Tacticle switch 2P, 8.5mm x 8.5mm                                         | SKSTAXE010                  | Tactile_Switch_2P  |
 | TAEF-25xx             | Tacticle switch 2P, 6.0mm x 3.8mm                                         | TAEF-25xx                   | Tactile_Switch_2P  |
+| TVBP06-B043C          | Tacticle switch 2P, THT                                                   | TVBP06-B043C                | Tactile_Switch_2P  |
 | Tactile_Switch_4P     | Tacticle switch 4P                                                        |                             |                    |
 | TS-06104              | Tacticle switch 4P                                                        | TS-06104                    | Tactile_Switch_4P  |
 | SKRPABE010            | Tacticle switch 4P                                                        | SKRPAxE010                  | Tactile_Switch_4P  |
