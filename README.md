@@ -184,4 +184,5 @@ git submodule add https://github.com/nosuz/kicad-symbols-footprints.git nosuz-li
 |                       | 3P IC socket for crystal unit                                             | Y_3P                        |                    |
 |                       | SWPA inductor                                                             | SWPA6028Sxxx                |                    |
 |                       | Jumper ジャン太                                                           | jumper_XX-2                 |                    |
+|                       | Raspberry Pi HAT connector (40P) and mechanical holes                     | Raspberry_Pi_HAT_conn       |                    |
 | Logo_image            | My logo image                                                             | Icon_Nosuz                  |                    |
