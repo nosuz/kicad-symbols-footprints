@@ -4,6 +4,8 @@
 
 1. Import this library under your KiCad project as submodule.
 
+Note: the project to be import this library should be initialized by `git init` or `git clone`.
+
 ```
 git submodule add https://github.com/nosuz/kicad-symbols-footprints.git nosuz-lib
 ```
