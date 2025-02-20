@@ -33946,7 +33946,7 @@
 				)
 			)
 		)
-		(property "Value" "Tactile_Switch_4P"
+		(property "Value" "DTS-6x"
 			(at 0 -2.54 0)
 			(effects
 				(font
