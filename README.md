@@ -139,6 +139,7 @@ git submodule add https://github.com/nosuz/kicad-symbols-footprints.git nosuz-li
 | GT-USB-9047A          | USB Type-C socket                                                         | GT-USB-9047A                | USB_Type-C         |
 | TYPEC-304-ACP16       | USB Type-C socket, 5077CR-16SMC2-BK-TR compatible?                        | TYPEC-304-ACP16             | USB_Type-C         |
 | USB_Type-C_Power      | USB Type-C Power only socket                                              | UJC-HP-3-SMT-TR             |                    |
+| A295-CTRPB-1          | USB Type-C Power only socket                                              | A295-CTRPB-1                |                    |
 | USB-micro-B           | USB Micro B connector                                                     | ZX62R-B-5P                  | USB-micro-B        |
 | ZX62R-B-5P            | USB Micro B connector                                                     | ZX62R-B-5P                  |                    |
 |                       | XH terminal post 2P, Top type                                             | B2B-XH-A                    |                    |
