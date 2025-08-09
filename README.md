@@ -2,12 +2,15 @@
 
 ## Usage
 
-1. Import this library under your KiCad project as submodule.
+1. If your KiCad project is managed under Git, import this library as a submodule. If you are not familiar with Git, download Zip file and extract symbols and footprints.
 
-Note: the project to be import this library should be initialized by `git init` or `git clone`.
-
-```
+```bash
+# 1a. As Git submodule
 git submodule add https://github.com/nosuz/kicad-symbols-footprints.git nosuz-lib
+
+# 1b. Download and unzip
+wget https://github.com/nosuz/kicad-symbols-footprints/archive/refs/heads/main.zip
+# and unzip main.zip followed by rename to nosuz-lib
 ```
 
 2. Import symbols and footprints in project library from KiCad Preference menu.
