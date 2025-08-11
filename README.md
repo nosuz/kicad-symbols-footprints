@@ -54,6 +54,8 @@ wget https://github.com/nosuz/kicad-symbols-footprints/archive/refs/heads/main.z
 | ADT7310               | SPI Temperature Sensor                                                    | SOIC_N-8                    |                    |
 | ADT7410               | I2C Temperature Sensor                                                    | SOIC_N-8                    |                    |
 | SHTC3                 | I2C Temperature Sensor                                                    | SHTC3                       |                    |
+| PJ8577                | I2C Temperature Sensor                                                    |                             |                    |
+| PJ8577P               | I2C Temperature Sensor                                                    | SOIC-8_PJ8577P              | PJ8577             |
 | S-5851A               | 2-wire digital temperature sensor                                         | SOT-23-6                    |                    |
 | S-5851AAA-M6T1        | 2-wire digital temperature sensor                                         | SOT-23-6                    | S-5851A            |
 | TouchPad              | Capacitance touch sensor                                                  | Touch-Pad_10mm              |                    |

@@ -1,0 +1,183 @@
+(footprint "SOIC-8_PJ85775P"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(descr "PJ85775P")
+	(tags "I2C Thermo sensor")
+	(property "Reference" "REF**"
+		(at -3.705 0 90)
+		(layer "F.SilkS")
+		(uuid "3a379071-0e1f-4d60-9be3-f59b14b516b9")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "SOIC-8_PJ85775P"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(uuid "825c35df-d892-425a-af6f-49f0bf717796")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" "https://www.panjit.com.tw/upload/datasheet/PJ85775.pdf"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "44fd398c-0b34-4962-87ae-9622f4a51099")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" "I2C thermo sensor"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "dc4a75ac-3f75-4988-8385-be69a0cc617b")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(fp_line
+		(start -2.55 3.1)
+		(end -2.55 -3.1)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "65a9f900-9505-4982-b4d8-58b82491ce04")
+	)
+	(fp_line
+		(start 2.55 -3.1)
+		(end 2.55 3.1)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "b9264cf8-46fe-4945-9ab2-f702c87c0da8")
+	)
+	(fp_circle
+		(center -4 2.7)
+		(end -3.5 2.7)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(fill yes)
+		(layer "F.SilkS")
+		(uuid "eae86cd0-a404-4d60-aed7-917299b412ba")
+	)
+	(fp_line
+		(start -2.46 -3.7)
+		(end 2.46 -3.7)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "bc0e7a07-93b5-4e96-9f0d-b5b47161af4a")
+	)
+	(fp_line
+		(start -2.46 3.7)
+		(end -2.46 -3.7)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(layer "F.CrtYd")
+		(uuid "67c83b10-de90-4422-9179-73acabe3008f")
+	)
+	(fp_line
+		(start 2.46 -3.7)
+		(end 2.46 3.7)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(layer "F.CrtYd")
+		(uuid "f9165656-e966-4660-9771-8602e43d8b86")
+	)
+	(fp_line
+		(start 2.46 3.7)
+		(end -2.46 3.7)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(layer "F.CrtYd")
+		(uuid "c003b4b8-f573-4150-b2a9-6965d243b0dc")
+	)
+	(pad "1" smd rect
+		(at -1.905 2.7)
+		(size 0.6 1.5)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(thermal_bridge_angle 45)
+		(uuid "4bf14241-f66b-475f-9293-ea0b88c9520b")
+	)
+	(pad "2" smd rect
+		(at -0.635 2.7)
+		(size 0.6 1.5)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(thermal_bridge_angle 45)
+		(uuid "3c9ae9ed-ed53-4880-aed5-9b377f25c9aa")
+	)
+	(pad "3" smd rect
+		(at 0.635 2.7)
+		(size 0.6 1.5)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(thermal_bridge_angle 45)
+		(uuid "718b063d-8147-42a7-a5af-cac5c7a7f305")
+	)
+	(pad "4" smd rect
+		(at 1.905 2.7)
+		(size 0.6 1.5)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(thermal_bridge_angle 45)
+		(uuid "4c28755e-cf50-45e4-9cd8-9eb2303c4011")
+	)
+	(pad "5" smd rect
+		(at 1.905 -2.7)
+		(size 0.6 1.5)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(thermal_bridge_angle 45)
+		(uuid "42c0c375-4043-4a0e-afe2-de65cbec741f")
+	)
+	(pad "6" smd rect
+		(at 0.635 -2.7)
+		(size 0.6 1.5)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(thermal_bridge_angle 45)
+		(uuid "18cb62e0-49d6-4479-9f6d-97b712eaa55a")
+	)
+	(pad "7" smd rect
+		(at -0.635 -2.7)
+		(size 0.6 1.5)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(thermal_bridge_angle 45)
+		(uuid "3e9533c0-7014-470d-b081-5bbf5271ece3")
+	)
+	(pad "8" smd rect
+		(at -1.905 -2.7)
+		(size 0.6 1.5)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(thermal_bridge_angle 45)
+		(uuid "3703b5a7-8bb7-4a19-b66e-181ba92e8b77")
+	)
+	(embedded_fonts no)
+)
