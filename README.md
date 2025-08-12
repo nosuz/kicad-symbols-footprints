@@ -104,6 +104,8 @@ wget https://github.com/nosuz/kicad-symbols-footprints/archive/refs/heads/main.z
 | NJM2845DL1            | Linear regulator                                                          | TO-252-3-L1                 |                    |
 | NJM2845DL1-05         | Linear regulator                                                          | TO-252-3-L1                 | NJM2845DL1         |
 | NJM2845DL1-33         | Linear regulator                                                          | TO-252-3-L1                 | NJM2845DL1         |
+| ADP3338               | 1A LDO Regulator                                                          | SOT-223-3_TabPin2           |                    |
+| ADP3338AKCZ-3.3       | 3.3V 1A LDO Regulator                                                     | SOT-223-3_TabPin2           | ADP3338            |
 | TPS740xx              | 600mA CMOS LDO Regulator                                                  | SOT-23-5L                   |                    |
 | TPS74033SF5           | 600mA CMOS LDO Regulator                                                  | SOT-23-5L                   | TPS740xx           |
 | AP2112M               | 600mA LDO Regulator                                                       | SO-8_AP2112M                |                    |

@@ -4789,6 +4789,133 @@
 		)
 		(embedded_fonts no)
 	)
+	(symbol "ADP3338"
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(property "Reference" "U"
+			(at -5.842 4.064 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "ADP3338"
+			(at 4.572 3.81 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Package_TO_SOT_SMD:SOT-223-3_TabPin2"
+			(at -18.542 -8.636 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.analog.com/media/en/technical-documentation/data-sheets/ADP3338.pdf"
+			(at -20.32 -6.604 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Low dropout regulator (LDO ) 1A"
+			(at -18.796 -10.922 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ki_keywords" "LDO Low dropout regulator 3.3V 1A"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(symbol "ADP3338_0_1"
+			(rectangle
+				(start -6.35 2.54)
+				(end 6.35 -6.35)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+		)
+		(symbol "ADP3338_1_1"
+			(pin power_in line
+				(at -11.43 0 0)
+				(length 5.08)
+				(name "Vin"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "3"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin power_in line
+				(at 0 -11.43 90)
+				(length 5.08)
+				(name "GND"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "1"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin power_out line
+				(at 11.43 0 180)
+				(length 5.08)
+				(name "Vout"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "2"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+		)
+		(embedded_fonts no)
+	)
 	(symbol "ADT7310"
 		(pin_numbers
 			(hide yes)
@@ -13983,15 +14110,6 @@
 				)
 				(fill
 					(type background)
-				)
-			)
-			(text "Boot\n	SPI Boot(default): GPIO8 = any (float), GPIO9 = 1 (pull-up)\n	Download Boot: GPIO8 = 1, GPIO9 = 0\nSDIO\n	default: MTMS (float), MTDI (float)\nROM Message Print\n	default: GPIO15 (float)\n"
-				(at 7.366 -36.068 0)
-				(effects
-					(font
-						(size 1.016 1.016)
-					)
-					(justify left)
 				)
 			)
 			(pin no_connect line
@@ -35036,6 +35154,61 @@
 			)
 		)
 		(property "ki_keywords" "TTL DFF DFF8 LATCH 3State"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+	)
+	(symbol "ADP3338AKCZ-3.3"
+		(extends "ADP3338")
+		(property "Reference" "U"
+			(at -5.842 4.064 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "ADP3338AKCZ-3.3"
+			(at 9.398 4.064 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Package_TO_SOT_SMD:SOT-223-3_TabPin2"
+			(at -18.542 -8.636 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.analog.com/media/en/technical-documentation/data-sheets/ADP3338.pdf"
+			(at -20.32 -6.604 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Low dropout regulator (LDO ) 3.3V 1A"
+			(at -18.796 -10.922 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ki_keywords" "LDO Low dropout regulator 3.3V 1A"
 			(at 0 0 0)
 			(effects
 				(font
