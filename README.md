@@ -196,3 +196,22 @@ wget https://github.com/nosuz/kicad-symbols-footprints/archive/refs/heads/main.z
 |                       | Jumper ジャン太                                                           | jumper_XX-2                 |                    |
 |                       | Raspberry Pi HAT connector (40P) and mechanical holes                     | Raspberry_Pi_HAT_conn       |                    |
 | Logo_image            | My logo image                                                             | Icon_Nosuz                  |                    |
+
+## Modules Memo
+
+### ESP32-C6-WROOM-1
+
+Boot
+ SPI Boot(default):
+  GPIO8 = any (float),
+  GPIO9 = 1 (pull-up)
+ Download Boot:
+  GPIO8 = 1,
+  GPIO9 = 0
+SDIO
+ default:
+  MTMS (float),
+  MTDI (float)
+ROM Message Print
+ default:
+  GPIO15 (float)
