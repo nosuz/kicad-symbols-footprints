@@ -4925,7 +4925,7 @@
 		(in_bom yes)
 		(on_board yes)
 		(property "Reference" "U"
-			(at 0 -10.795 0)
+			(at -5.588 9.144 0)
 			(effects
 				(font
 					(size 1.4986 1.4986)
@@ -4933,7 +4933,7 @@
 			)
 		)
 		(property "Value" "ADT7310"
-			(at 0 6.35 0)
+			(at 5.842 9.144 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4967,6 +4967,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C578060"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(property "ki_keywords" "SPI,  themo sensor"
 			(at 0 0 0)
 			(effects
@@ -4978,8 +4987,8 @@
 		)
 		(symbol "ADT7310_0_1"
 			(rectangle
-				(start -5.715 5.08)
-				(end 5.715 -8.89)
+				(start -6.35 7.62)
+				(end 6.35 -11.43)
 				(stroke
 					(width 0)
 					(type default)
@@ -4991,7 +5000,7 @@
 		)
 		(symbol "ADT7310_1_1"
 			(pin input line
-				(at -8.255 3.175 0)
+				(at -8.89 3.81 0)
 				(length 2.54)
 				(name "~{CS}"
 					(effects
@@ -5009,7 +5018,7 @@
 				)
 			)
 			(pin input line
-				(at -8.255 -1.905 0)
+				(at -8.89 -1.27 0)
 				(length 2.54)
 				(name "SCLK"
 					(effects
@@ -5027,7 +5036,7 @@
 				)
 			)
 			(pin output line
-				(at -8.255 -4.445 0)
+				(at -8.89 -3.81 0)
 				(length 2.54)
 				(name "DOUT"
 					(effects
@@ -5045,7 +5054,7 @@
 				)
 			)
 			(pin input line
-				(at -8.255 -6.985 0)
+				(at -8.89 -6.35 0)
 				(length 2.54)
 				(name "DIN"
 					(effects
@@ -5063,7 +5072,7 @@
 				)
 			)
 			(pin power_in line
-				(at 8.255 3.175 180)
+				(at 0 10.16 270)
 				(length 2.54)
 				(name "Vdd"
 					(effects
@@ -5081,7 +5090,7 @@
 				)
 			)
 			(pin power_in line
-				(at 8.255 0.635 180)
+				(at 0 -13.97 90)
 				(length 2.54)
 				(name "GND"
 					(effects
@@ -5098,8 +5107,8 @@
 					)
 				)
 			)
-			(pin output line
-				(at 8.255 -4.445 180)
+			(pin open_collector line
+				(at 8.89 -3.81 180)
 				(length 2.54)
 				(name "INT"
 					(effects
@@ -5116,8 +5125,8 @@
 					)
 				)
 			)
-			(pin output line
-				(at 8.255 -6.985 180)
+			(pin open_collector line
+				(at 8.89 -6.35 180)
 				(length 2.54)
 				(name "CT"
 					(effects
@@ -5148,7 +5157,7 @@
 		(in_bom yes)
 		(on_board yes)
 		(property "Reference" "U"
-			(at 0 -10.795 0)
+			(at -5.334 7.62 0)
 			(effects
 				(font
 					(size 1.4986 1.4986)
@@ -5156,7 +5165,7 @@
 			)
 		)
 		(property "Value" "ADT7410"
-			(at 0 6.35 0)
+			(at 5.334 7.62 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5164,7 +5173,7 @@
 			)
 		)
 		(property "Footprint" "0my_project:SOIC_N-8"
-			(at 0 0 0)
+			(at -13.462 -12.192 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5173,7 +5182,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.analog.com/media/en/technical-documentation/data-sheets/ADT7410.pdf"
-			(at 0 0 0)
+			(at 16.256 -9.906 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5182,6 +5191,15 @@
 			)
 		)
 		(property "Description" "I2C Temperature Sensor"
+			(at -13.97 -14.478 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C660048"
 			(at 0 0 0)
 			(effects
 				(font
@@ -5201,8 +5219,8 @@
 		)
 		(symbol "ADT7410_0_1"
 			(rectangle
-				(start -5.715 5.08)
-				(end 5.715 -8.89)
+				(start -6.35 6.35)
+				(end 6.35 -8.89)
 				(stroke
 					(width 0)
 					(type default)
@@ -5214,7 +5232,7 @@
 		)
 		(symbol "ADT7410_1_1"
 			(pin input line
-				(at -8.255 3.175 0)
+				(at -8.89 2.54 0)
 				(length 2.54)
 				(name "SCL"
 					(effects
@@ -5232,7 +5250,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at -8.255 0.635 0)
+				(at -8.89 0 0)
 				(length 2.54)
 				(name "SDA"
 					(effects
@@ -5250,7 +5268,7 @@
 				)
 			)
 			(pin input line
-				(at -8.255 -4.445 0)
+				(at -8.89 -5.08 0)
 				(length 2.54)
 				(name "A1"
 					(effects
@@ -5268,7 +5286,7 @@
 				)
 			)
 			(pin input line
-				(at -8.255 -6.985 0)
+				(at -8.89 -7.62 0)
 				(length 2.54)
 				(name "A0"
 					(effects
@@ -5286,7 +5304,7 @@
 				)
 			)
 			(pin power_in line
-				(at 8.255 3.175 180)
+				(at 0 8.89 270)
 				(length 2.54)
 				(name "Vdd"
 					(effects
@@ -5304,7 +5322,7 @@
 				)
 			)
 			(pin power_in line
-				(at 8.255 0.635 180)
+				(at 0 -11.43 90)
 				(length 2.54)
 				(name "GND"
 					(effects
@@ -5321,8 +5339,8 @@
 					)
 				)
 			)
-			(pin output line
-				(at 8.255 -4.445 180)
+			(pin open_collector line
+				(at 8.89 0 180)
 				(length 2.54)
 				(name "INT"
 					(effects
@@ -5339,8 +5357,8 @@
 					)
 				)
 			)
-			(pin output line
-				(at 8.255 -6.985 180)
+			(pin open_collector line
+				(at 8.89 -2.54 180)
 				(length 2.54)
 				(name "CT"
 					(effects
@@ -14086,6 +14104,24 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C5366877"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Akizuki" "129478"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 				(hide yes)
 			)
 		)
@@ -25305,6 +25341,167 @@
 		)
 		(embedded_fonts no)
 	)
+	(symbol "TC77"
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(property "Reference" "U"
+			(at -3.302 7.366 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "TC77"
+			(at 6.604 7.366 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Package_TO_SOT_SMD:SOT-23-5"
+			(at -12.192 9.144 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://ww1.microchip.com/downloads/aemDocuments/documents/APID/ProductDocuments/DataSheets/20092B.pdf"
+			(at -8.89 6.858 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Temperature Sensor, SPI"
+			(at -15.494 12.192 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ki_keywords" "Temperature Sensor, SPI"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(symbol "TC77_1_1"
+			(rectangle
+				(start -5.08 6.35)
+				(end 5.08 -6.35)
+				(stroke
+					(width 0)
+					(type solid)
+				)
+				(fill
+					(type background)
+				)
+			)
+			(pin input line
+				(at -7.62 3.81 0)
+				(length 2.54)
+				(name "CS"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "1"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin input clock
+				(at -7.62 -1.27 0)
+				(length 2.54)
+				(name "SCK"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "3"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin bidirectional line
+				(at -7.62 -3.81 0)
+				(length 2.54)
+				(name "SI/O"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "4"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin power_in line
+				(at 2.54 8.89 270)
+				(length 2.54)
+				(name "Vdd"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "5"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin power_in line
+				(at 2.54 -8.89 90)
+				(length 2.54)
+				(name "GND"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "2"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+		)
+		(embedded_fonts no)
+	)
 	(symbol "TC7S32"
 		(pin_numbers
 			(hide yes)
@@ -35206,6 +35403,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C43295"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(property "ki_keywords" "LDO Low dropout regulator 3.3V 1A"
 			(at 0 0 0)
 			(effects
@@ -35850,6 +36056,15 @@
 				(hide yes)
 			)
 		)
+		(property "Akizuki" "102627"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(property "ki_fp_filters" "IS-2235-G"
 			(at 0 0 0)
 			(effects
@@ -36226,6 +36441,15 @@
 			)
 		)
 		(property "Description" "Low Dropout voltage regulator, 3.3V"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C3747109"
 			(at 0 0 0)
 			(effects
 				(font
@@ -38049,6 +38273,70 @@
 			)
 		)
 		(property "ki_fp_filters" "TVAF06-A020B-R"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+	)
+	(symbol "TC77-3.3"
+		(extends "TC77")
+		(property "Reference" "U"
+			(at -3.302 7.366 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "TC77-3.3"
+			(at 6.604 7.366 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Package_TO_SOT_SMD:SOT-23-5"
+			(at -12.192 9.144 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://ww1.microchip.com/downloads/aemDocuments/documents/APID/ProductDocuments/DataSheets/20092B.pdf"
+			(at -8.89 6.858 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Temperature Sensor, SPI, Accuracy Optimized for 3.3V"
+			(at -15.494 12.192 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C56616"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ki_keywords" "Temperature Sensor, SPI, Optimized for 3.3V"
 			(at 0 0 0)
 			(effects
 				(font

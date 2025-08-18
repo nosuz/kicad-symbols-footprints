@@ -59,6 +59,8 @@ wget https://github.com/nosuz/kicad-symbols-footprints/archive/refs/heads/main.z
 | S-5851A               | 2-wire digital temperature sensor                                         | SOT-23-6                    |                    |         |          |
 | S-5851AAA-M6T1        | 2-wire digital temperature sensor                                         | SOT-23-6                    | S-5851A            |         |          |
 | TouchPad              | Capacitance touch sensor                                                  | Touch-Pad_10mm              |                    |         |          |
+| TC77                  | SPI Temperature Sensor                                                    | SOT-23-5                    |                    |         |          |
+| TC77-3.3              | SPI Temperature Sensor, Optimized for 3.3V                                | SOT-23-5                    | TC77               |         | C56616   |
 | **logic ICs**         |                                                                           |                             |                    |         |          |
 | 74HC04                | Hex Inverter                                                              |                             |                    |         |          |
 | 74VHC04               | Hex Inverter                                                              |                             | 74HC04             |         |          |
@@ -103,9 +105,9 @@ wget https://github.com/nosuz/kicad-symbols-footprints/archive/refs/heads/main.z
 | LP38690SDX-3.3/NOPB   | Linear regulator, Vin max. 10V, Iout 1A, Iq 55uA, WSON-6 package          | WSON-6                      | LP38690SDx         |         |          |
 | NJM2845DL1            | Linear regulator                                                          | TO-252-3-L1                 |                    |         |          |
 | NJM2845DL1-05         | Linear regulator                                                          | TO-252-3-L1                 | NJM2845DL1         |         |          |
-| NJM2845DL1-33         | Linear regulator                                                          | TO-252-3-L1                 | NJM2845DL1         |         |          |
+| NJM2845DL1-33         | Linear regulator                                                          | TO-252-3-L1                 | NJM2845DL1         | 111299  | C3747109 |
 | ADP3338               | 1A LDO Regulator                                                          | SOT-223-3_TabPin2           |                    |         |          |
-| ADP3338AKCZ-3.3       | 3.3V 1A LDO Regulator                                                     | SOT-223-3_TabPin2           | ADP3338            |         |          |
+| ADP3338AKCZ-3.3       | 3.3V 1A LDO Regulator                                                     | SOT-223-3_TabPin2           | ADP3338            | 112635  | C43295   |
 | TPS740xx              | 600mA CMOS LDO Regulator                                                  | SOT-23-5L                   |                    |         |          |
 | TPS74033SF5           | 600mA CMOS LDO Regulator                                                  | SOT-23-5L                   | TPS740xx           |         |          |
 | AP2112M               | 600mA LDO Regulator                                                       | SO-8_AP2112M                |                    |         |          |
@@ -118,7 +120,7 @@ wget https://github.com/nosuz/kicad-symbols-footprints/archive/refs/heads/main.z
 | HX4002                | Charge Pump DC/DC Converter                                               | SOT-23-6                    |                    |         |          |
 |                       | AAx4 Battery Folder                                                       | BH-341-2P                   |                    |         |          |
 | **MOS FETs**          |                                                                           |                             |                    |         |          |
-| IRLML6402             | P-ch MOS FET                                                              | SOT-23_IRLML6402            |                    |         |          |
+| IRLML6402             | P-ch MOS FET                                                              | SOT-23_IRLML6402            |                    | 102553  | C2593    |
 | SI3407                | P-ch MOS FET, Vgs(th -1.4V)                                               | SOT-23_SI3407               |                    |         |          |
 | IRLML6344             | N-ch MOS FET                                                              | SOT-23_IRLML6402            |                    |         |          |
 | **LEDs**              |                                                                           |                             |                    |         |          |
@@ -172,7 +174,7 @@ wget https://github.com/nosuz/kicad-symbols-footprints/archive/refs/heads/main.z
 | TSC015x               | Tacticle switch 4P, 4.5mm x 4.5mm                                         | TSC015x                     | Tactile_Switch_4P  |         | Yes      |
 | **other switches**    |                                                                           |                             |                    |         |          |
 | SLIDE_SWITCH_2x2      | Slide Switch 2x2                                                          | IS-2235-G                   |                    |         |          |
-| IS-2235-G             | Slide Switch 2x2                                                          | IS-2235-G                   | SLIDE_SWITCH_2x2   |         |          |
+| IS-2235-G             | Slide Switch 2x2                                                          | IS-2235-G                   | SLIDE_SWITCH_2x2   | 102627  |          |
 | Toggle_Switch_2x3P    | Toggle switch 2 circuit                                                   |                             |                    |         |          |
 | 2MD1-T2-B4-M2-Q-N     | Toggle switch 2 x 3P                                                      | 2MD1-T2-B4-M2-Q-N           | Toggle_Switch_2x3P |         |          |
 | **Cap and Register**  |                                                                           |                             |                    |         |          |
@@ -190,7 +192,7 @@ wget https://github.com/nosuz/kicad-symbols-footprints/archive/refs/heads/main.z
 |                       | THT Cement resistance SQP 5W                                              | R_THT_SQP5W                 |                    |         |          |
 | **other devices**     |                                                                           |                             |                    |         |          |
 |                       | Barrel Jack 2.1mm                                                         | BarrelJack_MJ-179PH         |                    |         |          |
-|                       | Schottky diode                                                            | Diode_SS2040FL              |                    |         |          |
+| (SS2040FL)            | Schottky diode                                                            | Diode_SS2040FL              |                    | 102073  | C268712  |
 | TAXM12M4RLBDDT2T      | SMD Crystals 12MHz 20pF                                                   | SMD3225-4P_TAXM12M4RLBDDT2T |                    |         |          |
 | FA-238V               | SMD Crystal                                                               | FA-238V                     |                    |         |          |
 |                       | 3P IC socket for crystal unit                                             | Y_3P                        |                    |         |          |
