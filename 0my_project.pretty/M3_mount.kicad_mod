@@ -1,0 +1,68 @@
+(footprint "M3_mount"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(descr "M3 mounting hole")
+	(tags "M3 mount hole")
+	(property "Reference" "REF**"
+		(at 0 -0.5 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "30d8aff2-bd74-4e91-b346-d5072d9c6264")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+		)
+	)
+	(property "Value" "M3_mount"
+		(at 0 1 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "bacb63a2-77d9-4655-8ff3-396c7ebbc0f8")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "7d21186f-1b5f-4daf-b56a-acc20779e143")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" "M3 mounting hole"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "91cf9cce-b148-4301-b6c5-984e679513f0")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr through_hole board_only exclude_from_bom)
+	(pad "" np_thru_hole circle
+		(at 0 0)
+		(size 8 8)
+		(drill 3.2)
+		(layers "F&B.Cu" "*.Mask")
+		(uuid "0c885dd2-49af-4db0-81bb-1cbc3aefe95a")
+	)
+	(embedded_fonts no)
+)

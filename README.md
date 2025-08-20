@@ -205,6 +205,7 @@ wget https://github.com/nosuz/kicad-symbols-footprints/archive/refs/heads/main.z
 |                       | SWPA inductor                                                             | SWPA6028Sxxx                |                    |         |          |
 |                       | Jumper ジャン太                                                           | jumper_XX-2                 |                    |         |          |
 |                       | Raspberry Pi HAT connector (40P) and mechanical holes                     | Raspberry_Pi_HAT_conn       |                    |         |          |
+|                       | M3 mounting hole                                                          | M3_mount                    |                    |         |          |
 | Logo_image            | My logo image                                                             | Icon_Nosuz                  |                    |         |          |
 
 ## Modules Memo
