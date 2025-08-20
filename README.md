@@ -31,6 +31,7 @@ wget https://github.com/nosuz/kicad-symbols-footprints/archive/refs/heads/main.z
 | Tang_Primer_20K       | Sipeed Tang Primer 20K FPGA module                                        | SODIMM_2013289-1_TYC        |                    |         |          |
 | Tang_Primer_25K_J1    | Sipeed Tang Primer 25K FPGA module                                        | DF40C-60DS_HIROSE           |                    |         |          |
 | Tang_Primer_25K_J2    | Sipeed Tang Primer 25K FPGA module                                        | DF40C-60DS_HIROSE           |                    |         |          |
+| TangMega138K_Console  | Sipeed Tang Mega 138K Console Dock                                        | TangMega138K_Console        |                    |         |          |
 | **cpu**               |                                                                           |                             |                    |         |          |
 | RP2040                | ARM Microcontroller used for Raspberry Pi Pico                            | QFN-56_RP2040               |                    |         |          |
 | CH32V203CxT6          | 32-bit Enhanced Low-Power RISC-V MCU - CH32V203                           | QFP-48_CH32Vx03CxT6         |                    |         |          |

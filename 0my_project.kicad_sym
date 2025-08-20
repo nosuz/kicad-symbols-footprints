@@ -26548,6 +26548,1619 @@
 		)
 		(embedded_fonts no)
 	)
+	(symbol "TangMega138K_Console"
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(property "Reference" "U"
+			(at -22.352 28.194 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "TangMega138K_Console"
+			(at 22.352 27.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "0my_project:TangMega138K_Console"
+			(at -22.86 26.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at -22.86 26.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at -22.86 26.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "ki_locked" ""
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "ki_keywords" "Tang Mega 138K, FPGA module"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(symbol "TangMega138K_Console_1_1"
+			(rectangle
+				(start -22.86 -26.67)
+				(end 22.86 26.67)
+				(stroke
+					(width 0.254)
+					(type solid)
+				)
+				(fill
+					(type background)
+				)
+			)
+			(pin bidirectional line
+				(at -33.02 24.13 0)
+				(length 10.16)
+				(name "BANK2_E14_IOR2B"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "J9_1"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(alternate "SDRAM0_D0" bidirectional line)
+			)
+			(pin bidirectional line
+				(at -33.02 21.59 0)
+				(length 10.16)
+				(name "BANK2_C15_IOR8B"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "J9_3"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(alternate "SDRAM0_D2" bidirectional line)
+			)
+			(pin bidirectional line
+				(at -33.02 19.05 0)
+				(length 10.16)
+				(name "BANK2_B13_IOR17B"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "J9_5"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(alternate "SDRAM0_D4" bidirectional line)
+			)
+			(pin bidirectional line
+				(at -33.02 16.51 0)
+				(length 10.16)
+				(name "BANK2_A14_IOR15B"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "J9_7"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(alternate "SDRAM0_D6" bidirectional line)
+			)
+			(pin bidirectional line
+				(at -33.02 13.97 0)
+				(length 10.16)
+				(name "BANK2_B16_IOR22B"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "J9_9"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(alternate "SDRAM0_D15" bidirectional line)
+			)
+			(pin power_out line
+				(at -33.02 11.43 0)
+				(length 10.16)
+				(name "+5V"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "J9_11"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin bidirectional line
+				(at -33.02 8.89 0)
+				(length 10.16)
+				(name "BANK2_A16_IOR20B"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "J9_13"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(alternate "SDRAM0_D13" bidirectional line)
+			)
+			(pin bidirectional line
+				(at -33.02 6.35 0)
+				(length 10.16)
+				(name "BANK2_A20_IOR40B"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "J9_15"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(alternate "SDRAM0_D11" bidirectional line)
+			)
+			(pin bidirectional line
+				(at -33.02 3.81 0)
+				(length 10.16)
+				(name "BANK2_A21_IOR44B"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "J9_17"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(alternate "SDRAM0_D9" bidirectional line)
+			)
+			(pin bidirectional line
+				(at -33.02 1.27 0)
+				(length 10.16)
+				(name "BANK2_B18_IOR24B"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "J9_19"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(alternate "SDRAM0_A12" bidirectional line)
+			)
+			(pin bidirectional line
+				(at -33.02 -1.27 0)
+				(length 10.16)
+				(name "BANK2_C17_IOR26B"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "J9_21"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(alternate "SDRAM0_A9" bidirectional line)
+			)
+			(pin bidirectional line
+				(at -33.02 -3.81 0)
+				(length 10.16)
+				(name "BANK2_A19_IOR38B"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "J9_23"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(alternate "SDRAM0_A7" bidirectional line)
+			)
+			(pin bidirectional line
+				(at -33.02 -6.35 0)
+				(length 10.16)
+				(name "BANK2_D15_IOR4B"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "J9_25"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(alternate "SDRAM0_A5" bidirectional line)
+			)
+			(pin bidirectional line
+				(at -33.02 -8.89 0)
+				(length 10.16)
+				(name "BANK2_D16_IOR6B"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "J9_27"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(alternate "SDRAM0_WE" bidirectional line)
+			)
+			(pin bidirectional line
+				(at -33.02 -11.43 0)
+				(length 10.16)
+				(name "BANK2_F14_IOR11B"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "J9_29"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(alternate "SDRAM0_DM0" bidirectional line)
+			)
+			(pin bidirectional line
+				(at -33.02 -13.97 0)
+				(length 10.16)
+				(name "BANK2_E16_IOR13B"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "J9_31"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(alternate "SDRAM0_CAS" bidirectional line)
+			)
+			(pin bidirectional line
+				(at -33.02 -16.51 0)
+				(length 10.16)
+				(name "BANK2_F21_IOT_142A"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "J9_33"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(alternate "SDRAM0_CS" bidirectional line)
+			)
+			(pin bidirectional line
+				(at -33.02 -19.05 0)
+				(length 10.16)
+				(name "BANK2_C20_IOR47B"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "J9_35"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(alternate "SDRAM0_BA1" bidirectional line)
+			)
+			(pin bidirectional line
+				(at -33.02 -21.59 0)
+				(length 10.16)
+				(name "BANK2_D19_IOR29B"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "J9_37"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(alternate "SDRAM0_A0" bidirectional line)
+			)
+			(pin bidirectional line
+				(at -33.02 -24.13 0)
+				(length 10.16)
+				(name "BANK2_C19_IOR31B"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "J9_39"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(alternate "SDRAM0_A2" bidirectional line)
+			)
+			(pin bidirectional line
+				(at 33.02 24.13 180)
+				(length 10.16)
+				(name "BANK2_E13_IOR2A"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "J9_2"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(alternate "SDRAM0_D1" bidirectional line)
+			)
+			(pin bidirectional line
+				(at 33.02 21.59 180)
+				(length 10.16)
+				(name "BANK2_C14_IOR8A"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "J9_4"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(alternate "SDRAM0_D3" bidirectional line)
+			)
+			(pin bidirectional line
+				(at 33.02 19.05 180)
+				(length 10.16)
+				(name "BANK2_C13_IOR17A"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "J9_6"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(alternate "SDRAM0_D5" bidirectional line)
+			)
+			(pin bidirectional line
+				(at 33.02 16.51 180)
+				(length 10.16)
+				(name "BANK2_A13_IOR15A"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "J9_8"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(alternate "SDRAM0_D7" bidirectional line)
+			)
+			(pin bidirectional line
+				(at 33.02 13.97 180)
+				(length 10.16)
+				(name "BANK2_B15_IOR22A"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "J9_10"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(alternate "SDRAM0_D14" bidirectional line)
+			)
+			(pin power_in line
+				(at 33.02 11.43 180)
+				(length 10.16)
+				(name "GND"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "J9_12"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin bidirectional line
+				(at 33.02 8.89 180)
+				(length 10.16)
+				(name "BANK2_A15_IOR20A"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "J9_14"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(alternate "SDRAM0_D12" bidirectional line)
+			)
+			(pin bidirectional line
+				(at 33.02 6.35 180)
+				(length 10.16)
+				(name "BANK2_B20_IOR40A"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "J9_16"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(alternate "SDRAM0_D10" bidirectional line)
+			)
+			(pin bidirectional line
+				(at 33.02 3.81 180)
+				(length 10.16)
+				(name "BANK2_B21_IOR44A"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "J9_18"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(alternate "SDRAM0_D8" bidirectional line)
+			)
+			(pin bidirectional line
+				(at 33.02 1.27 180)
+				(length 10.16)
+				(name "BANK2_B17_IOR24A"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "J9_20"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(alternate "SDRAM0_CLK" bidirectional line)
+			)
+			(pin bidirectional line
+				(at 33.02 -1.27 180)
+				(length 10.16)
+				(name "BANK2_D17_IOR26A"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "J9_22"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(alternate "SDRAM0_A11" bidirectional line)
+			)
+			(pin bidirectional line
+				(at 33.02 -3.81 180)
+				(length 10.16)
+				(name "BANK2_A18_IOR38A"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "J9_24"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(alternate "SDRAM0_A8" bidirectional line)
+			)
+			(pin bidirectional line
+				(at 33.02 -6.35 180)
+				(length 10.16)
+				(name "BANK2_D14_IOR4A"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "J9_26"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(alternate "SDRAM0_A6" bidirectional line)
+			)
+			(pin bidirectional line
+				(at 33.02 -8.89 180)
+				(length 10.16)
+				(name "BANK2_E16_IOR6A"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "J9_28"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(alternate "SDRAM0_A4" bidirectional line)
+			)
+			(pin bidirectional line
+				(at 33.02 -11.43 180)
+				(length 10.16)
+				(name "BANK2_F13_IOR11A"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "J9_30"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(alternate "SDRAM0_DM1" bidirectional line)
+			)
+			(pin bidirectional line
+				(at 33.02 -13.97 180)
+				(length 10.16)
+				(name "BANK2_F16_IOR13A"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "J9_32"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(alternate "SDRAM0_RAS" bidirectional line)
+			)
+			(pin bidirectional line
+				(at 33.02 -16.51 180)
+				(length 10.16)
+				(name "BANK2_F15_IOR1A"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "J9_34"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(alternate "SDRAM0_BA0" bidirectional line)
+			)
+			(pin bidirectional line
+				(at 33.02 -19.05 180)
+				(length 10.16)
+				(name "BANK2_D20_IOR47A"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "J9_36"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(alternate "SDRAM0_A10" bidirectional line)
+			)
+			(pin bidirectional line
+				(at 33.02 -21.59 180)
+				(length 10.16)
+				(name "BANK2_E19_IOR29A"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "J9_38"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(alternate "SDRAM0_A1" bidirectional line)
+			)
+			(pin bidirectional line
+				(at 33.02 -24.13 180)
+				(length 10.16)
+				(name "BANK2_C18_IOR31A"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "J9_40"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(alternate "SDRAM0_A3" bidirectional line)
+			)
+		)
+		(symbol "TangMega138K_Console_2_1"
+			(rectangle
+				(start -24.13 26.67)
+				(end 24.13 -26.67)
+				(stroke
+					(width 0.254)
+					(type solid)
+				)
+				(fill
+					(type background)
+				)
+			)
+			(pin bidirectional line
+				(at -34.29 24.13 0)
+				(length 10.16)
+				(name "BANK4_R19_IOB99B"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "J10_1"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(alternate "SDRAM1_D0" bidirectional line)
+			)
+			(pin bidirectional line
+				(at -34.29 21.59 0)
+				(length 10.16)
+				(name "BANK4_U21_IOB97B"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "J10_3"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(alternate "SDRAM1_D2" bidirectional line)
+			)
+			(pin bidirectional line
+				(at -34.29 19.05 0)
+				(length 10.16)
+				(name "BANK4_R17_IOB144B"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "J10_5"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(alternate "SDRAM1_D4" bidirectional line)
+			)
+			(pin bidirectional line
+				(at -34.29 16.51 0)
+				(length 10.16)
+				(name "BANK4_T18_IOB138B"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "J10_7"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(alternate "SDRAM1_D6" bidirectional line)
+			)
+			(pin bidirectional line
+				(at -34.29 13.97 0)
+				(length 10.16)
+				(name "BANK4_W17_IOB106B"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "J10_9"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(alternate "SDRAM1_D15" bidirectional line)
+			)
+			(pin power_out line
+				(at -34.29 11.43 0)
+				(length 10.16)
+				(name "+5V"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "J10_11"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin bidirectional line
+				(at -34.29 8.89 0)
+				(length 10.16)
+				(name "BANK4_W22_IOB124B"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "J10_13"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(alternate "SDRAM1_D13" bidirectional line)
+			)
+			(pin bidirectional line
+				(at -34.29 6.35 0)
+				(length 10.16)
+				(name "BANK4_P17_IOB135B"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "J10_15"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(alternate "SDRAM1_D11" bidirectional line)
+			)
+			(pin bidirectional line
+				(at -34.29 3.81 0)
+				(length 10.16)
+				(name "BANK4_N14_IOB142B"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "J10_17"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(alternate "SDRAM1_D9" bidirectional line)
+			)
+			(pin bidirectional line
+				(at -34.29 1.27 0)
+				(length 10.16)
+				(name "BANK4_V20_IOB120B"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "J10_19"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(alternate "SDRAM1_A12" bidirectional line)
+			)
+			(pin bidirectional line
+				(at -34.29 -1.27 0)
+				(length 10.16)
+				(name "BANK4_Y22_IOB131B"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "J10_21"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(alternate "SDRAM1_A9" bidirectional line)
+			)
+			(pin bidirectional line
+				(at -34.29 -3.81 0)
+				(length 10.16)
+				(name "BANK4_AB22_IOB129B"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "J10_23"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(alternate "SDRAM1_A7" bidirectional line)
+			)
+			(pin bidirectional line
+				(at -34.29 -6.35 0)
+				(length 10.16)
+				(name "BANK4_AA21_IOB126B"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "J10_25"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(alternate "SDRAM1_A5" bidirectional line)
+			)
+			(pin bidirectional line
+				(at -34.29 -8.89 0)
+				(length 10.16)
+				(name "BANK4_AB20_IOB110B"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "J10_27"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(alternate "SDRAM1_WE" bidirectional line)
+			)
+			(pin bidirectional line
+				(at -34.29 -11.43 0)
+				(length 10.16)
+				(name "BANK4_AA18_IOB108A"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "J10_29"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(alternate "SDRAM1_DM0" bidirectional line)
+			)
+			(pin bidirectional line
+				(at -34.29 -13.97 0)
+				(length 10.16)
+				(name "BANK4_Y19_IOB116B"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "J10_31"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(alternate "SDRAM1_CAS" bidirectional line)
+			)
+			(pin bidirectional line
+				(at -34.29 -16.51 0)
+				(length 10.16)
+				(name "BANK4_T20_IOB102B"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "J10_33"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(alternate "SDRAM1_CS" bidirectional line)
+			)
+			(pin bidirectional line
+				(at -34.29 -19.05 0)
+				(length 10.16)
+				(name "BANK4_U18_IOB112B"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "J10_35"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(alternate "SDRAM1_BA1" bidirectional line)
+			)
+			(pin bidirectional line
+				(at -34.29 -21.59 0)
+				(length 10.16)
+				(name "BANK4_R16_IOB140B"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "J10_37"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(alternate "SDRAM1_A0" bidirectional line)
+			)
+			(pin bidirectional line
+				(at -34.29 -24.13 0)
+				(length 10.16)
+				(name "BANK4_R14_IOB133B"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "J10_39"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(alternate "SDRAM1_A2" bidirectional line)
+			)
+			(pin bidirectional line
+				(at 34.29 24.13 180)
+				(length 10.16)
+				(name "BANK4_P19_IOB99A"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "J10_2"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(alternate "SDRAM1_D1" bidirectional line)
+			)
+			(pin bidirectional line
+				(at 34.29 21.59 180)
+				(length 10.16)
+				(name "BANK4_T21_IOB97A"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "J10_4"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(alternate "SDRAM1_D3" bidirectional line)
+			)
+			(pin bidirectional line
+				(at 34.29 19.05 180)
+				(length 10.16)
+				(name "BANK4_P16_IOB144A"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "J10_6"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(alternate "SDRAM1_D5" bidirectional line)
+			)
+			(pin bidirectional line
+				(at 34.29 16.51 180)
+				(length 10.16)
+				(name "BANK4_R18_IOB138A"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "J10_8"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(alternate "SDRAM1_D7" bidirectional line)
+			)
+			(pin bidirectional line
+				(at 34.29 13.97 180)
+				(length 10.16)
+				(name "BANK4_V17_IOB106A"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "J10_10"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(alternate "SDRAM1_D14" bidirectional line)
+			)
+			(pin power_in line
+				(at 34.29 11.43 180)
+				(length 10.16)
+				(name "GND"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "J10_12"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin bidirectional line
+				(at 34.29 8.89 180)
+				(length 10.16)
+				(name "BANK4_W21_IOB124A"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "J10_14"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(alternate "SDRAM1_D12" bidirectional line)
+			)
+			(pin bidirectional line
+				(at 34.29 6.35 180)
+				(length 10.16)
+				(name "BANK4_N17_IOB135A"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "J10_16"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(alternate "SDRAM1_D10" bidirectional line)
+			)
+			(pin bidirectional line
+				(at 34.29 3.81 180)
+				(length 10.16)
+				(name "BANK4_N13_IOB142A"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "J10_18"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(alternate "SDRAM1_D8" bidirectional line)
+			)
+			(pin bidirectional line
+				(at 34.29 1.27 180)
+				(length 10.16)
+				(name "BANK4_U20_IOB120A"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "J10_20"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(alternate "SDRAM1_CLK" bidirectional line)
+			)
+			(pin bidirectional line
+				(at 34.29 -1.27 180)
+				(length 10.16)
+				(name "BANK4_Y21_IOB131A"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "J10_22"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(alternate "SDRAM1_A11" bidirectional line)
+			)
+			(pin bidirectional line
+				(at 34.29 -3.81 180)
+				(length 10.16)
+				(name "BANK4_AB21_IOB129A"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "J10_24"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(alternate "SDRAM1_A8" bidirectional line)
+			)
+			(pin bidirectional line
+				(at 34.29 -6.35 180)
+				(length 10.16)
+				(name "BANK4_AA20_IOB126A"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "J10_26"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(alternate "SDRAM1_A6" bidirectional line)
+			)
+			(pin bidirectional line
+				(at 34.29 -8.89 180)
+				(length 10.16)
+				(name "BANK4_AA19_IOB110A"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "J10_28"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(alternate "SDRAM1_A4" bidirectional line)
+			)
+			(pin bidirectional line
+				(at 34.29 -11.43 180)
+				(length 10.16)
+				(name "BANK4_AB18_IOB108B"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "J10_30"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(alternate "SDRAM1_DM1" bidirectional line)
+			)
+			(pin bidirectional line
+				(at 34.29 -13.97 180)
+				(length 10.16)
+				(name "BANK4_Y18_IOB116A"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "J10_32"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(alternate "SDRAM1_RAS" bidirectional line)
+			)
+			(pin bidirectional line
+				(at 34.29 -16.51 180)
+				(length 10.16)
+				(name "BANK4_N15_IOB146A"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "J10_34"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(alternate "SDRAM1_BA0" bidirectional line)
+			)
+			(pin bidirectional line
+				(at 34.29 -19.05 180)
+				(length 10.16)
+				(name "BANK4_U17_IOB112A"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "J10_36"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(alternate "SDRAM1_A10" bidirectional line)
+			)
+			(pin bidirectional line
+				(at 34.29 -21.59 180)
+				(length 10.16)
+				(name "BANK4_P15_IOB140A"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "J10_38"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(alternate "SDRAM1_A1" bidirectional line)
+			)
+			(pin bidirectional line
+				(at 34.29 -24.13 180)
+				(length 10.16)
+				(name "BANK4_P14_IOB133A"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "J10_40"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(alternate "SDRAM1_A3" bidirectional line)
+			)
+		)
+		(embedded_fonts no)
+	)
 	(symbol "Tang_Nano_9K"
 		(exclude_from_sim no)
 		(in_bom yes)
