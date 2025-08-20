@@ -41,6 +41,8 @@ wget https://github.com/nosuz/kicad-symbols-footprints/archive/refs/heads/main.z
 | CY62167E              | 16-Mbit (1Mx16/2Mx8) Static RAM                                           | TSOP-48_12x18.4             |                    |         |          |
 | AS6C3216A             | 32M Bits(2Mx16/4Mx8 Switchable) SRAM                                      | TSOP-I-48_AS6C3216A         |                    |         |          |
 |                       | W25Q128, 128M bits SPI FLASH memory, SPI/QUAD, SOIC-8                     | SOIC-8_W25Q128JVS           |                    |         |          |
+| AS7C256C              | 32K x 8 bit high speed CMOS SRAM                                          | DIP-28_AS7C256C-15PCN       |                    |         |          |
+| AS7C256C-15PCN        | 32K x 8 bit high speed CMOS SRAM                                          | DIP-28_AS7C256C-15PCN       | AS7C256C           |         |          |
 | **interface devices** |                                                                           |                             |                    |         |          |
 | CH340N                | USB serial convertor                                                      | SOP-8_CH340N                |                    |         |          |
 | FT231XS               | USB-Serial converter                                                      | SSOP-20_FT231X              |                    |         |          |
