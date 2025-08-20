@@ -27,12 +27,12 @@ wget https://github.com/nosuz/kicad-symbols-footprints/archive/refs/heads/main.z
 | ESP32-C3-WROOM-02     | ESP32-C3 module                                                           | ESP32-C3-WROOM-02           |                    |         |          |
 | ESP32-C3-MINI-1       | ESP32-C3 module                                                           | ESP32-C3-MINI-1             |                    |         |          |
 | ESP32-C6-WROOM-1      | ESP32-C6 module                                                           | ESP32-C6-WROOM-01           |                    | 129478  | C5366877 |
-| Tang_Nano_9K          | Sipeed Tang Nano 9K FPGA module                                           | DIP-48_TangNano9K           |                    |         |          |
-| Tang_Nano_20K         | Sipeed Tang Nano 20K FPGA module                                          | DIP-40_TangNano20K          |                    |         |          |
-| Tang_Primer_20K       | Sipeed Tang Primer 20K FPGA module                                        | SODIMM_2013289-1_TYC        |                    |         |          |
+| Tang_Nano_9K          | Sipeed Tang Nano 9K FPGA module                                           | DIP-48_TangNano9K           |                    | 117448  |          |
+| Tang_Nano_20K         | Sipeed Tang Nano 20K FPGA module                                          | DIP-40_TangNano20K          |                    | 130974  |          |
+| Tang_Primer_20K       | Sipeed Tang Primer 20K FPGA module                                        | SODIMM_2013289-1_TYC        |                    | 117540  |          |
 | Tang_Primer_25K_J1    | Sipeed Tang Primer 25K FPGA module                                        | DF40C-60DS_HIROSE           |                    |         |          |
 | Tang_Primer_25K_J2    | Sipeed Tang Primer 25K FPGA module                                        | DF40C-60DS_HIROSE           |                    |         |          |
-| TangMega138K_Console  | Sipeed Tang Mega 138K Console Dock                                        | TangMega138K_Console        |                    |         |          |
+| TangMega138K_Console  | Sipeed Tang Mega 138K Console Dock                                        | TangMega138K_Console        |                    | 130972  |          |
 | **cpu**               |                                                                           |                             |                    |         |          |
 | RP2040                | ARM Microcontroller used for Raspberry Pi Pico                            | QFN-56_RP2040               |                    |         |          |
 | CH32V203CxT6          | 32-bit Enhanced Low-Power RISC-V MCU - CH32V203                           | QFP-48_CH32Vx03CxT6         |                    |         |          |

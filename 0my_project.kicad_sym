@@ -27872,7 +27872,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://wiki.sipeed.com/hardware/en/tang/tang-console/mega-console.html"
 			(at -22.86 26.67 0)
 			(effects
 				(font
@@ -27882,13 +27882,22 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "FPGA module"
 			(at -22.86 26.67 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Akizuki" "130972"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 				(hide yes)
 			)
 		)
@@ -29505,6 +29514,15 @@
 				(hide yes)
 			)
 		)
+		(property "Akizuki" "117448"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(property "ki_keywords" "FPGA module"
 			(at 0 0 0)
 			(effects
@@ -30292,6 +30310,15 @@
 			)
 		)
 		(property "Description" "Tang Nano 9K FPGA"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Akizuki" "117448"
 			(at 0 0 0)
 			(effects
 				(font
