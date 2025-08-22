@@ -61,7 +61,7 @@
 		(at 0 0)
 		(size 8 8)
 		(drill 3.2)
-		(layers "F&B.Cu" "*.Mask")
+		(layers "*.Mask")
 		(uuid "0c885dd2-49af-4db0-81bb-1cbc3aefe95a")
 	)
 	(embedded_fonts no)
