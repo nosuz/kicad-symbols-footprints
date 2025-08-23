@@ -204,16 +204,16 @@
 	)
 	(pad "" np_thru_hole circle
 		(at -2.89 -3.65)
-		(size 1.1 1.1)
+		(size 0.7 0.7)
 		(drill 0.7)
-		(layers "F&B.Cu" "*.Mask")
+		(layers "*.Mask")
 		(uuid "3eef7f6a-a3be-4db1-85c8-cd5da0abeade")
 	)
 	(pad "" np_thru_hole circle
 		(at 2.89 -3.65)
-		(size 1.1 1.1)
+		(size 0.7 0.7)
 		(drill 0.7)
-		(layers "F&B.Cu" "*.Mask")
+		(layers "*.Mask")
 		(uuid "766e97d7-1a0c-46a2-a947-b587a44174be")
 	)
 	(pad "A5" smd rect
