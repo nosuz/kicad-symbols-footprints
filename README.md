@@ -161,6 +161,8 @@ wget https://github.com/nosuz/kicad-symbols-footprints/archive/refs/heads/main.z
 |                       | XH terminal post 2P, Top type                                             | B2B-XH-A                    |                    |         |          |
 |                       | XH terminal post 2P, Side type                                            | S2B-XH-A                    |                    |         |          |
 |                       | XH terminal post 4P, Side type                                            | S4B-XH-A                    |                    |         |          |
+|                       | 2x10 vertical pin connector                                               | FH-2x10SG                   |                    | 100083  |          |
+|                       | 2x10 horizontal pin connector                                             | 2214R-20SG-85-F1            |                    | 105755  |          |
 | **tactile switches**  |                                                                           |                             |                    |         |          |
 | Tactile_Switch_2P     | Tacticle switch 2P                                                        | TVAF06-A020B-R              |                    |         |          |
 | TVAF06-A020B-R        | Tacticle switch 2P                                                        | TVAF06-A020B-R              | Tactile_Switch_2P  | 114888  |          |
