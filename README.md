@@ -87,6 +87,8 @@ wget https://github.com/nosuz/kicad-symbols-footprints/archive/refs/heads/main.z
 | SN74CB3T3245          | 8-Bit FET Bus Switch with 5V-Tolerant Level Shifter                       |                             |                    |         |          |
 | SN74CB3T3245DW        | 8-Bit FET Bus Switch with 5V-Tolerant Level Shifter                       | SOIC-20_SN74CB3T3245        | SN74CB3T3245       |         |          |
 | 74AHC1G04             | Single Inverter Gate                                                      |                             |                    |         |          |
+| 74HC1G14              | Single Inverting Schmitt trigger                                          |                             |                    |         |          |
+| 74HC1G14GV,125        | Single Inverting Schmitt trigger                                          | SC-74A                      |                    |         |          |
 | SN74AHC1G04DBVR       | Single Inverter Gate                                                      | SOT-23-5_TI                 | 74AHC1G04          |         |          |
 | 74AHC1G07             | Buffer/Driver with Open Drain, single Gate                                |                             |                    |         |          |
 | 74AHC1G07GV-P         | Buffer/Driver with Open Drain, single Gate                                | TSOT-23-5_74AHC1G07GV       | 74AHC1G07          |         |          |
