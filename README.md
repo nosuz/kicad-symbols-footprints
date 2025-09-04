@@ -217,8 +217,7 @@ wget https://github.com/nosuz/kicad-symbols-footprints/archive/refs/heads/main.z
 
 ### Package Compatibility
 
-Comapatible
-SC-74A = SOT-25-5
+SOT-23-5 = SOT-25 = SC-74A = SOT-753
 
 | Metrics | Imperial | footprint hint |
 | ------- | -------- | -------------- |
