@@ -2299,7 +2299,7 @@
 			)
 		)
 		(property "Value" "74HC1G14"
-			(at 0 0 0)
+			(at 0 -7.112 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2326,7 +2326,7 @@
 			)
 		)
 		(property "Description" "Single Inverter with Schmitt-Trigger Input"
-			(at 0 0 0)
+			(at 1.778 -6.858 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2334,7 +2334,7 @@
 				(hide yes)
 			)
 		)
-		(property "ki_keywords" "inverter Schmitt-Trigger "
+		(property "ki_keywords" "Inverter Schmitt-Trigger "
 			(at 0 0 0)
 			(effects
 				(font
@@ -2383,6 +2383,17 @@
 				(pts
 					(xy 0 -1.27) (xy 1.27 -1.27)
 				)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(circle
+				(center 5.08 0)
+				(radius 1.27)
 				(stroke
 					(width 0)
 					(type default)
@@ -2483,7 +2494,7 @@
 				)
 			)
 			(pin output line
-				(at 6.35 0 180)
+				(at 8.89 0 180)
 				(length 2.54)
 				(name "Y"
 					(effects
@@ -38946,7 +38957,7 @@
 			)
 		)
 		(property "Value" "74HC1G14GV,125"
-			(at 0 0 0)
+			(at 0 -17.78 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -38955,7 +38966,7 @@
 			)
 		)
 		(property "Footprint" "Package_TO_SOT_SMD:SC-74A-5_1.55x2.9mm_P0.95mm"
-			(at 0 0 0)
+			(at 0 -12.954 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -38964,6 +38975,71 @@
 			)
 		)
 		(property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/74HC_HCT1G14.pdf"
+			(at -0.508 -14.732 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Single Inverter with Schmitt-Trigger Input"
+			(at 0 -16.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Digikey" "1727-6038-1-ND"
+			(at 11.43 -10.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ki_keywords" "Inverter Schmitt-Trigger "
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+	)
+	(symbol "74LVC1G14W5-7"
+		(extends "74HC1G14")
+		(property "Reference" "U"
+			(at 5.334 3.048 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "74HC1G14"
+			(at 0 -7.112 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "0my_project:SOT-23-5L"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://4donline.ihs.com/images/VipMasterIC/IC/DIOD/DIOD-S-A0009369123/DIOD-S-A0009369123-1.pdf"
 			(at 0 0 0)
 			(effects
 				(font
@@ -38973,7 +39049,7 @@
 			)
 		)
 		(property "Description" "Single Inverter with Schmitt-Trigger Input"
-			(at 0 0 0)
+			(at 1.778 -6.858 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -38981,16 +39057,7 @@
 				(hide yes)
 			)
 		)
-		(property "Digikey" "1727-6038-1-ND"
-			(at 0 0 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "ki_keywords" "inverter Schmitt-Trigger "
+		(property "ki_keywords" "Inverter Schmitt-Trigger "
 			(at 0 0 0)
 			(effects
 				(font
