@@ -51,6 +51,9 @@ wget https://github.com/nosuz/kicad-symbols-footprints/archive/refs/heads/main.z
 | FT245R                | FTDI USB FIFO parallele interface                                         | SSOP-28_FTDI                | FT245RN            |         |           |
 | CH224K                | USB PD sink controller                                                    | ESSOP-10_CH224K             |                    |         |           |
 | **sensors**           |                                                                           |                             |                    |         |           |
+| NJL7302L              | Ambient Light Sensor                                                      |                             |                    |         |           |
+| NJL7302L-F3           | Ambient Light Sensor                                                      |                             | NJL7302L           | 108910  |           |
+| NJL7302L-F5           | Ambient Light Sensor                                                      |                             | NJL7302L           | 108700  |           |
 | SH4x                  | Relative Humidity and Temperature Sensor                                  | SHT4x                       |                    |         |           |
 | SHT40                 | Relative Humidity and Temperature Sensor                                  | SHT4x                       | SH4x               |         | C2848306  |
 | SHT41                 | Relative Humidity and Temperature Sensor                                  | SHT4x                       | SH4x               |         |           |

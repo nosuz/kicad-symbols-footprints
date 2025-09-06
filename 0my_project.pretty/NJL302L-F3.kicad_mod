@@ -1,0 +1,113 @@
+(footprint "NJL302L-F3"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(descr "Ambient Light Sensor")
+	(tags "Ambient Light Sensor")
+	(property "Reference" "REF**"
+		(at 4.4 0 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "66afa08c-15ee-410c-873b-31e4db5c2795")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.16)
+			)
+		)
+	)
+	(property "Value" "NJL7302L-F3"
+		(at 0 1 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "9190b66e-e1c1-44ed-8750-d867c6523f56")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" "https://www.nisshinbo-microdevices.co.jp/en/pdf/datasheet/NJL7302L-F3_NJL7302L-F5_E.pdf"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "fb8b44e9-1a0f-47af-b935-36a2df7132d1")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" "Ambient Light Sensor"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "d76b41c9-78a8-4b5e-a575-f23b1530c860")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr through_hole)
+	(fp_circle
+		(center 0 0)
+		(end 2 0)
+		(stroke
+			(width 0.16)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.SilkS")
+		(uuid "95450537-9b00-4563-a730-cd3651fb1e0f")
+	)
+	(fp_poly
+		(pts
+			(xy -1.4 1.4) (xy 1.4 1.4) (xy 1.2 1.6) (xy 0.9 1.8) (xy 0.5 1.9) (xy 0 2) (xy -0.6 1.9) (xy -1.1 1.7)
+		)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(fill yes)
+		(layer "F.SilkS")
+		(uuid "3ace0e93-5105-46cc-b032-8f9fd0a1a960")
+	)
+	(fp_circle
+		(center 0 0)
+		(end 2.5 0)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(fill no)
+		(layer "F.CrtYd")
+		(uuid "85477b73-47f7-41a3-9c76-266fab3ebdab")
+	)
+	(pad "1" thru_hole circle
+		(at 0 -1.27)
+		(size 1.2 1.2)
+		(drill 0.8)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(solder_paste_margin -0.1)
+		(uuid "ef98ba1a-8584-44e9-ace5-04ba9ed91af9")
+	)
+	(pad "2" thru_hole circle
+		(at 0 1.27)
+		(size 1.2 1.2)
+		(drill 0.8)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(solder_paste_margin -0.1)
+		(uuid "753f020f-0de3-4062-9b05-349b79bee5a9")
+	)
+	(embedded_fonts no)
+)
