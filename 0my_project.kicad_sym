@@ -5008,6 +5008,24 @@
 					)
 				)
 			)
+			(pin input input_low
+				(at -13.97 0 0)
+				(length 5.08)
+				(name "~{SRCLR}"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "10"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
 			(pin input line
 				(at -13.97 -5.08 0)
 				(length 5.08)
@@ -5019,24 +5037,6 @@
 					)
 				)
 				(number "14"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-			(pin input input_low
-				(at -12.7 0 0)
-				(length 5.08)
-				(name "~{SRCLR}"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "10"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -25215,7 +25215,7 @@
 				)
 			)
 			(pin passive line
-				(at -19.05 2.54 0)
+				(at -19.05 3.81 0)
 				(length 5.08)
 				(name "Anode"
 					(effects
@@ -25233,7 +25233,7 @@
 				)
 			)
 			(pin passive line
-				(at -19.05 0 0)
+				(at -19.05 1.27 0)
 				(length 5.08)
 				(name "Anode"
 					(effects
@@ -25251,7 +25251,7 @@
 				)
 			)
 			(pin passive line
-				(at -19.05 -2.54 0)
+				(at -19.05 -1.27 0)
 				(length 5.08)
 				(name "Anode"
 					(effects
