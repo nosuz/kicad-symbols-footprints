@@ -84,6 +84,8 @@ wget https://github.com/nosuz/kicad-symbols-footprints/archive/refs/heads/main.z
 | SN74LVC245ANS         | Octal Bus Transceiver With 3-State Outputs, SOIC                          | SOIC-20_TI-NS               | SN74LVC245A        |         |          |
 | 74HC574               | 8-bit Latch 3-state outputs                                               |                             |                    |         |          |
 | 74VHC574              | 8-bit Latch 3-state outputs                                               |                             | 74HC574            |         |          |
+| 74LVC595              | 8-bit shift register with 3-state output                                  | SOIC-16_3.9x9.9mm_P1.27mm   |                    |         |          |
+| 74LVC595AD            | 8-bit shift register with 3-state output                                  | SOIC-16_3.9x9.9mm_P1.27mm   | 74LVC595           |         | C548833  |
 | SN74CB3T3245          | 8-Bit FET Bus Switch with 5V-Tolerant Level Shifter                       |                             |                    |         |          |
 | SN74CB3T3245DW        | 8-Bit FET Bus Switch with 5V-Tolerant Level Shifter                       | SOIC-20_SN74CB3T3245        | SN74CB3T3245       |         |          |
 | 74AHC1G04             | Single Inverter Gate                                                      |                             |                    |         |          |
@@ -152,6 +154,7 @@ wget https://github.com/nosuz/kicad-symbols-footprints/archive/refs/heads/main.z
 | SM412301N             | Red 7 segments LED display                                                | SM412301N                   |                    |         |          |
 | OSX05201-X            | 5 digits Bar LED                                                          | DIP-10_OSX05201-X           |                    |         |          |
 | OSX05201-GGR1         | 5 digits Bar LED, 4 Yellow-Green and 1 Red                                | DIP-10_OSX05201-X           | OSX05201-X         |         |          |
+| SA10-11               | Single digit 7-segment LED display                                        | SA10-11                     |                    |         |          |
 | **connectors**        |                                                                           |                             |                    |         |          |
 | USB_Type-C            | USB Type-C socket                                                         | 5077CR-16SMC2-BK-TR         |                    |         |          |
 | 5077CR-16SMC2-BK-TR   | USB Type-C socket                                                         | 5077CR-16SMC2-BK-TR         | USB_Type-C         | 114356  |          |
