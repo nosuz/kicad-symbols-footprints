@@ -1,9 +1,10 @@
 (footprint "SHT4x"
-	(version 20240108)
+	(version 20241229)
 	(generator "pcbnew")
-	(generator_version "8.0")
+	(generator_version "9.0")
 	(layer "F.Cu")
 	(descr "SHT4x Relative Humidity and Temperature Sensor")
+	(tags "humidity temperature sensore")
 	(property "Reference" "REF**"
 		(at 0 -1.9 0)
 		(layer "F.SilkS")
@@ -27,18 +28,6 @@
 			)
 		)
 	)
-	(property "Footprint" ""
-		(at 0 0 0)
-		(layer "F.Fab")
-		(hide yes)
-		(uuid "af441fc1-095b-48c5-aaa0-9782a613f5b9")
-		(effects
-			(font
-				(size 1.27 1.27)
-				(thickness 0.16)
-			)
-		)
-	)
 	(property "Datasheet" ""
 		(at 0 0 0)
 		(layer "F.Fab")
@@ -51,7 +40,7 @@
 			)
 		)
 	)
-	(property "Description" ""
+	(property "Description" "SHT4x Relative Humidity and Temperature Sensor"
 		(at 0 0 0)
 		(layer "F.Fab")
 		(hide yes)
@@ -68,7 +57,7 @@
 		(start -0.75 -0.75)
 		(end 0.75 -0.75)
 		(stroke
-			(width 0.12)
+			(width 0.16)
 			(type solid)
 		)
 		(layer "F.SilkS")
@@ -78,7 +67,7 @@
 		(start -0.75 0.75)
 		(end 0.75 0.75)
 		(stroke
-			(width 0.12)
+			(width 0.16)
 			(type solid)
 		)
 		(layer "F.SilkS")
@@ -88,75 +77,47 @@
 		(center -1.05 -1.05)
 		(end -0.891886 -1.05)
 		(stroke
-			(width 0.12)
+			(width 0.16)
 			(type solid)
 		)
-		(fill none)
+		(fill yes)
 		(layer "F.SilkS")
 		(uuid "5902873d-52c4-4ff0-bff8-96236edb3c3d")
 	)
-	(fp_line
-		(start -1.25 -1.25)
-		(end 1.25 -1.25)
+	(fp_rect
+		(start -1.5 -1.5)
+		(end 1.5 1.5)
 		(stroke
-			(width 0.12)
-			(type solid)
+			(width 0.05)
+			(type default)
 		)
+		(fill no)
 		(layer "F.CrtYd")
-		(uuid "4651eeeb-8f81-48d9-a478-252905b4f6b1")
-	)
-	(fp_line
-		(start -1.25 1.25)
-		(end -1.25 -1.25)
-		(stroke
-			(width 0.12)
-			(type solid)
-		)
-		(layer "F.CrtYd")
-		(uuid "8c21af2e-14f5-44fa-8514-06295352dd21")
-	)
-	(fp_line
-		(start 1.25 -1.25)
-		(end 1.25 1.25)
-		(stroke
-			(width 0.12)
-			(type solid)
-		)
-		(layer "F.CrtYd")
-		(uuid "33ae09e3-6275-4f46-80ff-21796002b05e")
-	)
-	(fp_line
-		(start 1.25 1.25)
-		(end -1.25 1.25)
-		(stroke
-			(width 0.12)
-			(type solid)
-		)
-		(layer "F.CrtYd")
-		(uuid "762dc554-fa2f-4995-8636-0a53f192b7e8")
+		(uuid "a496c172-5ed3-4ddd-8f37-7859b29bbb83")
 	)
 	(pad "1" smd rect
 		(at -0.7 -0.4)
-		(size 0.5 0.3)
-		(layers "F.Cu" "F.Paste" "F.Mask")
+		(size 0.6 0.3)
+		(layers "F.Cu" "F.Mask" "F.Paste")
 		(uuid "34ce1474-35c8-4330-8ea3-ef1c85c19cf4")
 	)
 	(pad "2" smd rect
 		(at -0.7 0.4)
-		(size 0.5 0.3)
-		(layers "F.Cu" "F.Paste" "F.Mask")
+		(size 0.6 0.3)
+		(layers "F.Cu" "F.Mask" "F.Paste")
 		(uuid "3c886a37-a6f0-4a95-b313-c62a89ef9897")
 	)
 	(pad "3" smd rect
 		(at 0.7 0.4)
-		(size 0.5 0.3)
-		(layers "F.Cu" "F.Paste" "F.Mask")
+		(size 0.6 0.3)
+		(layers "F.Cu" "F.Mask" "F.Paste")
 		(uuid "3f3a2b16-1980-4de6-8188-8b33395ec4dc")
 	)
 	(pad "4" smd rect
 		(at 0.7 -0.4)
-		(size 0.5 0.3)
-		(layers "F.Cu" "F.Paste" "F.Mask")
+		(size 0.6 0.3)
+		(layers "F.Cu" "F.Mask" "F.Paste")
 		(uuid "7d378ba9-52c0-44a3-9fb6-16e4f073e2fc")
 	)
+	(embedded_fonts no)
 )
