@@ -22241,7 +22241,7 @@
 		(symbol "NJL7302L_0_1"
 			(polyline
 				(pts
-					(xy -2.54 1.27) (xy 0 3.81)
+					(xy -3.81 1.27) (xy -1.27 3.81)
 				)
 				(stroke
 					(width 0)
@@ -22253,7 +22253,7 @@
 			)
 			(polyline
 				(pts
-					(xy -2.54 1.27) (xy 0 -1.27)
+					(xy -3.81 1.27) (xy -1.27 -1.27)
 				)
 				(stroke
 					(width 0)
@@ -22265,7 +22265,7 @@
 			)
 			(polyline
 				(pts
-					(xy 1.27 -1.27) (xy 3.81 1.27)
+					(xy -1.27 -1.27) (xy -1.27 -2.54) (xy 1.27 -2.54)
 				)
 				(stroke
 					(width 0)
@@ -22277,7 +22277,19 @@
 			)
 			(polyline
 				(pts
-					(xy 1.27 -1.27) (xy 3.81 -3.81)
+					(xy 1.27 -2.54) (xy 3.81 0)
+				)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy 1.27 -2.54) (xy 3.81 -5.08)
 				)
 				(stroke
 					(width 0)
@@ -22291,7 +22303,7 @@
 		(symbol "NJL7302L_1_1"
 			(polyline
 				(pts
-					(xy -2.54 3.81) (xy -2.54 -1.27)
+					(xy -3.81 3.81) (xy -3.81 -1.27)
 				)
 				(stroke
 					(width 0.381)
@@ -22303,7 +22315,7 @@
 			)
 			(polyline
 				(pts
-					(xy 0 3.81) (xy 3.81 3.81)
+					(xy -1.27 3.81) (xy 3.81 3.81)
 				)
 				(stroke
 					(width 0)
@@ -22311,6 +22323,18 @@
 				)
 				(fill
 					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy -1.27 -1.27) (xy -1.27 0) (xy -2.54 -1.27) (xy -1.27 -1.27)
+				)
+				(stroke
+					(width 0)
+					(type solid)
+				)
+				(fill
+					(type outline)
 				)
 			)
 			(circle
@@ -22326,31 +22350,7 @@
 			)
 			(polyline
 				(pts
-					(xy 0 -1.27) (xy 1.27 -1.27)
-				)
-				(stroke
-					(width 0)
-					(type default)
-				)
-				(fill
-					(type none)
-				)
-			)
-			(polyline
-				(pts
-					(xy 0 -1.27) (xy 0 0) (xy -1.27 -1.27) (xy 0 -1.27)
-				)
-				(stroke
-					(width 0)
-					(type solid)
-				)
-				(fill
-					(type outline)
-				)
-			)
-			(polyline
-				(pts
-					(xy 1.27 1.27) (xy 1.27 -3.81)
+					(xy 1.27 0) (xy 1.27 -5.08)
 				)
 				(stroke
 					(width 0.381)
@@ -22362,7 +22362,7 @@
 			)
 			(polyline
 				(pts
-					(xy 3.81 1.27) (xy 3.81 5.08)
+					(xy 3.81 0) (xy 3.81 5.08)
 				)
 				(stroke
 					(width 0)
@@ -22374,19 +22374,7 @@
 			)
 			(polyline
 				(pts
-					(xy 3.81 -3.81) (xy 3.81 -5.08)
-				)
-				(stroke
-					(width 0)
-					(type default)
-				)
-				(fill
-					(type none)
-				)
-			)
-			(polyline
-				(pts
-					(xy 3.81 -3.81) (xy 3.81 -2.54) (xy 2.54 -3.81) (xy 3.81 -3.81)
+					(xy 3.81 -5.08) (xy 3.81 -3.81) (xy 2.54 -5.08) (xy 3.81 -5.08)
 				)
 				(stroke
 					(width 0)
