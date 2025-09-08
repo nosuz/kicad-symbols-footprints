@@ -92,7 +92,7 @@
 	)
 	(pad "1" smd roundrect
 		(at -1.025 -1.15)
-		(size 0.85 0.85)
+		(size 0.8 0.8)
 		(layers "F.Cu" "F.Mask" "F.Paste")
 		(roundrect_rratio 0.15)
 		(solder_paste_margin -0.1)
@@ -101,7 +101,7 @@
 	)
 	(pad "2" smd roundrect
 		(at -1.025 0)
-		(size 0.85 0.85)
+		(size 0.8 0.8)
 		(layers "F.Cu" "F.Mask" "F.Paste")
 		(roundrect_rratio 0.15)
 		(solder_paste_margin -0.1)
@@ -110,7 +110,7 @@
 	)
 	(pad "3" smd roundrect
 		(at -1.025 1.15)
-		(size 0.85 0.85)
+		(size 0.8 0.8)
 		(layers "F.Cu" "F.Mask" "F.Paste")
 		(roundrect_rratio 0.15)
 		(solder_paste_margin -0.1)
@@ -119,7 +119,7 @@
 	)
 	(pad "4" smd roundrect
 		(at 0 1.525)
-		(size 0.85 0.85)
+		(size 0.8 0.8)
 		(layers "F.Cu" "F.Mask" "F.Paste")
 		(roundrect_rratio 0.15)
 		(solder_paste_margin -0.1)
@@ -128,7 +128,7 @@
 	)
 	(pad "5" smd roundrect
 		(at 1.025 1.15)
-		(size 0.85 0.85)
+		(size 0.8 0.8)
 		(layers "F.Cu" "F.Mask" "F.Paste")
 		(roundrect_rratio 0.15)
 		(solder_paste_margin -0.1)
@@ -137,7 +137,7 @@
 	)
 	(pad "6" smd roundrect
 		(at 1.025 0)
-		(size 0.85 0.85)
+		(size 0.8 0.8)
 		(layers "F.Cu" "F.Mask" "F.Paste")
 		(roundrect_rratio 0.15)
 		(solder_paste_margin -0.1)
@@ -146,7 +146,7 @@
 	)
 	(pad "7" smd roundrect
 		(at 1.025 -1.15)
-		(size 0.85 0.85)
+		(size 0.8 0.8)
 		(layers "F.Cu" "F.Mask" "F.Paste")
 		(roundrect_rratio 0.15)
 		(solder_paste_margin -0.1)
@@ -155,7 +155,7 @@
 	)
 	(pad "8" smd roundrect
 		(at 0 -1.525)
-		(size 0.85 0.85)
+		(size 0.8 0.8)
 		(layers "F.Cu" "F.Mask" "F.Paste")
 		(roundrect_rratio 0.15)
 		(solder_paste_margin -0.1)

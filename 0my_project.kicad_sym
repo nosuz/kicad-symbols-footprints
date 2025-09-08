@@ -25231,7 +25231,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(property "Reference" "U"
+		(property "Reference" "DS"
 			(at 0.762 14.224 0)
 			(effects
 				(font
@@ -43139,7 +43139,7 @@
 	)
 	(symbol "SA10-11SURKWA"
 		(extends "SA10-11")
-		(property "Reference" "U"
+		(property "Reference" "DS"
 			(at -12.7 13.97 0)
 			(effects
 				(font
