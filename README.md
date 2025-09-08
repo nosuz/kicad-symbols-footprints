@@ -136,7 +136,7 @@ wget https://github.com/nosuz/kicad-symbols-footprints/archive/refs/heads/main.z
 | **MOS FETs**          |                                                                           |                             |                    |         |           |
 | IRLML6402             | P-ch MOS FET                                                              | SOT-23_IRLML6402            |                    | 102553  | C2593     |
 | SI3407                | P-ch MOS FET, Vgs(th -1.4V)                                               | SOT-23_SI3407               |                    |         |           |
-| IRLML6344             | N-ch MOS FET                                                              | SOT-23_IRLML6402            |                    |         |           |
+| IRLML6344             | N-ch MOS FET                                                              | SOT-23_IRLML6402            |                    | 106049  | C53550    |
 | **LEDs**              |                                                                           |                             |                    |         |           |
 | OSxx1608              | 1608 LED                                                                  | 1608_OSxx1608               |                    |         |           |
 | OSBL1608              | 1608 LED                                                                  | 1608_OSxx1608               | OSxx1608           |         |           |

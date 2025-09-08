@@ -20236,6 +20236,15 @@
 				(hide yes)
 			)
 		)
+		(property "Akizuki" "106049"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(property "ki_fp_filters" "SOT-23*"
 			(at 0 0 0)
 			(effects
@@ -20529,6 +20538,24 @@
 			)
 		)
 		(property "Description" "Pch MOS-FET"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C2593"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Akizuki" "102553"
 			(at 0 0 0)
 			(effects
 				(font
