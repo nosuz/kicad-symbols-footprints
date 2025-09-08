@@ -1,0 +1,93 @@
+(footprint "TEST-34"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(descr "TEst Pin")
+	(tags "Test pin Port")
+	(property "Reference" "REF**"
+		(at 0 -2.02 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "73fd4a1a-7671-49da-bccd-0857189e96ef")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.16)
+			)
+		)
+	)
+	(property "Value" "TEST-34"
+		(at 0 1 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "ec4aee11-2ad3-45ff-a54b-ea7479b6a7f0")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" "https://akizukidenshi.com/goodsaffix/TEST-34.PDF"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "014e6f73-6e65-4b52-b381-615ba82fb76b")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" "Test Pin"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "63e6ac89-95c0-43c5-918f-38fb4cac3503")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Akizuki" "112217"
+		(at 0 0 0)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "b62ffd02-cf4d-411a-bd5a-286bad93536b")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+		)
+	)
+	(attr through_hole)
+	(fp_circle
+		(center 0 0)
+		(end 4 0)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.CrtYd")
+		(uuid "0c13e224-df35-4652-82ce-b2f857b2091e")
+	)
+	(pad "1" thru_hole circle
+		(at 0 0)
+		(size 1.6 1.6)
+		(drill 1)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(solder_paste_margin -0.1)
+		(uuid "73114d35-1016-40ab-bb61-79c2f3e6de73")
+	)
+	(embedded_fonts no)
+)

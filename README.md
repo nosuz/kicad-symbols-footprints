@@ -219,6 +219,8 @@ wget https://github.com/nosuz/kicad-symbols-footprints/archive/refs/heads/main.z
 |                       | Jumper ジャン太                                                           | jumper_XX-2                 |                    |         |           |
 |                       | Raspberry Pi HAT connector (40P) and mechanical holes                     | Raspberry_Pi_HAT_conn       |                    |         |           |
 |                       | M3 mounting hole                                                          | M3_mount                    |                    |         |           |
+|                       | Snap-in plastic spacer                                                    | 4mm_SnapIn_Spacer           |                    |         |           |
+| TestPin               | Test Pin                                                                  | TEST-34                     |                    | 112217  |           |
 | Logo_image            | My logo image                                                             | Icon_Nosuz                  |                    |         |           |
 
 ## Modules Memo
