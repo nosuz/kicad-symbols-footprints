@@ -152,8 +152,10 @@ wget https://github.com/nosuz/kicad-symbols-footprints/archive/refs/heads/main.z
 | KM-23ESGC             | Two color (Red and Green) LED                                             | SOT-23_AM23ESGW             | AM23ESGW           |                       |           |
 | LTST-C195KGKFKT       | Two color (Orange and Green) LED                                          | LTST-C195KGKFKT             |                    |                       |           |
 | LED                   |                                                                           | LED_6mm                     |                    |                       |           |
+| LED                   |                                                                           | LED_5mm                     |                    |                       |           |
 | LED                   |                                                                           | LED_4mm                     |                    |                       |           |
 | LED_R                 | LED with R                                                                |                             |                    |                       |           |
+| (OSR5JA5E34B)         | LED 5mm witout rim                                                        | LED_5mm                     |                    | 112605                |           |
 | ORH-x36x              | LED, 1608                                                                 | ORH-x36x                    |                    |                       |           |
 | ORH-YG36A             | LED, 1608                                                                 | ORH-x36x                    | ORH-x36x           |                       | C205450   |
 | ORH-R36A              | LED, 1608                                                                 | ORH-x36x                    | ORH-x36x           |                       |           |
