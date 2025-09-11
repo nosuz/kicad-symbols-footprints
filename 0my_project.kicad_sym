@@ -11788,6 +11788,15 @@
 				(hide yes)
 			)
 		)
+		(property "Akizuki" "IC socket: 101591 x 2"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(property "ki_keywords" "J-11 PDP-11"
 			(at 0 0 0)
 			(effects
