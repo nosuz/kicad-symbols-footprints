@@ -1,0 +1,107 @@
+(footprint "SS-12SDP2"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(descr "slide switch")
+	(tags "slide switch 3P")
+	(property "Reference" "REF**"
+		(at -3.75 0 90)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "4200b545-a7d7-46da-9b52-9b96eb35a46a")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.16)
+			)
+		)
+	)
+	(property "Value" "SS-12SDP2"
+		(at 0 1 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "a72102e6-5eda-421b-8759-1608ec5b317c")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" "https://akizukidenshi.com/goodsaffix/ss.pdf"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "1d3a7df7-e7f8-4b8a-9d25-f2587f009c53")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" "Slide switch 1 circuit 3P"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "1251eddb-fd5d-44fe-8eea-797899081e3c")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr through_hole)
+	(fp_rect
+		(start -2.25 -5.1)
+		(end 2.25 5.1)
+		(stroke
+			(width 0.16)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.SilkS")
+		(uuid "e318671a-3b4f-4a93-b083-0f61a9ac759f")
+	)
+	(fp_rect
+		(start -2.75 -5.6)
+		(end 2.75 5.6)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.CrtYd")
+		(uuid "a671941c-efa1-45c9-964c-8f69fd5cdc3a")
+	)
+	(pad "1" thru_hole oval
+		(at 0 2.54)
+		(size 1.6 1.2)
+		(drill 0.8)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "7a7b619c-ab05-4032-a857-09a037f10a31")
+	)
+	(pad "2" thru_hole oval
+		(at 0 0)
+		(size 1.6 1.2)
+		(drill 0.8)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "604b080c-e8ad-474e-a235-0a0c2c2e62f3")
+	)
+	(pad "3" thru_hole oval
+		(at 0 -2.54)
+		(size 1.6 1.2)
+		(drill 0.8)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "444c9185-5543-45cd-9bf8-b0de029ab3e5")
+	)
+	(embedded_fonts no)
+)
