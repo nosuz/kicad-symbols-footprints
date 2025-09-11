@@ -27302,7 +27302,7 @@
 		(in_bom yes)
 		(on_board yes)
 		(property "Reference" "U"
-			(at 10.414 4.064 0)
+			(at -3.556 15.494 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27311,7 +27311,7 @@
 			)
 		)
 		(property "Value" "SN74LVC245A"
-			(at 4.826 -26.924 0)
+			(at 0 -6.604 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27320,7 +27320,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 5.08 1.27 0)
+			(at -8.89 12.7 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27330,7 +27330,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.ti.com/lit/ds/symlink/sn74lvc245a.pdf"
-			(at 5.08 -3.81 0)
+			(at -8.89 7.62 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27340,7 +27340,7 @@
 			)
 		)
 		(property "Description" "Octal Bus Transceiver With 3-State Outputs"
-			(at 0 0 0)
+			(at -13.97 11.43 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27359,8 +27359,8 @@
 		)
 		(symbol "SN74LVC245A_1_1"
 			(rectangle
-				(start 5.08 2.54)
-				(end 17.78 -25.4)
+				(start -6.35 13.97)
+				(end 6.35 -13.97)
 				(stroke
 					(width 0.254)
 					(type solid)
@@ -27370,8 +27370,8 @@
 				)
 			)
 			(pin input line
-				(at 0 0 0)
-				(length 5.08)
+				(at -8.89 11.43 0)
+				(length 2.54)
 				(name "DIR"
 					(effects
 						(font
@@ -27388,8 +27388,8 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 -2.54 0)
-				(length 5.08)
+				(at -8.89 8.89 0)
+				(length 2.54)
 				(name "A1"
 					(effects
 						(font
@@ -27406,8 +27406,8 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 -5.08 0)
-				(length 5.08)
+				(at -8.89 6.35 0)
+				(length 2.54)
 				(name "A2"
 					(effects
 						(font
@@ -27424,8 +27424,8 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 -7.62 0)
-				(length 5.08)
+				(at -8.89 3.81 0)
+				(length 2.54)
 				(name "A3"
 					(effects
 						(font
@@ -27442,8 +27442,8 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 -10.16 0)
-				(length 5.08)
+				(at -8.89 1.27 0)
+				(length 2.54)
 				(name "A4"
 					(effects
 						(font
@@ -27460,8 +27460,8 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 -12.7 0)
-				(length 5.08)
+				(at -8.89 -1.27 0)
+				(length 2.54)
 				(name "A5"
 					(effects
 						(font
@@ -27478,8 +27478,8 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 -15.24 0)
-				(length 5.08)
+				(at -8.89 -3.81 0)
+				(length 2.54)
 				(name "A6"
 					(effects
 						(font
@@ -27496,8 +27496,8 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 -17.78 0)
-				(length 5.08)
+				(at -8.89 -6.35 0)
+				(length 2.54)
 				(name "A7"
 					(effects
 						(font
@@ -27514,8 +27514,8 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 -20.32 0)
-				(length 5.08)
+				(at -8.89 -8.89 0)
+				(length 2.54)
 				(name "A8"
 					(effects
 						(font
@@ -27532,8 +27532,8 @@
 				)
 			)
 			(pin power_in line
-				(at 0 -22.86 0)
-				(length 5.08)
+				(at -8.89 -11.43 0)
+				(length 2.54)
 				(name "GND"
 					(effects
 						(font
@@ -27550,8 +27550,8 @@
 				)
 			)
 			(pin power_in line
-				(at 22.86 0 180)
-				(length 5.08)
+				(at 8.89 11.43 180)
+				(length 2.54)
 				(name "Vcc"
 					(effects
 						(font
@@ -27568,8 +27568,8 @@
 				)
 			)
 			(pin bidirectional line
-				(at 22.86 -2.54 180)
-				(length 5.08)
+				(at 8.89 8.89 180)
+				(length 2.54)
 				(name "B1"
 					(effects
 						(font
@@ -27586,8 +27586,8 @@
 				)
 			)
 			(pin bidirectional line
-				(at 22.86 -5.08 180)
-				(length 5.08)
+				(at 8.89 6.35 180)
+				(length 2.54)
 				(name "B2"
 					(effects
 						(font
@@ -27604,8 +27604,8 @@
 				)
 			)
 			(pin bidirectional line
-				(at 22.86 -7.62 180)
-				(length 5.08)
+				(at 8.89 3.81 180)
+				(length 2.54)
 				(name "B3"
 					(effects
 						(font
@@ -27622,8 +27622,8 @@
 				)
 			)
 			(pin bidirectional line
-				(at 22.86 -10.16 180)
-				(length 5.08)
+				(at 8.89 1.27 180)
+				(length 2.54)
 				(name "B4"
 					(effects
 						(font
@@ -27640,8 +27640,8 @@
 				)
 			)
 			(pin bidirectional line
-				(at 22.86 -12.7 180)
-				(length 5.08)
+				(at 8.89 -1.27 180)
+				(length 2.54)
 				(name "B5"
 					(effects
 						(font
@@ -27658,8 +27658,8 @@
 				)
 			)
 			(pin bidirectional line
-				(at 22.86 -15.24 180)
-				(length 5.08)
+				(at 8.89 -3.81 180)
+				(length 2.54)
 				(name "B6"
 					(effects
 						(font
@@ -27676,8 +27676,8 @@
 				)
 			)
 			(pin bidirectional line
-				(at 22.86 -17.78 180)
-				(length 5.08)
+				(at 8.89 -6.35 180)
+				(length 2.54)
 				(name "B7"
 					(effects
 						(font
@@ -27694,8 +27694,8 @@
 				)
 			)
 			(pin bidirectional line
-				(at 22.86 -20.32 180)
-				(length 5.08)
+				(at 8.89 -8.89 180)
+				(length 2.54)
 				(name "B8"
 					(effects
 						(font
@@ -27712,8 +27712,8 @@
 				)
 			)
 			(pin input line
-				(at 22.86 -22.86 180)
-				(length 5.08)
+				(at 8.89 -11.43 180)
+				(length 2.54)
 				(name "~{OE}"
 					(effects
 						(font
