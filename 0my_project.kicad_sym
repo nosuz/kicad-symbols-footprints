@@ -4955,8 +4955,8 @@
 				)
 			)
 			(pin input input_low
-				(at -13.97 10.16 0)
-				(length 5.08)
+				(at -11.43 10.16 0)
+				(length 2.54)
 				(name "~{OE}"
 					(effects
 						(font
@@ -4973,8 +4973,8 @@
 				)
 			)
 			(pin input clock
-				(at -13.97 7.62 0)
-				(length 5.08)
+				(at -11.43 7.62 0)
+				(length 2.54)
 				(name "RCLK"
 					(effects
 						(font
@@ -4991,8 +4991,8 @@
 				)
 			)
 			(pin input clock
-				(at -13.97 2.54 0)
-				(length 5.08)
+				(at -11.43 2.54 0)
+				(length 2.54)
 				(name "SRCLK"
 					(effects
 						(font
@@ -5009,8 +5009,8 @@
 				)
 			)
 			(pin input input_low
-				(at -13.97 0 0)
-				(length 5.08)
+				(at -11.43 0 0)
+				(length 2.54)
 				(name "~{SRCLR}"
 					(effects
 						(font
@@ -5027,8 +5027,8 @@
 				)
 			)
 			(pin input line
-				(at -13.97 -5.08 0)
-				(length 5.08)
+				(at -11.43 -5.08 0)
+				(length 2.54)
 				(name "SER"
 					(effects
 						(font
@@ -5045,8 +5045,8 @@
 				)
 			)
 			(pin power_in line
-				(at 0 19.05 270)
-				(length 5.08)
+				(at 0 16.51 270)
+				(length 2.54)
 				(name "Vcc"
 					(effects
 						(font
@@ -5063,8 +5063,8 @@
 				)
 			)
 			(pin power_in line
-				(at 0 -19.05 90)
-				(length 5.08)
+				(at 0 -16.51 90)
+				(length 2.54)
 				(name "GND"
 					(effects
 						(font
@@ -5081,8 +5081,8 @@
 				)
 			)
 			(pin output line
-				(at 13.97 12.7 180)
-				(length 5.08)
+				(at 11.43 12.7 180)
+				(length 2.54)
 				(name "Qa"
 					(effects
 						(font
@@ -5099,8 +5099,8 @@
 				)
 			)
 			(pin output line
-				(at 13.97 10.16 180)
-				(length 5.08)
+				(at 11.43 10.16 180)
+				(length 2.54)
 				(name "Qb"
 					(effects
 						(font
@@ -5117,8 +5117,8 @@
 				)
 			)
 			(pin output line
-				(at 13.97 7.62 180)
-				(length 5.08)
+				(at 11.43 7.62 180)
+				(length 2.54)
 				(name "Qc"
 					(effects
 						(font
@@ -5135,8 +5135,8 @@
 				)
 			)
 			(pin output line
-				(at 13.97 5.08 180)
-				(length 5.08)
+				(at 11.43 5.08 180)
+				(length 2.54)
 				(name "Qd"
 					(effects
 						(font
@@ -5153,8 +5153,8 @@
 				)
 			)
 			(pin output line
-				(at 13.97 2.54 180)
-				(length 5.08)
+				(at 11.43 2.54 180)
+				(length 2.54)
 				(name "Qe"
 					(effects
 						(font
@@ -5171,8 +5171,8 @@
 				)
 			)
 			(pin output line
-				(at 13.97 0 180)
-				(length 5.08)
+				(at 11.43 0 180)
+				(length 2.54)
 				(name "Qf"
 					(effects
 						(font
@@ -5189,8 +5189,8 @@
 				)
 			)
 			(pin output line
-				(at 13.97 -2.54 180)
-				(length 5.08)
+				(at 11.43 -2.54 180)
+				(length 2.54)
 				(name "Qg"
 					(effects
 						(font
@@ -5207,8 +5207,8 @@
 				)
 			)
 			(pin output line
-				(at 13.97 -5.08 180)
-				(length 5.08)
+				(at 11.43 -5.08 180)
+				(length 2.54)
 				(name "Qh"
 					(effects
 						(font
@@ -5225,8 +5225,8 @@
 				)
 			)
 			(pin output line
-				(at 13.97 -10.16 180)
-				(length 5.08)
+				(at 11.43 -10.16 180)
+				(length 2.54)
 				(name "Qh’"
 					(effects
 						(font
@@ -25489,8 +25489,8 @@
 				)
 			)
 			(pin passive line
-				(at -19.05 3.81 0)
-				(length 5.08)
+				(at -16.51 3.81 0)
+				(length 2.54)
 				(name "Anode"
 					(effects
 						(font
@@ -25507,8 +25507,8 @@
 				)
 			)
 			(pin passive line
-				(at -19.05 1.27 0)
-				(length 5.08)
+				(at -16.51 1.27 0)
+				(length 2.54)
 				(name "Anode"
 					(effects
 						(font
@@ -25525,8 +25525,8 @@
 				)
 			)
 			(pin passive line
-				(at -19.05 -1.27 0)
-				(length 5.08)
+				(at -16.51 -1.27 0)
+				(length 2.54)
 				(name "Anode"
 					(effects
 						(font
@@ -25543,8 +25543,8 @@
 				)
 			)
 			(pin passive line
-				(at 19.05 8.89 180)
-				(length 5.08)
+				(at 16.51 8.89 180)
+				(length 2.54)
 				(name "a"
 					(effects
 						(font
@@ -25561,8 +25561,8 @@
 				)
 			)
 			(pin passive line
-				(at 19.05 6.35 180)
-				(length 5.08)
+				(at 16.51 6.35 180)
+				(length 2.54)
 				(name "b"
 					(effects
 						(font
@@ -25579,8 +25579,8 @@
 				)
 			)
 			(pin passive line
-				(at 19.05 3.81 180)
-				(length 5.08)
+				(at 16.51 3.81 180)
+				(length 2.54)
 				(name "c"
 					(effects
 						(font
@@ -25597,8 +25597,8 @@
 				)
 			)
 			(pin passive line
-				(at 19.05 1.27 180)
-				(length 5.08)
+				(at 16.51 1.27 180)
+				(length 2.54)
 				(name "d"
 					(effects
 						(font
@@ -25615,8 +25615,8 @@
 				)
 			)
 			(pin passive line
-				(at 19.05 -1.27 180)
-				(length 5.08)
+				(at 16.51 -1.27 180)
+				(length 2.54)
 				(name "e"
 					(effects
 						(font
@@ -25633,8 +25633,8 @@
 				)
 			)
 			(pin passive line
-				(at 19.05 -3.81 180)
-				(length 5.08)
+				(at 16.51 -3.81 180)
+				(length 2.54)
 				(name "f"
 					(effects
 						(font
@@ -25651,8 +25651,8 @@
 				)
 			)
 			(pin passive line
-				(at 19.05 -6.35 180)
-				(length 5.08)
+				(at 16.51 -6.35 180)
+				(length 2.54)
 				(name "g"
 					(effects
 						(font
@@ -25669,8 +25669,8 @@
 				)
 			)
 			(pin passive line
-				(at 19.05 -8.89 180)
-				(length 5.08)
+				(at 16.51 -8.89 180)
+				(length 2.54)
 				(name "DP"
 					(effects
 						(font
