@@ -89,7 +89,9 @@ wget https://github.com/nosuz/kicad-symbols-footprints/archive/refs/heads/main.z
 | SN74LVC245AN          | Octal Bus Transceiver With 3-State Outputs, DIP                           | DIP-20_TI-N                 | SN74LVC245A        |                       |           |
 | SN74LVC245ANS         | Octal Bus Transceiver With 3-State Outputs, SOIC                          | SOIC-20_TI-NS               | SN74LVC245A        |                       |           |
 | 74HC574               | 8-bit Latch 3-state outputs                                               |                             |                    |                       |           |
+| 74HC574_w_Pwr         | 8-bit Latch 3-state outputs, Logic and Pwr pins in a single unit          |                             |                    |                       |           |
 | 74VHC574              | 8-bit Latch 3-state outputs                                               |                             | 74HC574            |                       |           |
+| 74LVC574              | 8-bit Latch 3-state outputs                                               |                             | 74HC574_w_Pwr      |                       |           |
 | 74LVC595              | 8-bit shift register with 3-state output                                  | SOIC-16_3.9x9.9mm_P1.27mm   |                    |                       |           |
 | 74LVC595AD            | 8-bit shift register with 3-state output                                  | SOIC-16_3.9x9.9mm_P1.27mm   | 74LVC595           |                       | C548833   |
 | SN74CB3T3245          | 8-Bit FET Bus Switch with 5V-Tolerant Level Shifter                       |                             |                    |                       |           |
