@@ -45999,7 +45999,7 @@
 			)
 		)
 	)
-	(symbol "SN74LVC245APWR"
+	(symbol "SN74LVC245APW"
 		(extends "SN74LVC245A")
 		(property "Reference" "U"
 			(at 10.414 4.064 0)
@@ -46010,8 +46010,8 @@
 				(justify left)
 			)
 		)
-		(property "Value" "SN74LVC245A"
-			(at 4.826 -26.924 0)
+		(property "Value" "SN74LVC245APW"
+			(at 0 -8.382 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -46019,7 +46019,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "0my_project:TSSOP-20_SN74LVC245APW"
+		(property "Footprint" "0my_project:TSSOP-20_TI-PW"
 			(at 5.08 1.27 0)
 			(effects
 				(font
@@ -46058,6 +46058,70 @@
 			)
 		)
 		(property "ki_keywords" "Octal Bus Transceiver With 3-State Outputs"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+	)
+	(symbol "SN74LVC574APW"
+		(extends "74HC574_w_Pwr")
+		(property "Reference" "U"
+			(at -6.096 16.764 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "SN74LVC574APW"
+			(at 0.254 0.254 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "0my_project:TSSOP-20_TI-PW"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.ti.com/jp/lit/ds/symlink/sn74lvc574a.pdf"
+			(at -10.414 19.304 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "8-bit Latch 3-state outputs"
+			(at -0.254 16.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C7672"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ki_keywords" "TTL DFF DFF8 LATCH 3-State single unit"
 			(at 0 0 0)
 			(effects
 				(font

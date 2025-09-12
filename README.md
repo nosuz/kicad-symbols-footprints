@@ -85,12 +85,13 @@ wget https://github.com/nosuz/kicad-symbols-footprints/archive/refs/heads/main.z
 | 74HC139               | Dual Decoder 1 of 4 Active low outputs                                    |                             |                    |                       |           |
 | 74VHC139              | Dual Decoder 1 of 4 Active low outputs                                    |                             | 74HC139            |                       |           |
 | SN74LVC245A           | Octal Bus Transceiver With 3-State Outputs                                |                             |                    |                       |           |
-| SN74LVC245APW         | Octal Bus Transceiver With 3-State Outputs                                | TSSOP-20_SN74LVC245APW      | SN74LVC245A        |                       |           |
+| SN74LVC245APW         | Octal Bus Transceiver With 3-State Outputs                                | TSSOP-20_TI-PW              | SN74LVC245A        |                       | C7848     |
 | SN74LVC245AN          | Octal Bus Transceiver With 3-State Outputs, DIP                           | DIP-20_TI-N                 | SN74LVC245A        |                       |           |
 | SN74LVC245ANS         | Octal Bus Transceiver With 3-State Outputs, SOIC                          | SOIC-20_TI-NS               | SN74LVC245A        |                       |           |
 | 74HC574               | 8-bit Latch 3-state outputs                                               |                             |                    |                       |           |
 | 74HC574_w_Pwr         | 8-bit Latch 3-state outputs, Logic and Pwr pins in a single unit          |                             |                    |                       |           |
 | 74VHC574              | 8-bit Latch 3-state outputs                                               |                             | 74HC574            |                       |           |
+| SN74LVC574APW         | 8-bit Latch 3-state outputs                                               | TSSOP-20_TI-PW              | 74HC574            |                       | C7672     |
 | 74LVC574              | 8-bit Latch 3-state outputs                                               |                             | 74HC574_w_Pwr      |                       |           |
 | 74LVC595              | 8-bit shift register with 3-state output                                  | SOIC-16_3.9x9.9mm_P1.27mm   |                    |                       |           |
 | 74LVC595AD            | 8-bit shift register with 3-state output                                  | SOIC-16_3.9x9.9mm_P1.27mm   | 74LVC595           |                       | C548833   |
