@@ -204,6 +204,7 @@ wget https://github.com/nosuz/kicad-symbols-footprints/archive/refs/heads/main.z
 | 2MD1-T2-B4-M2-Q-N     | Toggle switch 2 x 3P                                                      | 2MD1-T2-B4-M2-Q-N           | Toggle_Switch_2x3P |                       |           |
 | SS-12SDP2             |                                                                           | SS-12SDP2                   | Slide_Switch_1_3P  | 115643                |           |
 | 2MS1-T1-B4-VS2-Q-E-S  | Toggle Switch 3Px1                                                        | 2MS1-T1-B4-VS2-Q-E-S        |                    | 100300                |           |
+| ERD216CSZ             | Rotarly Hexadecimal DIP Switch, Complimentary                             | ERD216CSZ                   |                    | 102277                |           |
 | **Cap and Register**  |                                                                           |                             |                    |                       |           |
 |                       | capacitor                                                                 | C_2012                      |                    |                       |           |
 |                       | capacitor                                                                 | C_2012_Large                |                    |                       |           |
