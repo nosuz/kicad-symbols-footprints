@@ -194,6 +194,7 @@ wget https://github.com/nosuz/kicad-symbols-footprints/archive/refs/heads/main.z
 | SKRPACE010            | Tacticle switch 4P                                                        | SKRPAxE010                  | Tactile_Switch_4P  |                       |           |
 | DTS-6x                | Tacticle switch 4P THT, 6.2mm x 6.2mm                                     | DTS-6-V                     | Tactile_Switch_4P  |                       |           |
 | DTSM-6x               | Tacticle switch 4P SMD, 6.2mm x 6.2mm                                     | DTSM-6x                     | Tactile_Switch_4P  |                       |           |
+| DTSM-63N-V-T/R        | Tacticle switch 4P SMD, 6.2mm x 6.2mm                                     | DTSM-6x                     | Tactile_Switch_4P  | C133973               |           |
 | GT-TC149A-H090-L1     | Tacticle switch 4P, 12mm x 12mm                                           | GT-TC149X-HXXX-LX           | Tactile_Switch_4P  |                       |           |
 | K2-1809SN             | Tacticle switch 4P, 3.5mm x 3.0mm                                         | K2-1809SN                   | Tactile_Switch_4P  |                       |           |
 | TSC015x               | Tacticle switch 4P, 4.5mm x 4.5mm                                         | TSC015x                     | Tactile_Switch_4P  |                       | Yes       |
