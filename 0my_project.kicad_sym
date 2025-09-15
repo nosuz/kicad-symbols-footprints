@@ -21162,7 +21162,7 @@
 				(hide yes)
 			)
 		)
-		(property "Akizuki" "IC socket: 100241 x 2"
+		(property "Akizuki" "IC socket: 100034"
 			(at 0 0 0)
 			(effects
 				(font

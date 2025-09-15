@@ -38,7 +38,7 @@ wget https://github.com/nosuz/kicad-symbols-footprints/archive/refs/heads/main.z
 | CH32V203CxT6          | 32-bit Enhanced Low-Power RISC-V MCU - CH32V203                           | QFP-48_CH32Vx03CxT6         |                    |                       |           |
 | CH32V103Cx            | 32-bit Enhanced Low-Power RISC-V MCU - CH32V103                           | QFP-48_CH32Vx03CxT6         |                    |                       |           |
 | DCJ11                 | PDP-11 microprocessor J-11                                                | DIP-60_DCJ11                |                    | IC socket: 101591 x 2 |           |
-| IM6100                | 12 bit microprocessor, ISA is comatible with PDP-8/e                      | DIP-40_IM6100               |                    | IC socket: 100241 x 2 |           |
+| IM6100                | 12 bit microprocessor, ISA is comatible with PDP-8/e                      | DIP-40_IM6100               |                    | IC socket: 100034     |           |
 | **memory**            |                                                                           |                             |                    |                       |           |
 | CY62167E              | 16-Mbit (1Mx16/2Mx8) Static RAM                                           | TSOP-48_12x18.4             |                    |                       |           |
 | AS6C3216A             | 32M Bits(2Mx16/4Mx8 Switchable) SRAM                                      | TSOP-I-48_AS6C3216A         |                    |                       |           |
