@@ -6,7 +6,7 @@
 	(descr "Piezo Buzzers & Audio Indicators")
 	(tags "Piezo Buzzers")
 	(property "Reference" "REF**"
-		(at -0.1 -8.4 0)
+		(at 0 -7.2 0)
 		(unlocked yes)
 		(layer "F.SilkS")
 		(uuid "303f54da-5d93-4a3e-9d9f-4921bcb91591")
@@ -149,9 +149,21 @@
 			(width 0.1)
 			(type solid)
 		)
-		(fill yes)
+		(fill no)
 		(layer "F.SilkS")
 		(uuid "ef88f3a9-9770-4e78-a6fd-8c291ccb7c87")
+	)
+	(fp_poly
+		(pts
+			(xy 6.7 0) (xy 7.2 -0.3) (xy 7.2 0.3)
+		)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(fill yes)
+		(layer "F.SilkS")
+		(uuid "76958aaf-ea27-41a5-8fd0-2b7c0890ba1c")
 	)
 	(fp_rect
 		(start -6.5 -6.5)
