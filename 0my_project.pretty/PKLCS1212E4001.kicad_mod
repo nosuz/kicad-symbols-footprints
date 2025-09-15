@@ -1,0 +1,181 @@
+(footprint "PKLCS1212E4001"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(descr "Piezo Buzzers & Audio Indicators")
+	(tags "Piezo Buzzers")
+	(property "Reference" "REF**"
+		(at -0.1 -8.4 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "303f54da-5d93-4a3e-9d9f-4921bcb91591")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.16)
+			)
+		)
+	)
+	(property "Value" "PKLCS1212E4001"
+		(at 0 1 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "77126014-d63a-49be-99f7-8a772c3dbac4")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" "https://akizukidenshi.com/goodsaffix/PKLCS1212E4001-R1_aj.pdf"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "785ac8be-7f8c-4954-939d-d65ea6cebf5c")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" "Piezo Buzzers & Audio Indicators"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "90eba55a-f8e4-44a8-800f-7ca02168911c")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "LCSC" "C113159"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "abea2535-2826-4587-a60c-085d549826f8")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+		)
+	)
+	(property "Akizuki" "105723"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "e2ee0fe1-c51f-4134-af4f-7a5eb8879559")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+		)
+	)
+	(attr smd)
+	(fp_line
+		(start -6 -6)
+		(end 6 -6)
+		(stroke
+			(width 0.16)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "528cabde-d72e-4e8f-89dc-69322136a907")
+	)
+	(fp_line
+		(start -6 -2.5)
+		(end -6 -6)
+		(stroke
+			(width 0.16)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "bad0ff5f-b253-476b-ad2e-23977d2b84fb")
+	)
+	(fp_line
+		(start -6 6)
+		(end -6 2.5)
+		(stroke
+			(width 0.16)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "f36535b2-a806-4cb6-bea6-e223927cb4bf")
+	)
+	(fp_line
+		(start 6 -6)
+		(end 6 -2.5)
+		(stroke
+			(width 0.16)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "f6eb33cf-7be3-4bec-b09a-69fc1763053d")
+	)
+	(fp_line
+		(start 6 2.5)
+		(end 6 6)
+		(stroke
+			(width 0.16)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "8896f7dd-a0db-4b17-9647-3f9c640952cd")
+	)
+	(fp_line
+		(start 6 6)
+		(end -6 6)
+		(stroke
+			(width 0.16)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "bcf1b536-bd3f-4d85-b018-413b7f56d57d")
+	)
+	(fp_poly
+		(pts
+			(xy 4 0) (xy 3 -1) (xy 3 1)
+		)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(fill yes)
+		(layer "F.SilkS")
+		(uuid "ef88f3a9-9770-4e78-a6fd-8c291ccb7c87")
+	)
+	(fp_rect
+		(start -6.5 -6.5)
+		(end 6.5 6.5)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(fill no)
+		(layer "F.CrtYd")
+		(uuid "42a8b607-213e-4ef9-bb77-1c59a3d0b3da")
+	)
+	(pad "1" smd rect
+		(at 5.6 0)
+		(size 1.2 4)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(thermal_bridge_angle 45)
+		(uuid "f33df68d-5481-496e-9371-eaee405e73c3")
+	)
+	(pad "2" smd rect
+		(at -5.6 0)
+		(size 1.2 4)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(thermal_bridge_angle 45)
+		(uuid "0a6fae19-ea40-480f-8511-46b1eea6e4e5")
+	)
+	(embedded_fonts no)
+)
