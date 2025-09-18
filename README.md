@@ -158,6 +158,8 @@ wget https://github.com/nosuz/kicad-symbols-footprints/archive/refs/heads/main.z
 | LED                   |                                                                           | LED_5mm                     |                    |                       |           |
 | LED                   |                                                                           | LED_4mm                     |                    |                       |           |
 | LED_R                 | LED with R                                                                |                             |                    |                       |           |
+| NCD0603x1             | LED, 1608 (0603)                                                          | NCD0603x1                   |                    |                       |           |
+| NCD0603C1             | LED, 1608 (0603), Yellow Green                                            | NCD0603x1                   | NCD0603x1          |                       | C84264    |
 | (OSR5JA5E34B)         | LED 5mm witout rim                                                        | LED_5mm                     |                    | 112605                |           |
 | ORH-x36x              | LED, 1608                                                                 | ORH-x36x                    |                    |                       |           |
 | ORH-YG36A             | LED, 1608                                                                 | ORH-x36x                    | ORH-x36x           |                       | C205450   |
