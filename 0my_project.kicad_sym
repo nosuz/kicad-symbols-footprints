@@ -5942,7 +5942,7 @@
 				(hide yes)
 			)
 		)
-		(property "ki_keywords" "USB Power"
+		(property "ki_keywords" "USB Type-C Power"
 			(at 0 0 0)
 			(effects
 				(font
