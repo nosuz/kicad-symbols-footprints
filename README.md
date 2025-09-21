@@ -142,6 +142,8 @@ wget https://github.com/nosuz/kicad-symbols-footprints/archive/refs/heads/main.z
 | SI3407                | P-ch MOS FET, Vgs(th -1.4V)                                               | SOT-23_SI3407               |                    |                       |           |
 | IRLML6344             | N-ch MOS FET                                                              | SOT-23_IRLML6402            |                    | 106049                | C53550    |
 | **LEDs**              |                                                                           |                             |                    |                       |           |
+| CSL1901xW             | 1608 LED                                                                  | CSL1901xW                   |                    |                       |           |
+| CSL1901DW             | 1608 LED, Orange                                                          | CSL1901xW                   | CSL1901xW          | 130072                |           |
 | OSxx1608              | 1608 LED                                                                  | 1608_OSxx1608               |                    |                       |           |
 | OSBL1608              | 1608 LED                                                                  | 1608_OSxx1608               | OSxx1608           |                       |           |
 | OSHR1608              | 1608 LED                                                                  | 1608_OSxx1608               | OSxx1608           |                       |           |
