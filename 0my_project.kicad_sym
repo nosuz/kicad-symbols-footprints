@@ -2554,7 +2554,7 @@
 		(symbol "74HC1G14_0_1"
 			(polyline
 				(pts
-					(xy -3.81 5.08) (xy 3.81 0) (xy -3.81 -5.08) (xy -3.81 5.08)
+					(xy -2.54 2.794) (xy 1.778 0) (xy -2.54 -3.048) (xy -2.54 2.794)
 				)
 				(stroke
 					(width 0)
@@ -2565,8 +2565,8 @@
 				)
 			)
 			(rectangle
-				(start -1.27 1.27)
-				(end 0 -1.27)
+				(start -1.27 0.762)
+				(end -0.508 -0.762)
 				(stroke
 					(width 0)
 					(type default)
@@ -2577,7 +2577,7 @@
 			)
 			(polyline
 				(pts
-					(xy -1.27 1.27) (xy -2.54 1.27)
+					(xy -1.27 0.762) (xy -2.032 0.762)
 				)
 				(stroke
 					(width 0)
@@ -2589,7 +2589,7 @@
 			)
 			(polyline
 				(pts
-					(xy 0 -1.27) (xy 1.27 -1.27)
+					(xy -0.508 -0.762) (xy 0.254 -0.762)
 				)
 				(stroke
 					(width 0)
@@ -2600,8 +2600,8 @@
 				)
 			)
 			(circle
-				(center 5.08 0)
-				(radius 1.27)
+				(center 2.286 0)
+				(radius 0.508)
 				(stroke
 					(width 0)
 					(type default)
@@ -2629,7 +2629,7 @@
 				)
 			)
 			(pin no_connect line
-				(at -6.35 2.54 0)
+				(at -5.08 2.54 0)
 				(length 2.54)
 				(hide yes)
 				(name "NC"
@@ -2648,7 +2648,7 @@
 				)
 			)
 			(pin input line
-				(at -6.35 0 0)
+				(at -5.08 0 0)
 				(length 2.54)
 				(name "A"
 					(effects
@@ -2666,7 +2666,7 @@
 				)
 			)
 			(pin power_in line
-				(at 0 5.08 270)
+				(at 0 3.81 270)
 				(length 2.54)
 				(name "Vcc"
 					(effects
@@ -2684,7 +2684,7 @@
 				)
 			)
 			(pin power_in line
-				(at 0 -5.08 90)
+				(at 0 -3.81 90)
 				(length 2.54)
 				(name "GND"
 					(effects
@@ -2702,8 +2702,8 @@
 				)
 			)
 			(pin output line
-				(at 8.89 0 180)
-				(length 2.54)
+				(at 5.08 0 180)
+				(length 2.286)
 				(name "Y"
 					(effects
 						(font
