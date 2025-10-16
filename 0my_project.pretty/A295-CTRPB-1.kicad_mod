@@ -1,7 +1,7 @@
 (footprint "A295-CTRPB-1"
-	(version 20240108)
+	(version 20241229)
 	(generator "pcbnew")
-	(generator_version "8.0")
+	(generator_version "9.0")
 	(layer "F.Cu")
 	(property "Reference" "REF**"
 		(at -0.04 -3.52 0)
@@ -21,19 +21,6 @@
 		(layer "F.Fab")
 		(hide yes)
 		(uuid "01bf70fa-c2a3-4038-baaa-748e0d7ed434")
-		(effects
-			(font
-				(size 1 1)
-				(thickness 0.15)
-			)
-		)
-	)
-	(property "Footprint" ""
-		(at 0 0 0)
-		(unlocked yes)
-		(layer "F.Fab")
-		(hide yes)
-		(uuid "aa1a194d-9417-4316-a2c6-300ea47af770")
 		(effects
 			(font
 				(size 1 1)
@@ -68,15 +55,95 @@
 		)
 	)
 	(attr through_hole)
+	(fp_line
+		(start -4.425 -6.5)
+		(end -4.425 -4.95)
+		(stroke
+			(width 0.16)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "d993e407-36d6-4198-b339-8b1eeae8fc1e")
+	)
+	(fp_line
+		(start -4.425 -6.5)
+		(end 4.425 -6.5)
+		(stroke
+			(width 0.16)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "9d6b2420-176c-4569-93b1-45d7aaad27d6")
+	)
+	(fp_line
+		(start -4.425 0)
+		(end -4.425 -2.65)
+		(stroke
+			(width 0.16)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "f96a5726-173f-421d-8be8-5fd4bf0e5265")
+	)
+	(fp_line
+		(start -2.775 0)
+		(end -4.425 0)
+		(stroke
+			(width 0.16)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "0cde98d0-55cb-494f-8cfb-e5aca630d63a")
+	)
+	(fp_line
+		(start -0.85 0)
+		(end 0.85 0)
+		(stroke
+			(width 0.16)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "a5584ad5-a47c-43dd-ad18-0bd2842d1255")
+	)
+	(fp_line
+		(start 2.775 0)
+		(end 4.425 0)
+		(stroke
+			(width 0.16)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "3f440300-1ab0-4942-95da-9ca4fa48a136")
+	)
+	(fp_line
+		(start 4.425 -6.5)
+		(end 4.425 -4.95)
+		(stroke
+			(width 0.16)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "f7b9e094-567a-400a-9f3f-47f5df9dd337")
+	)
+	(fp_line
+		(start 4.425 0)
+		(end 4.425 -2.625)
+		(stroke
+			(width 0.16)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "432b5de2-9cfb-456d-9712-0bff64a59d48")
+	)
 	(fp_rect
 		(start -4.425 -6.5)
 		(end 4.425 0)
 		(stroke
 			(width 0.1)
-			(type default)
+			(type solid)
 		)
-		(fill none)
-		(layer "F.SilkS")
+		(fill no)
+		(layer "Dwgs.User")
 		(uuid "799e6645-fcca-4a19-9159-c5ff5a395253")
 	)
 	(fp_rect
@@ -86,21 +153,9 @@
 			(width 0.05)
 			(type default)
 		)
-		(fill none)
+		(fill no)
 		(layer "F.CrtYd")
 		(uuid "e402bba4-1d93-4760-9eb6-92f8c54942d3")
-	)
-	(fp_text user "${REFERENCE}"
-		(at 0 2.5 0)
-		(unlocked yes)
-		(layer "F.Fab")
-		(uuid "afa447d9-7066-40f0-8c7c-18f5ab39a004")
-		(effects
-			(font
-				(size 1 1)
-				(thickness 0.15)
-			)
-		)
 	)
 	(pad "1" thru_hole oval
 		(at 1.815 0)
@@ -134,4 +189,5 @@
 		(remove_unused_layers no)
 		(uuid "70e0eb65-966c-4e7c-a9b9-7ef84ce69bc6")
 	)
+	(embedded_fonts no)
 )
