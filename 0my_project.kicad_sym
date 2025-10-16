@@ -41794,7 +41794,7 @@
 				)
 			)
 		)
-		(property "Footprint" "0my_project:5077CR-16SMC2-BK-TR"
+		(property "Footprint" "0my_project:5077CR-16-SMC2-BK-TR"
 			(at -1.905 -2.54 0)
 			(effects
 				(font
@@ -42450,7 +42450,7 @@
 			)
 		)
 	)
-	(symbol "5077CR-16SMC2-BK-TR"
+	(symbol "5077CR-16-SMC2-BK-TR"
 		(extends "USB_Type-C")
 		(property "Reference" "CON"
 			(at -3.81 12.065 0)
@@ -42460,7 +42460,7 @@
 				)
 			)
 		)
-		(property "Value" "5077CR-16SMC2-BK-TR"
+		(property "Value" "5077CR-16-SMC2-BK-TR"
 			(at -0.635 18.415 0)
 			(effects
 				(font
@@ -42468,7 +42468,7 @@
 				)
 			)
 		)
-		(property "Footprint" "0my_project:5077CR-16SMC2-BK-TR"
+		(property "Footprint" "0my_project:5077CR-16-SMC2-BK-TR"
 			(at -2.54 -2.54 0)
 			(effects
 				(font
@@ -42487,6 +42487,15 @@
 			)
 		)
 		(property "Description" "USB Type-C Female connector"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Akizuki" "114356"
 			(at 0 0 0)
 			(effects
 				(font

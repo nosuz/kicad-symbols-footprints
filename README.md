@@ -169,10 +169,10 @@ wget https://github.com/nosuz/kicad-symbols-footprints/archive/refs/heads/main.z
 | OSX05201-GGR1         | 5 digits Bar LED, 4 Yellow-Green and 1 Red                                | DIP-10_OSX05201-X           | OSX05201-X         |                       |           |
 | SA10-11               | Single digit 7-segment LED display                                        | SA10-11                     |                    |                       |           |
 | **connectors**        |                                                                           |                             |                    |                       |           |
-| USB_Type-C            | USB Type-C socket                                                         | 5077CR-16SMC2-BK-TR         |                    |                       |           |
-| 5077CR-16SMC2-BK-TR   | USB Type-C socket                                                         | 5077CR-16SMC2-BK-TR         | USB_Type-C         | 114356                |           |
+| USB_Type-C            | USB Type-C socket                                                         | 5077CR-16-SMC2-BK-TR        |                    |                       |           |
+| 5077CR-16-SMC2-BK-TR  | USB Type-C socket                                                         | 5077CR-16-SMC2-BK-TR        | USB_Type-C         | 114356                |           |
 | GT-USB-9047A          | USB Type-C socket                                                         | GT-USB-9047A                | USB_Type-C         |                       | C5117882  |
-| TYPEC-304-ACP16       | USB Type-C socket, 5077CR-16SMC2-BK-TR compatible?                        | TYPEC-304-ACP16             | USB_Type-C         |                       | C2982555  |
+| TYPEC-304-ACP16       | USB Type-C socket, 5077CR-16-SMC2-BK-TR compatible?                       | TYPEC-304-ACP16             | USB_Type-C         |                       | C2982555  |
 | USB_Type-C_Power      | USB Type-C Power only socket                                              | UJC-HP-3-SMT-TR             |                    |                       |           |
 | A295-CTRPB-1          | USB Type-C Power only socket                                              | A295-CTRPB-1                |                    |                       |           |
 | USB-micro-B           | USB Micro B connector                                                     | ZX62R-B-5P                  | USB-micro-B        |                       |           |

@@ -6,7 +6,7 @@
 	(property "Reference" "REF**"
 		(at 0 0.5 0)
 		(layer "F.SilkS")
-		(uuid "cbc77f33-c70c-4691-8a04-3aead0e894ac")
+		(uuid "06ebd1d6-cf1d-42eb-bd4d-cda7f0c8a8a2")
 		(effects
 			(font
 				(size 1 1)
@@ -14,11 +14,11 @@
 			)
 		)
 	)
-	(property "Value" "5077CR-16SMC2-BK-TR"
+	(property "Value" "TYPEC-304-ACP16"
 		(at 0 -0.5 0)
 		(layer "F.Fab")
 		(hide yes)
-		(uuid "6c58b913-3e3f-416a-a40c-92200d25a4f6")
+		(uuid "8528a3c5-160a-444a-9696-84757fb76512")
 		(effects
 			(font
 				(size 1 1)
@@ -30,7 +30,7 @@
 		(at 0 0 0)
 		(layer "F.Fab")
 		(hide yes)
-		(uuid "c3b2dd20-5aa4-4de3-96b7-ca286fa0d545")
+		(uuid "8de1f897-e96a-4711-9f7a-40b6c2743b46")
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -42,7 +42,7 @@
 		(at 0 0 0)
 		(layer "F.Fab")
 		(hide yes)
-		(uuid "b2f9aa6c-5827-42bc-81b8-6f9b5b02ffb4")
+		(uuid "4a9c8210-4be0-4f40-81fc-630cad863ac9")
 		(effects
 			(font
 				(size 1.27 1.27)
