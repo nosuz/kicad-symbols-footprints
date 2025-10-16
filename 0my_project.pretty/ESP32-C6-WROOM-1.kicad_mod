@@ -69,7 +69,7 @@
 		(uuid "0add8c9f-d9d7-4be6-94b5-5e96d8db726c")
 	)
 	(fp_line
-		(start -9 -8.75)
+		(start -9 -8.86)
 		(end -9 -9.75)
 		(stroke
 			(width 0.2)
@@ -100,7 +100,7 @@
 	)
 	(fp_line
 		(start 9 -9.75)
-		(end 9 -8.75)
+		(end 9 -8.86)
 		(stroke
 			(width 0.2)
 			(type solid)

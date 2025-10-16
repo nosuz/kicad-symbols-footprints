@@ -1,7 +1,7 @@
 (footprint "BarrelJack_MJ-179PH"
-	(version 20240108)
+	(version 20241229)
 	(generator "pcbnew")
-	(generator_version "8.0")
+	(generator_version "9.0")
 	(layer "F.Cu")
 	(descr "2.1mm DC Barrel Jack")
 	(property "Reference" "REF**"
@@ -23,18 +23,6 @@
 		(effects
 			(font
 				(size 1 1)
-				(thickness 0.16)
-			)
-		)
-	)
-	(property "Footprint" ""
-		(at 0 0 0)
-		(layer "F.Fab")
-		(hide yes)
-		(uuid "93ed19c2-3559-42a6-8714-a652518885f4")
-		(effects
-			(font
-				(size 1.27 1.27)
 				(thickness 0.16)
 			)
 		)
@@ -85,24 +73,44 @@
 		(uuid "dc8ede1e-a799-44ec-944a-35e015a1467e")
 	)
 	(fp_line
-		(start 14.5 -4.5)
-		(end 14.5 4.5)
+		(start 0 4.5)
+		(end 8.6 4.5)
 		(stroke
 			(width 0.16)
 			(type solid)
 		)
 		(layer "F.SilkS")
-		(uuid "d3601cde-51b2-4afb-b7a7-c05d0b8c1000")
+		(uuid "d6ce7876-d2fd-45b1-899c-e2c0581126b6")
+	)
+	(fp_line
+		(start 14.5 -4.5)
+		(end 14.5 -2.1)
+		(stroke
+			(width 0.16)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "b9e18eb1-bd7a-4b44-98f9-9b89f9914e51")
 	)
 	(fp_line
 		(start 14.5 4.5)
-		(end 0 4.5)
+		(end 12.9 4.5)
 		(stroke
 			(width 0.16)
 			(type solid)
 		)
 		(layer "F.SilkS")
-		(uuid "53a4e8c8-b9a0-429b-ad96-b1292a9a5121")
+		(uuid "26124058-5ddf-48cd-85aa-d5667c067ef2")
+	)
+	(fp_line
+		(start 14.5 4.5)
+		(end 14.5 2.1)
+		(stroke
+			(width 0.16)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "233c7d73-115b-448a-afd6-a8ecc22e4750")
 	)
 	(fp_line
 		(start 0 -5.5)
@@ -208,4 +216,5 @@
 		(remove_unused_layers no)
 		(uuid "8cb4367f-e19e-49bb-a156-dca432fd3942")
 	)
+	(embedded_fonts no)
 )
