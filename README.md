@@ -224,6 +224,7 @@ wget https://github.com/nosuz/kicad-symbols-footprints/archive/refs/heads/main.z
 |                       | THT Cement resistance SQP 5W                                              | R_THT_SQP5W                 |                    |                       |           |
 | **other devices**     |                                                                           |                             |                    |                       |           |
 |                       | Barrel Jack 2.1mm                                                         | BarrelJack_MJ-179PH         |                    |                       |           |
+| 1N4001                | General Purpose Silicon Diode, 50V 1A                                     | SOD-123FL                   |                    |                       | C2892326  |
 | (SS2040FL)            | Schottky diode                                                            | Diode_SS2040FL              |                    | 102073                | C268712   |
 | TAXM12M4RLBDDT2T      | SMD Crystals 12MHz 20pF                                                   | SMD3225-4P_TAXM12M4RLBDDT2T |                    |                       |           |
 | FA-238V               | SMD Crystal                                                               | FA-238V                     |                    |                       |           |
