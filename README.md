@@ -95,6 +95,8 @@ wget https://github.com/nosuz/kicad-symbols-footprints/archive/refs/heads/main.z
 | 74LVC574              | 8-bit Latch 3-state outputs                                               |                             | 74HC574_w_Pwr      |                       |           |
 | 74LVC595              | 8-bit shift register with 3-state output                                  | SOIC-16_3.9x9.9mm_P1.27mm   |                    |                       |           |
 | 74LVC595AD            | 8-bit shift register with 3-state output                                  | SOIC-16_3.9x9.9mm_P1.27mm   | 74LVC595           |                       | C548833   |
+| SN74LVC2T45DCUR       | Dual-Bit Dual-Supply Bus Transceiver                                      | VSSOP-8_TI-DCU              |                    |                       | C15741    |
+| SN74LVC8T245PWR       | 8-Bit Dual-Supply Bus Transceiver                                         | TSSOP-24_TI-PW              |                    |                       | C27643    |
 | SN74CB3T3245          | 8-Bit FET Bus Switch with 5V-Tolerant Level Shifter                       |                             |                    |                       |           |
 | SN74CB3T3245DW        | 8-Bit FET Bus Switch with 5V-Tolerant Level Shifter                       | SOIC-20_SN74CB3T3245        | SN74CB3T3245       |                       |           |
 | 74AHC1G04             | Single Inverter Gate                                                      |                             |                    |                       |           |
