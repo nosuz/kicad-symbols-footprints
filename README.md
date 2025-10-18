@@ -103,7 +103,8 @@ wget https://github.com/nosuz/kicad-symbols-footprints/archive/refs/heads/main.z
 | 74HC1G14              | Single Inverting Schmitt trigger                                          |                             |                    |                       |           |
 | 74HC1G14GV,125        | Single Inverting Schmitt trigger                                          | SC-74A                      | 74HC1G14           |                       |           |
 | 74LVC1G14W5-7         | Single Inverting Schmitt trigger                                          | SOT-25-5                    | 74HC1G14           |                       |           |
-| SN74AHC1G04DBVR       | Single Inverter Gate                                                      | SOT-23-5_TI                 | 74AHC1G04          |                       |           |
+| SN74AHCT1G14DBV       | Single Inverter with Schmitt-Trigger Input                                | SOT-23-5_TI                 | 74HC1G14           |                       | C55250    |
+| SN74AHC1G04DBVR       | Single Inverter Gate                                                      | SOT-23-5_TI                 | 74AHC1G04          |                       | C7465     |
 | 74AHC1G07             | Buffer/Driver with Open Drain, single Gate                                |                             |                    |                       |           |
 | 74AHC1G07GV-P         | Buffer/Driver with Open Drain, single Gate                                | TSOT-23-5_74AHC1G07GV       | 74AHC1G07          |                       |           |
 | 74VLC1T45W            | Dual power supply Single bit Buffer                                       | SOT-26_74LVC1T45            |                    |                       |           |
