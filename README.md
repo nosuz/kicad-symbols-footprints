@@ -233,6 +233,7 @@ wget https://github.com/nosuz/kicad-symbols-footprints/archive/refs/heads/main.z
 | (SS2040FL)            | Schottky diode                                                            | Diode_SS2040FL              |                    | 102073                | C268712   |
 | TAXM12M4RLBDDT2T      | SMD Crystals 12MHz 20pF                                                   | SMD3225-4P_TAXM12M4RLBDDT2T |                    |                       |           |
 | FA-238V               | SMD Crystal                                                               | FA-238V                     |                    |                       |           |
+| Clock_Oscillator      | DIP Clock Oscillator                                                      | DIP-14_ClockOscillator      |                    |                       |           |
 |                       | 2P IC socket for crystal unit                                             | Y_2P                        |                    |                       |           |
 |                       | SWPA inductor                                                             | SWPA6028Sxxx                |                    |                       |           |
 |                       | Jumper ジャン太                                                           | jumper_XX-2                 |                    |                       |           |
