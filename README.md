@@ -134,7 +134,7 @@ wget https://github.com/nosuz/kicad-symbols-footprints/archive/refs/heads/main.z
 | AP2112M               | 600mA LDO Regulator                                                       | SO-8_AP2112M                |                    |                       |           |
 | AP2112M-3.3TRG1       | 600mA LDO Regulator                                                       | SO-8_AP2112M                | AP2112M            |                       |           |
 | AP2127N-xx            | 300mA LOD Regulator, SOT-23                                               | SOT-23_AP2127N              |                    |                       |           |
-| AP2127N-1.8           | 1.8V 300mA LOD Regulator, SOT-23                                          | SOT-23_AP2127N              | AP2127N-xx         |                       |           |
+| AP2127N-1.8           | 1.8V 300mA LOD Regulator, SOT-23                                          | SOT-23_AP2127N              | AP2127N-xx         |                       | C780749   |
 | ME6217C33M5G          | 800mA Low Dropout Linear Regulator                                        | SOT-23-5L                   |                    |                       |           |
 | AP7333-XXSA           | 300mA, Low Quiescent Current, Fast Transient Low Dropout Linear Regulator | SOT23_AP7333                |                    |                       |           |
 | AP7333-33SA           | 300mA, Low Quiescent Current, Fast Transient Low Dropout Linear Regulator | SOT23_AP7333                | AP7333-XXSA        |                       |           |
