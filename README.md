@@ -84,6 +84,7 @@ wget https://github.com/nosuz/kicad-symbols-footprints/archive/refs/heads/main.z
 | SN74LVC138ADR         | 3-Line to 8-Line Decoders Demultiplexers                                  | SOIC-16_SN74LVC138ADR       | 74LVC138           |                       |           |
 | 74HC139               | Dual Decoder 1 of 4 Active low outputs                                    |                             |                    |                       |           |
 | 74VHC139              | Dual Decoder 1 of 4 Active low outputs                                    |                             | 74HC139            |                       |           |
+| 74HC165D              | 8 Parallel to Serial Shift Register                                       | SOIC-16_3.9x9.9mm_P1.27mm   |                    |                       | C5613     |
 | SN74LVC245A           | Octal Bus Transceiver With 3-State Outputs                                |                             |                    |                       |           |
 | SN74LVC245APW         | Octal Bus Transceiver With 3-State Outputs                                | TSSOP-20_TI-PW              | SN74LVC245A        |                       | C7848     |
 | SN74LVC245AN          | Octal Bus Transceiver With 3-State Outputs, DIP                           | DIP-20_TI-N                 | SN74LVC245A        |                       |           |
