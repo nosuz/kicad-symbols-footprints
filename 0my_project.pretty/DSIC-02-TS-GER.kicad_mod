@@ -1,0 +1,162 @@
+(footprint "DSIC-02-TS-GER"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(descr "P=2.54mm DIP Switch, 2 units")
+	(tags "DIP switch")
+	(property "Reference" "REF**"
+		(at 4 0.5 90)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "fc095df3-61fd-40a4-b924-ea6393bc6f37")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.16)
+			)
+		)
+	)
+	(property "Value" "DSIC-02-TS-GER"
+		(at 0 1 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "5f226e4b-e54e-4816-b7ff-74556e57f2f1")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8603077218843447296"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "56feef3c-4705-4db4-a216-26b912710d35")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" "DIP Switch, 2 units"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "679bf561-d366-4584-bbeb-722f29d3b68b")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(fp_rect
+		(start -2.5 -3)
+		(end 2.5 3)
+		(stroke
+			(width 0.16)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.SilkS")
+		(uuid "38ea5f0c-c480-4360-a5f1-c913bc091f7a")
+	)
+	(fp_rect
+		(start -2 -2)
+		(end -0.5 2)
+		(stroke
+			(width 0.16)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.SilkS")
+		(uuid "8395a111-32fc-4124-968f-e5cd48eabfd3")
+	)
+	(fp_rect
+		(start -2 0.5)
+		(end -0.5 2)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(fill yes)
+		(layer "F.SilkS")
+		(uuid "d6500407-ba3e-4c8d-95b2-bd8f84d2051e")
+	)
+	(fp_rect
+		(start 0.5 0.5)
+		(end 2 2)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(fill yes)
+		(layer "F.SilkS")
+		(uuid "f1624ade-d155-4468-a7f6-375db61c8a5b")
+	)
+	(fp_poly
+		(pts
+			(xy -2.1 -4.4) (xy -3.4 -5.4) (xy -3.4 -3.4)
+		)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(fill yes)
+		(layer "F.SilkS")
+		(uuid "dc59c180-e85b-493e-b5d8-a8e3b5f35198")
+	)
+	(fp_text user "ON"
+		(at 0.1 -1.4 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "5ba31f38-e842-4b0b-8f38-1f9c7166939e")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.16)
+			)
+			(justify left bottom)
+		)
+	)
+	(pad "1" smd roundrect
+		(at -1.27 -4.4)
+		(size 1.1 2.2)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(roundrect_rratio 0.15)
+		(thermal_bridge_angle 45)
+		(uuid "e70373ae-34a7-4f4d-a3fe-0737e9854b4e")
+	)
+	(pad "2" smd roundrect
+		(at -1.27 4.4)
+		(size 1.1 2.2)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(roundrect_rratio 0.15)
+		(thermal_bridge_angle 45)
+		(uuid "8149af77-4c28-4afb-965d-5f58ca7d64fd")
+	)
+	(pad "3" smd roundrect
+		(at 1.27 -4.4)
+		(size 1.1 2.2)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(roundrect_rratio 0.15)
+		(thermal_bridge_angle 45)
+		(uuid "a2c9267c-065a-4ba9-b129-70b5efc6dd6b")
+	)
+	(pad "4" smd roundrect
+		(at 1.27 4.4)
+		(size 1.1 2.2)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(roundrect_rratio 0.15)
+		(thermal_bridge_angle 45)
+		(uuid "cb7c4b12-965d-4973-8178-691722bc048c")
+	)
+	(embedded_fonts no)
+)
