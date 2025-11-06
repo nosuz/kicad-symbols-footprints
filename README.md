@@ -63,6 +63,7 @@ wget https://github.com/nosuz/kicad-symbols-footprints/archive/refs/heads/main.z
 | SHT45                 | Relative Humidity and Temperature Sensor                                  | SHT4x                       | SH4x               |                       |           |
 | ADT7310               | SPI Temperature Sensor                                                    | SOIC_N-8                    |                    | 106859                | C578060   |
 | ADT7410               | I2C Temperature Sensor                                                    | SOIC_N-8                    |                    |                       |           |
+| AD7415ARTZ-0          | I2C Temperature Sensor                                                    | SOT-23-5L                   |                    |                       | C578433   |
 | SHTC3                 | I2C Temperature Sensor                                                    | SHTC3                       |                    |                       |           |
 | PJ8577                | I2C Temperature Sensor                                                    |                             |                    |                       |           |
 | PJ8577P               | I2C Temperature Sensor                                                    | SOIC-8_PJ8577P              | PJ8577             |                       |           |
