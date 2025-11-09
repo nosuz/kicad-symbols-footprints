@@ -103,7 +103,7 @@
 	)
 	(fp_poly
 		(pts
-			(xy -2.1 -4.4) (xy -3.4 -5.4) (xy -3.4 -3.4)
+			(xy -2.107063 4.399182) (xy -3.407063 3.399182) (xy -3.407063 5.399182)
 		)
 		(stroke
 			(width 0.1)
@@ -112,6 +112,17 @@
 		(fill yes)
 		(layer "F.SilkS")
 		(uuid "dc59c180-e85b-493e-b5d8-a8e3b5f35198")
+	)
+	(fp_rect
+		(start -3 -6)
+		(end 3 6)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(fill no)
+		(layer "F.CrtYd")
+		(uuid "4c9a75ad-45db-4181-90eb-f10d9f40931c")
 	)
 	(fp_text user "ON"
 		(at 0.1 -1.4 0)
@@ -127,20 +138,20 @@
 		)
 	)
 	(pad "1" smd roundrect
-		(at -1.27 -4.4)
-		(size 1.1 2.2)
-		(layers "F.Cu" "F.Mask" "F.Paste")
-		(roundrect_rratio 0.15)
-		(thermal_bridge_angle 45)
-		(uuid "e70373ae-34a7-4f4d-a3fe-0737e9854b4e")
-	)
-	(pad "2" smd roundrect
 		(at -1.27 4.4)
 		(size 1.1 2.2)
 		(layers "F.Cu" "F.Mask" "F.Paste")
 		(roundrect_rratio 0.15)
 		(thermal_bridge_angle 45)
 		(uuid "8149af77-4c28-4afb-965d-5f58ca7d64fd")
+	)
+	(pad "2" smd roundrect
+		(at 1.27 4.4)
+		(size 1.1 2.2)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(roundrect_rratio 0.15)
+		(thermal_bridge_angle 45)
+		(uuid "cb7c4b12-965d-4973-8178-691722bc048c")
 	)
 	(pad "3" smd roundrect
 		(at 1.27 -4.4)
@@ -151,12 +162,12 @@
 		(uuid "a2c9267c-065a-4ba9-b129-70b5efc6dd6b")
 	)
 	(pad "4" smd roundrect
-		(at 1.27 4.4)
+		(at -1.27 -4.4)
 		(size 1.1 2.2)
 		(layers "F.Cu" "F.Mask" "F.Paste")
 		(roundrect_rratio 0.15)
 		(thermal_bridge_angle 45)
-		(uuid "cb7c4b12-965d-4973-8178-691722bc048c")
+		(uuid "e70373ae-34a7-4f4d-a3fe-0737e9854b4e")
 	)
 	(embedded_fonts no)
 )
