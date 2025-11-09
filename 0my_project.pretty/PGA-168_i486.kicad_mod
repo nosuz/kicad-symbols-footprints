@@ -81,6 +81,50 @@
 		(uuid "71e62374-3001-492d-86b7-c472228955df")
 	)
 	(fp_rect
+		(start -21.59 -21.59)
+		(end 13.9 -13.97)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.CrtYd")
+		(uuid "72ddf6a5-1ada-4ecc-a5a0-f78940d99c4f")
+	)
+	(fp_rect
+		(start -21.59 -13.9)
+		(end -13.97 21.59)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.CrtYd")
+		(uuid "b0681fd4-e4d8-4c23-83e0-4faf20a84df7")
+	)
+	(fp_rect
+		(start -13.9 13.97)
+		(end 21.59 21.59)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.CrtYd")
+		(uuid "0fe59241-4998-47d0-a855-b46ebbcab787")
+	)
+	(fp_rect
+		(start 13.97 -21.59)
+		(end 21.59 13.9)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.CrtYd")
+		(uuid "13e9a866-99de-4069-9e4b-42dc19bda372")
+	)
+	(fp_rect
 		(start -22.5 -22.5)
 		(end 22.5 22.5)
 		(stroke
@@ -90,6 +134,28 @@
 		(fill no)
 		(layer "F.Fab")
 		(uuid "984f06b8-ff80-4c27-a3d8-03e070db43c3")
+	)
+	(fp_rect
+		(start -21.59 -21.59)
+		(end 21.59 21.59)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.Fab")
+		(uuid "09edb6b9-8759-4d2e-bc0d-b5429e1e21de")
+	)
+	(fp_rect
+		(start -13.97 -13.97)
+		(end 13.97 13.97)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.Fab")
+		(uuid "b562ff82-d51e-40df-bf3f-fd889967a4a3")
 	)
 	(pad "A1" thru_hole circle
 		(at 20.32 -20.32)
