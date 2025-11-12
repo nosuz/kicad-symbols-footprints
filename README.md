@@ -220,6 +220,7 @@ wget https://github.com/nosuz/kicad-symbols-footprints/archive/refs/heads/main.z
 | 2MS1-T1-B4-VS2-Q-E-S  | Toggle Switch 3Px1                                                        | 2MS1-T1-B4-VS2-Q-E-S        |                    | 100300                |           |
 | ERD216CSZ             | Rotarly Hexadecimal DIP Switch, Complimentary                             | ERD216CSZ                   |                    | 102277                |           |
 | (DSIC-02-TS-GER)      | DIP Switch, 2 units                                                       | DSIC-02-TS-GER              |                    |                       | C7471373  |
+| (DSIC-04-TS-GER)      | DIP Switch, 4 units                                                       | DSIC-04-TS-GER              |                    |                       | C7471374  |
 | **Cap and Register**  |                                                                           |                             |                    |                       |           |
 |                       | capacitor                                                                 | C_2012                      |                    |                       |           |
 |                       | capacitor                                                                 | C_2012_Large                |                    |                       |           |
