@@ -248,7 +248,7 @@ wget https://github.com/nosuz/kicad-symbols-footprints/archive/refs/heads/main.z
 |                       | M3 mounting hole                                                          | M3_mount                    |                    |                       |           |
 |                       | Snap-in plastic spacer                                                    | 4mm_SnapIn_Spacer           |                    |                       |           |
 | (PKLCS1212E4001)      | Piezo Buzzers & Audio Indicators                                          | PKLCS1212E4001              |                    | 105723                | C113159   |
-| TestPin               | Test Pin                                                                  | TEST-34                     |                    | 112217                |           |
+| TEST-34               | Test Pin                                                                  | TEST-34                     |                    | 112217                |           |
 | Logo_image            | My logo image                                                             | Icon_Nosuz                  |                    |                       |           |
 
 ## Modules Memo
