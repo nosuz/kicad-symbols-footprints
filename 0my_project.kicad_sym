@@ -51872,6 +51872,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C5189013"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(property "ki_keywords" "slide switch 1 circuit 3P"
 			(at 0 0 0)
 			(effects

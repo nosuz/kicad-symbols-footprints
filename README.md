@@ -216,7 +216,7 @@ wget https://github.com/nosuz/kicad-symbols-footprints/archive/refs/heads/main.z
 | IS-2235-G             | Slide Switch 2x2                                                          | IS-2235-G                   | SLIDE_SWITCH_2x2   | 102627                |           |
 | Toggle_Switch_2x3P    | Toggle switch 2 circuit                                                   |                             |                    |                       |           |
 | 2MD1-T2-B4-M2-Q-N     | Toggle switch 2 x 3P                                                      | 2MD1-T2-B4-M2-Q-N           | Toggle_Switch_2x3P |                       |           |
-| SS-12SDP2             |                                                                           | SS-12SDP2                   | Slide_Switch_1_3P  | 115643                |           |
+| SS-12SDP2             |                                                                           | SS-12SDP2                   | Slide_Switch_1_3P  | 115643                | C5189013  |
 | 2MS1-T1-B4-VS2-Q-E-S  | Toggle Switch 3Px1                                                        | 2MS1-T1-B4-VS2-Q-E-S        |                    | 100300                |           |
 | ERD216CSZ             | Rotarly Hexadecimal DIP Switch, Complimentary                             | ERD216CSZ                   |                    | 102277                |           |
 | (DSIC-02-TS-GER)      | DIP Switch, 2 units                                                       | DSIC-02-TS-GER              |                    |                       | C7471373  |
