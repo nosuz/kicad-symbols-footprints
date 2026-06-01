@@ -37029,7 +37029,7 @@
 			)
 		)
 		(property "Footprint" "0my_project:SODIMM_2-2013310-x_TEC"
-			(at 34.798 -22.86 0)
+			(at 20.574 6.604 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -37039,7 +37039,7 @@
 			)
 		)
 		(property "Datasheet" "https://wiki.sipeed.com/hardware/en/tang/tang-primer-20k/primer-20k.html"
-			(at 5.08 -3.81 0)
+			(at -17.78 3.81 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -37049,7 +37049,7 @@
 			)
 		)
 		(property "Description" "Sipeed Tang Primer 20K FPGA module"
-			(at 0 0 0)
+			(at 0.254 6.35 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -40108,7 +40108,7 @@
 			(pin bidirectional line
 				(at 58.42 -71.12 180)
 				(length 5.08)
-				(name "E15_IOT6A/0"
+				(name "E16_IOT6A/0"
 					(effects
 						(font
 							(size 1.27 1.27)
