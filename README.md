@@ -112,6 +112,8 @@ wget https://github.com/nosuz/kicad-symbols-footprints/archive/refs/heads/main.z
 | 74AHC1G07               | Buffer/Driver with Open Drain, single Gate                                |                                |                    |                       |           |
 | 74AHC1G07GV-P           | Buffer/Driver with Open Drain, single Gate                                | TSOT-23-5_74AHC1G07GV          | 74AHC1G07          |                       |           |
 | 74VLC1T45W              | Dual power supply Single bit Buffer                                       | SOT-26_74LVC1T45               |                    |                       |           |
+| STP16CPS05              | 16-ch LED CC Sink Driver                                                  |                                |                    |                       |           |
+| STP16CPS05TTR           | 16-ch LED CC Sink Driver                                                  | TSSOP-24                       | STP16CPS05         |                       | C2678584  |
 | TC7S32                  | 2-Input OR Gate, Single gate                                              |                                |                    |                       |           |
 | TBD62783A               | 8-ch Transistor Array                                                     |                                |                    |                       |           |
 | TBD62783AFG             | 8-ch Transistor Array                                                     | TBD62783A                      | SOP-18             |                       | C97745    |
