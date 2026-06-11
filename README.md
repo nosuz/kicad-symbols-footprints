@@ -113,6 +113,8 @@ wget https://github.com/nosuz/kicad-symbols-footprints/archive/refs/heads/main.z
 | 74AHC1G07GV-P           | Buffer/Driver with Open Drain, single Gate                                | TSOT-23-5_74AHC1G07GV          | 74AHC1G07          |                       |           |
 | 74VLC1T45W              | Dual power supply Single bit Buffer                                       | SOT-26_74LVC1T45               |                    |                       |           |
 | TC7S32                  | 2-Input OR Gate, Single gate                                              |                                |                    |                       |           |
+| TBD62783A               | 8-ch Transistor Array                                                     |                                |                    |                       |           |
+| TBD62783AFG             | 8-ch Transistor Array                                                     | TBD62783A                      | SOP-18             |                       | C97745    |
 | TC7S32F                 | 2-Input OR Gate, Single gate                                              | SSOP5_TC7S32F                  | TC7S32             |                       |           |
 | TC7S32FU                | 2-Input OR Gate, Single gate                                              | SSOP5_TC7S32FU                 | TC7S32             |                       |           |
 | TXB0104D                | 4-Bit Bidirectional Voltage-Level Translator, SOIC                        | SOIC-14_TXB0104                |                    |                       |           |
