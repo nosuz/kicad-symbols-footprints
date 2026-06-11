@@ -175,6 +175,8 @@ wget https://github.com/nosuz/kicad-symbols-footprints/archive/refs/heads/main.z
 | ORH-x36x                | LED, 1608                                                                 | ORH-x36x                       |                    |                       |           |
 | ORH-YG36A               | LED, 1608                                                                 | ORH-x36x                       | ORH-x36x           |                       | C205450   |
 | ORH-R36A                | LED, 1608                                                                 | ORH-x36x                       | ORH-x36x           |                       |           |
+| OSL641501-XX            | LED Dot Matrix                                                            | OSL641501-XX                   |                    |                       |           |
+| OSL641501-AX            | LED Dot Matrix                                                            | OSL641501-XX                   | OSL641501-AX       | 105163                |           |
 | SM412301N               | Red 7 segments LED display                                                | SM412301N                      |                    |                       |           |
 | OSX05201-X              | 5 digits Bar LED                                                          | DIP-10_OSX05201-X              |                    |                       |           |
 | OSX05201-GGR1           | 5 digits Bar LED, 4 Yellow-Green and 1 Red                                | DIP-10_OSX05201-X              | OSX05201-X         |                       |           |
